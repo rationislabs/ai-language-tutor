@@ -1,0 +1,40 @@
+lang: de
+level: A2
+title: "Das kaputte Fahrrad"
+names: [Emil, Mia, Jonas]
+new_words: [Fahrrad, Reifen, Loch, reparieren, Video]
+sentences:
+  - text: "Emil will mit dem Fahrrad zu seinem Freund fahren, aber ein Reifen ist kaputt."
+    picture: 🚲
+    help: {en: "Emil wants to ride his bike to his friend's, but one of the tyres is broken.", de: "Emil kann nicht mit dem Rad fahren, weil ein Reifen kaputt ist."}
+  - text: "In dem Reifen ist ein kleines Loch, und die Luft ist raus."
+    picture: 🕳️
+    help: {en: "There's a small hole in the tyre and the air has gone out.", de: "Der Reifen ist platt."}
+  - text: "Mia hat keine Zeit, denn sie muss gleich arbeiten."
+    picture: ⏰
+    help: {en: "Mia has no time because she has to go to work soon.", de: "Mia kann nicht helfen. Sie muss zur Arbeit."}
+  - text: "Da kommt Jonas aus dem Haus und sieht Emil mit dem Fahrrad."
+    picture: 🏠
+    help: {en: "Just then Jonas comes out of the building and sees Emil with the bike.", de: "Jonas sieht das Problem."}
+  - text: "„Ich bin zwar Koch, aber vielleicht kann ich das reparieren.“"
+    speaker: 1
+    picture: 🔧
+    help: {en: "“I may be a cook, but maybe I can fix that.”", de: "Jonas will es versuchen, auch wenn er kein Fachmann ist."}
+  - text: "Zusammen sehen sie sich auf dem Handy ein Video an."
+    picture: 📱
+    help: {en: "Together they watch a video on the phone.", de: "Ein Film im Handy zeigt, wie man das macht."}
+  - text: "Im Video sieht alles ganz leicht aus."
+    picture: 🤔
+    help: {en: "In the video it all looks really easy.", de: "Im Film ist es einfach."}
+  - text: "Aber es dauert lange, und Jonas sagt ein paar böse Wörter."
+    picture: 😤
+    help: {en: "But it takes a long time, and Jonas says a few rude words.", de: "In Wirklichkeit ist es schwer. Jonas ärgert sich."}
+  - text: "Endlich ist das Loch zu, und der Reifen hat wieder Luft."
+    picture: ✅
+    help: {en: "Finally the hole is closed and the tyre has air again.", de: "Jetzt ist der Reifen wieder gut."}
+  - text: "Emil fährt einmal um das Haus und ruft: „Es funktioniert!“"
+    picture: 🎉
+    help: {en: "Emil rides once around the building and shouts: “It works!”", de: "Emil probiert das Fahrrad aus. Alles ist gut."}
+  - text: "Am Abend erzählt er Mia: „Jonas kann nicht nur kochen, er kann auch Fahrräder reparieren!“"
+    picture: 😄
+    help: {en: "In the evening he tells Mia: “Jonas can't just cook, he can fix bikes too!”", de: "Emil ist stolz auf Jonas."}

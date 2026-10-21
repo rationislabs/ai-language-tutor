@@ -1,0 +1,40 @@
+lang: de
+level: A2
+title: "Kochen mit Freunden"
+names: [Jonas, Tim, Mia, Lena]
+new_words: [Zwiebel, schneiden, Nudel, Soße, Salz, weich]
+sentences:
+  - text: "Am Abend kocht Jonas mit Freunden in seiner Küche."
+    picture: 👨‍🍳
+    help: {en: "In the evening Jonas cooks with friends in his kitchen.", de: "Jonas und seine Freunde machen zusammen das Essen."}
+  - text: "Jeder bekommt eine Aufgabe."
+    picture: 📋
+    help: {en: "Everyone gets a job.", de: "Alle müssen etwas tun."}
+  - text: "Tim schneidet Zwiebeln und weint."
+    picture: 🧅
+    help: {en: "Tim chops onions and cries.", de: "Bei den Zwiebeln kommen Tim die Tränen."}
+  - text: "Mia kocht die Nudeln, und Lena macht die Soße."
+    picture: 🍝
+    help: {en: "Mia cooks the pasta and Lena makes the sauce.", de: "Mia und Lena haben auch eine Aufgabe."}
+  - text: "Jonas erklärt alles ganz genau."
+    picture: 🧑‍🏫
+    help: {en: "Jonas explains everything very carefully.", de: "Jonas zeigt, wie man es richtig macht."}
+  - text: "Aber dann ruft sein Chef an, und er geht kurz aus der Küche."
+    picture: 📞
+    help: {en: "But then his boss calls, and he leaves the kitchen for a moment.", de: "Jonas telefoniert und ist eine Weile weg."}
+  - text: "Mia und Tim reden und lachen – und vergessen die Nudeln."
+    picture: 😂
+    help: {en: "Mia and Tim chat and laugh – and forget the pasta.", de: "Mia und Tim denken nicht mehr an das Essen."}
+  - text: "Lena gibt zu viel Salz in die Soße."
+    picture: 🧂
+    help: {en: "Lena puts too much salt in the sauce.", de: "Die Soße ist nicht gut."}
+  - text: "Als Jonas wieder in die Küche kommt, sind die Nudeln zu weich, und in der Soße ist zu viel Salz."
+    picture: 😬
+    help: {en: "When Jonas comes back into the kitchen, the pasta is too soft and there is too much salt in the sauce.", de: "Das Essen ist kaputt."}
+  - text: "Jonas lacht und schneidet neue Zwiebeln: „Wir fangen noch einmal an.“"
+    speaker: 1
+    picture: 🔄
+    help: {en: "Jonas laughs and chops new onions: “Let's start again.”", de: "Jonas ist nicht böse. Sie kochen alles neu."}
+  - text: "Um zehn Uhr essen sie endlich: Diesmal sind die Nudeln nicht zu weich, und alle finden das Essen super."
+    picture: 🍽️
+    help: {en: "At ten o'clock they finally eat: this time the pasta isn't too soft, and everyone thinks the food is great.", de: "Am Ende schmeckt es allen sehr gut."}

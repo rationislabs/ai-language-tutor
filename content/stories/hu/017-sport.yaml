@@ -1,0 +1,36 @@
+lang: hu
+level: A1
+title: Sport
+names: [Anna, Péter]
+new_words: [sport, reggel, fut, park, foci, játszik]
+lemma_overrides: {igen: igen, játszik: játszik}
+sentences:
+  - text: "Anna szereti a sportot."
+    picture: "🏅"
+    help: {en: "Anna likes sport.", de: "Anna mag Sport."}
+  - text: "Reggel Anna a parkban fut."
+    picture: "🏃‍♀️"
+    help: {en: "In the morning Anna runs in the park.", de: "Morgens läuft Anna im Park."}
+  - text: "Péter is szereti a sportot. Szombaton focit játszik."
+    picture: "⚽"
+    help: {en: "Péter likes sport too. On Saturdays he plays football.", de: "Péter mag auch Sport. Samstags spielt er Fußball."}
+  - text: "Anna, te is játszol focit?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "Anna, do you play football too?", de: "Anna, spielst du auch Fußball?"}
+  - text: "Nem, én nem játszom. Én futok."
+    speaker: 2
+    picture: "👟"
+    help: {en: "No, I don't play. I run.", de: "Nein, ich spiele nicht. Ich laufe."}
+  - text: "Te futsz? Reggel?"
+    speaker: 1
+    picture: "😮"
+    help: {en: "You run? In the morning?", de: "Du läufst? Am Morgen?"}
+  - text: "Igen, reggel, a parkban."
+    speaker: 2
+    picture: "🌳"
+    help: {en: "Yes, in the morning, in the park.", de: "Ja, am Morgen, im Park."}
+  - text: "Reggel én alszom. Az is jó sport!"
+    speaker: 1
+    picture: "😴"
+    help: {en: "In the morning I sleep. That's a good sport too!", de: "Am Morgen schlafe ich. Das ist auch ein guter Sport!"}

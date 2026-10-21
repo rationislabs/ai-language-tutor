@@ -1,0 +1,43 @@
+lang: de
+level: B1
+title: "Das Konzert"
+names: [Lena, Jonas, Hilde]
+new_words: [Konzert, Sängerin, Bühne, Lied]
+lemma_overrides: {Erste: erst}
+sentences:
+  - text: "Lena hatte schon vor Monaten zwei Karten für das Konzert einer Sängerin gekauft, die sie sehr mochte."
+    picture: 🎫
+    help: {en: "Months ago Lena had bought two tickets for a concert by a singer she really liked.", de: "Lena freute sich lange auf das Konzert."}
+  - text: "Doch am Abend des Konzerts musste Jonas im Hotel arbeiten, weil ein Kollege krank geworden war."
+    picture: 🏨
+    help: {en: "But on the evening of the concert Jonas had to work at the hotel because a colleague had fallen ill.", de: "Jonas konnte nicht mitkommen."}
+  - text: "Weil sie nicht allein gehen wollte, fragte sie Oma Hilde, ob sie die zweite Karte haben wollte."
+    picture: 📞
+    help: {en: "Because she didn't want to go alone, she asked Grandma Hilde if she wanted the second ticket.", de: "Lena lud ihre Oma ein."}
+  - text: "Zu ihrer Überraschung sagte Oma sofort ja."
+    picture: 😮
+    help: {en: "To her surprise, Grandma said yes straight away.", de: "Oma wollte gern mitkommen."}
+  - text: "Überall waren junge Leute, und Lena hatte Angst, dass es Oma zu laut sein würde."
+    picture: 🎸
+    help: {en: "There were young people everywhere, and Lena was worried it would be too loud for Grandma.", de: "Lena machte sich Sorgen um Oma."}
+  - text: "Aber als die Sängerin auf die Bühne kam, war Oma die Erste, die tanzte."
+    picture: 💃
+    help: {en: "But when the singer came on stage, Grandma was the first to dance.", de: "Oma tanzte sofort los."}
+  - text: "Sie kannte zwar kein einziges Lied, aber sie tanzte und sang laut mit."
+    picture: 🎶
+    help: {en: "She didn't know a single song, but she danced and sang along loudly.", de: "Oma hatte viel Freude."}
+  - text: "Bald war Oma ganz vorne an der Bühne."
+    picture: 👵
+    help: {en: "Soon Grandma was standing right at the front by the stage.", de: "Oma war jetzt ganz vorne."}
+  - text: "„Dieses Lied ist für die Dame da vorne!“, rief die Sängerin."
+    picture: 🎤
+    help: {en: "“This song is for the lady at the front!” the singer called out.", de: "Die Sängerin sang ein Lied nur für Oma."}
+  - text: "Alle drehten sich zu Oma um und freuten sich mit ihr."
+    picture: 🥳
+    help: {en: "Everyone turned towards Grandma and was happy for her.", de: "Alle Leute feierten Oma."}
+  - text: "Auf dem Weg nach Hause sagte Oma: „Wenn ich gewusst hätte, wie schön das ist, wäre ich schon viel früher auf Konzerte gegangen.“"
+    picture: 🌙
+    help: {en: "On the way home Grandma said: “If I'd known how wonderful it is, I'd have gone to concerts much earlier.”", de: "Oma will jetzt öfter auf Konzerte gehen."}
+  - text: "Lena lachte: Beim nächsten Konzert muss Jonas wohl allein zu Hause bleiben."
+    picture: 😂
+    help: {en: "Lena laughed: at the next concert Jonas will probably have to stay home alone.", de: "Lena geht nächstes Mal wieder mit Oma."}

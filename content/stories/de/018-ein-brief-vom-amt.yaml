@@ -1,0 +1,43 @@
+lang: de
+level: A2
+title: "Ein Brief vom Amt"
+names: [Mia, Lena]
+new_words: [Amt, Formular, unterschreiben]
+lemma_overrides: {Hat: haben, Muss: müssen}
+sentences:
+  - text: "Mia findet einen Brief vom Amt."
+    picture: ✉️
+    help: {en: "Mia finds a letter from the authorities.", de: "Mia bekommt Post von einer Behörde."}
+  - text: "Der Brief hat drei Seiten, und die Wörter sind sehr lang."
+    picture: 📄
+    help: {en: "The letter is three pages long, and the words are very long.", de: "Der Brief ist lang und schwer zu lesen."}
+  - text: "Mia liest ihn noch einmal, aber sie versteht fast nichts."
+    picture: 😵‍💫
+    help: {en: "Mia reads it again, but she understands almost nothing.", de: "Mia versteht den Brief nicht."}
+  - text: "Hat sie etwas falsch gemacht? Muss sie Geld bezahlen?"
+    picture: 😟
+    help: {en: "Has she done something wrong? Does she have to pay money?", de: "Mia hat Angst vor Problemen."}
+  - text: "Am Abend zeigt sie Lena den Brief."
+    picture: 🏠
+    help: {en: "In the evening she shows Lena the letter.", de: "Mia bittet Lena um Hilfe."}
+  - text: "Lena liest langsam und lacht dann."
+    picture: 😄
+    help: {en: "Lena reads slowly and then laughs.", de: "Lena versteht den Brief und ist ganz ruhig."}
+  - text: "„Keine Angst! Das Amt will nur deine neue Adresse.“"
+    speaker: 2
+    picture: 📍
+    help: {en: "“Don't worry! The office just wants your new address.”", de: "Es ist kein Problem. Mia soll nur sagen, wo sie jetzt wohnt."}
+  - text: "„Du musst nur deine Adresse in dieses Formular schreiben und unterschreiben.“"
+    speaker: 2
+    picture: 📝
+    help: {en: "“You just have to write your address on this form and sign it.”", de: "Mia muss ein Papier ausfüllen."}
+  - text: "Mia schreibt ihren Namen und die neue Adresse in das Formular."
+    picture: ✍️
+    help: {en: "Mia writes her name and new address on the form.", de: "Mia füllt das Papier aus."}
+  - text: "Dann unterschreibt sie und fragt: „Drei Seiten für eine Adresse?“"
+    picture: 🤨
+    help: {en: "Then she signs and asks: “Three pages for an address?”", de: "Mia findet den langen Brief komisch."}
+  - text: "Lena lacht: „Das Amt liebt lange Briefe.“"
+    speaker: 2
+    picture: 😂
+    help: {en: "Lena laughs: “The authorities love long letters.”", de: "Lena macht einen Witz über das Amt."}

@@ -1,0 +1,51 @@
+lang: hu
+level: A1
+title: A családom
+names: [Anna, Péter, Éva, János, Kati]
+new_words: [család, ki, ez, anya, apa, húg]
+lemma_overrides: {igen: igen, anyám: anya, apám: apa, húgom: húg, húgod: húg, vagyunk: van}
+sentences:
+  - text: "Anna, ez a családom."
+    speaker: 1
+    picture: "🖼️"
+    help: {en: "Anna, this is my family.", de: "Anna, das ist meine Familie."}
+  - text: "Ki ez, Péter?"
+    speaker: 2
+    picture: "🤔"
+    help: {en: "Who is this, Péter?", de: "Wer ist das, Péter?"}
+  - text: "Ez az anyám. A neve Éva."
+    speaker: 1
+    picture: "👩"
+    help: {en: "This is my mother. Her name is Éva.", de: "Das ist meine Mutter. Sie heißt Éva."}
+  - text: "És ki ez?"
+    speaker: 2
+    picture: "👉"
+    help: {en: "And who is this?", de: "Und wer ist das?"}
+  - text: "Ez az apám. A neve János."
+    speaker: 1
+    picture: "👨"
+    help: {en: "This is my father. His name is János.", de: "Das ist mein Vater. Er heißt János."}
+  - text: "És ez? Ez a húgod?"
+    speaker: 2
+    picture: "👧"
+    help: {en: "And this? Is this your little sister?", de: "Und das? Ist das deine kleine Schwester?"}
+  - text: "Igen, ez a húgom. A neve Kati."
+    speaker: 1
+    picture: "😊"
+    help: {en: "Yes, this is my little sister. Her name is Kati.", de: "Ja, das ist meine kleine Schwester. Sie heißt Kati."}
+  - text: "Az anyád is magyar?"
+    speaker: 2
+    picture: "🇭🇺"
+    help: {en: "Is your mother Hungarian too?", de: "Ist deine Mutter auch Ungarin?"}
+  - text: "Nem, az anyám német. Az apám magyar."
+    speaker: 1
+    picture: "🇩🇪"
+    help: {en: "No, my mother is German. My father is Hungarian.", de: "Nein, meine Mutter ist Deutsche. Mein Vater ist Ungar."}
+  - text: "Az anyád német? Én is német vagyok!"
+    speaker: 2
+    picture: "😮"
+    help: {en: "Your mother is German? I'm German too!", de: "Deine Mutter ist Deutsche? Ich bin auch Deutsche!"}
+  - text: "Igen. A családom magyar és német."
+    speaker: 1
+    picture: "👨‍👩‍👧‍👦"
+    help: {en: "Yes. My family is Hungarian and German.", de: "Ja. Meine Familie ist ungarisch und deutsch."}

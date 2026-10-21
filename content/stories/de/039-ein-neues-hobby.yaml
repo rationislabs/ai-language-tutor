@@ -1,0 +1,43 @@
+lang: de
+level: B1
+title: "Ein neues Hobby"
+names: [Lena, Jonas, Hilde]
+new_words: [Hobby, Pflanze, Kraut, wachsen]
+lemma_overrides: {Beste: gut, Jeden: jeder, Wachsen: wachsen}
+sentences:
+  - text: "Seit Jonas als Küchenchef so viel arbeitet, hat Lena am Abend oft Zeit für sich."
+    picture: 🌆
+    help: {en: "Since Jonas has been working so much as head chef, Lena often has the evenings to herself.", de: "Lena ist am Abend oft allein."}
+  - text: "Sie hatte schon einiges probiert, aber nichts hatte ihr wirklich gefallen."
+    picture: 🤷‍♀️
+    help: {en: "She had already tried a few things, but nothing had really appealed to her.", de: "Lena suchte lange nach einer Beschäftigung."}
+  - text: "Eines Tages brachte Oma Hilde ihr ein paar kleine Pflanzen für den Balkon."
+    picture: 🪴
+    help: {en: "One day Grandma Hilde brought her a few small plants for the balcony.", de: "Oma schenkte Lena Pflanzen."}
+  - text: "„Tomaten und Kräuter, damit dein Koch frische Sachen hat“, sagte sie."
+    picture: 🍅
+    help: {en: "“Tomatoes and herbs, so your cook has fresh ingredients,” she said.", de: "Die Pflanzen sind für die Küche von Jonas."}
+  - text: "Lena hatte keine Ahnung von Pflanzen, aber sie las viel darüber und gab ihnen jeden Morgen Wasser."
+    picture: 💧
+    help: {en: "Lena knew nothing about plants, but she read a lot about them and watered them every morning.", de: "Lena lernte schnell und kümmerte sich gut um die Pflanzen."}
+  - text: "Zuerst passierte lange nichts, und Lena dachte schon, sie hätte etwas falsch gemacht."
+    picture: ⏳
+    help: {en: "At first nothing happened for a long time, and Lena was beginning to think she had done something wrong.", de: "Lena war unsicher, weil nichts passierte."}
+  - text: "Doch dann wuchsen die ersten kleinen Tomaten, und die Kräuter wurden groß."
+    picture: 🌱
+    help: {en: "But then the first little tomatoes grew, and the herbs got big.", de: "Endlich kam der Erfolg."}
+  - text: "Jeden Abend saß Lena jetzt auf dem Balkon und schaute ihren Pflanzen beim Wachsen zu."
+    picture: 🌇
+    help: {en: "Every evening Lena now sat on the balcony watching her plants grow.", de: "Lena genoss die Zeit auf dem Balkon."}
+  - text: "Ein paar Wochen später kochte Jonas zum ersten Mal mit Tomaten vom eigenen Balkon."
+    picture: 🍝
+    help: {en: "A few weeks later Jonas cooked with tomatoes from their own balcony for the first time.", de: "Jonas benutzte Lenas Tomaten zum Kochen."}
+  - text: "„Die sind besser als die vom Markt“, sagte er, „aber erzähl das bitte nicht Oma.“"
+    picture: 🤫
+    help: {en: "“They're better than the ones from the market,” he said, “but please don't tell Grandma.”", de: "Jonas findet Lenas Tomaten sehr gut."}
+  - text: "Lena lachte, denn sie hatte endlich ein Hobby gefunden, das ihr wirklich Freude machte."
+    picture: 😊
+    help: {en: "Lena laughed, because she had finally found a hobby that she really enjoyed.", de: "Lena hat jetzt ein schönes Hobby."}
+  - text: "Und das Beste daran: Dieses Hobby kann man sogar essen."
+    picture: 🥗
+    help: {en: "And the best thing about it: you can even eat this hobby.", de: "Das Hobby bringt auch gutes Essen."}

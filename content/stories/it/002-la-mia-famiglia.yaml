@@ -1,0 +1,40 @@
+lang: it
+level: A1
+title: La mia famiglia
+names: [Marco, Anna, Luca]
+new_words: [questo, mio, tuo, famiglia, madre, giovane]
+lemma_overrides: {della: di}
+sentences:
+- text: Marco, questa è la mia famiglia.
+  speaker: 1
+  picture: 📷
+  help: {en: 'Marco, this is my family.', de: 'Marco, das ist meine Familie.'}
+- text: Questo è Luca.
+  speaker: 1
+  picture: 👦
+  help: {en: This is Luca., de: Das ist Luca.}
+- text: E questa è tua sorella?
+  picture: 👩
+  help: {en: 'And is this your sister?', de: 'Und ist das deine Schwester?'}
+- text: No, non è mia sorella.
+  speaker: 1
+  picture: 🙅‍♀️
+  help: {en: 'No, she isn''t my sister.', de: 'Nein, das ist nicht meine Schwester.'}
+- text: È mia madre!
+  speaker: 1
+  picture: 👩‍👧
+  help: {en: She's my mother!, de: Das ist meine Mutter!}
+- text: Tua madre? Ma è giovane!
+  picture: 😲
+  help: {en: 'Your mother? But she''s young!', de: 'Deine Mutter? Aber sie ist jung!'}
+- text: La madre di Anna è qui.
+  picture: 🚪
+  help: {en: Anna's mother is here., de: Annas Mutter ist hier.}
+- text: Giovane? Grazie, Marco!
+  speaker: 2
+  picture: 😊
+  help: {en: 'Young? Thank you, Marco!', de: 'Jung? Danke, Marco!'}
+- text: Tu sei un amico della famiglia!
+  speaker: 2
+  picture: 🏡
+  help: {en: You're a friend of the family!, de: Du bist ein Freund der Familie!}

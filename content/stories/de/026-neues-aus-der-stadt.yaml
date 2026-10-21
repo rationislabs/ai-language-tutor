@@ -1,0 +1,46 @@
+lang: de
+level: A2
+title: "Neues aus der Stadt"
+names: [Hilde, Lena, Jonas, Emil]
+new_words: [Zeitung, Artikel, berühmt, darunter]
+lemma_overrides: {gegessen: essen, Hast: haben}
+sentences:
+  - text: "Oma Hilde liest jeden Morgen die Zeitung."
+    picture: 📰
+    help: {en: "Grandma Hilde reads the newspaper every morning.", de: "Oma liest jeden Tag die Nachrichten auf Papier."}
+  - text: "Heute ruft sie Lena an: „Hast du schon die Zeitung gelesen?“"
+    speaker: 1
+    picture: 📞
+    help: {en: "Today she calls Lena: “Have you read the paper yet?”", de: "Oma will Lena etwas aus der Zeitung erzählen."}
+  - text: "„Auf Seite drei gibt es einen Artikel über das Schulfest!“"
+    speaker: 1
+    picture: 🗞️
+    help: {en: "“There's an article about the school fair on page three!”", de: "In der Zeitung steht etwas über das Fest in der Schule."}
+  - text: "Lena kauft sofort eine Zeitung und sucht die Seite."
+    picture: 🔍
+    help: {en: "Lena buys a newspaper straight away and looks for the page.", de: "Lena will den Text sofort lesen."}
+  - text: "Über dem Artikel ist ein großes Foto."
+    picture: 📸
+    help: {en: "There is a big photo above the article.", de: "Zum Text gibt es ein Bild."}
+  - text: "Auf dem Foto kochen Jonas und Emil zusammen."
+    picture: 👨‍🍳
+    help: {en: "The photo shows Jonas and Emil cooking together.", de: "Man sieht Jonas und Emil in der Küche."}
+  - text: "Darunter steht: „Ein Küchenchef und ein kleiner Koch machen das beste Essen der Stadt.“"
+    picture: ⭐
+    help: {en: "Underneath it says: “A head chef and a little cook make the best food in town.”", de: "Unter dem Bild steht ein Satz über die zwei."}
+  - text: "In dem Artikel darunter steht, dass sehr viele Leute beim Schulfest gegessen haben."
+    picture: 🍽️
+    help: {en: "The article below it says that lots of people ate at the school fair.", de: "Viele Leute waren beim Fest und haben gegessen."}
+  - text: "Emil ist jetzt in seiner Schule berühmt."
+    picture: 🌟
+    help: {en: "Emil is now famous at his school.", de: "Alle in der Schule kennen jetzt Emil."}
+  - text: "Er nimmt die Zeitung mit in die Schule und zeigt sie allen."
+    picture: 🎒
+    help: {en: "He takes the newspaper to school and shows it to everyone.", de: "Emil ist stolz und zeigt den Artikel."}
+  - text: "Am Telefon sagt Oma: „Jetzt haben wir zwei berühmte Köche in der Familie.“"
+    speaker: 1
+    picture: 👵
+    help: {en: "On the phone Grandma says: “Now we have two famous cooks in the family.”", de: "Oma ist stolz auf Jonas und Emil."}
+  - text: "Dann schneidet sie den Artikel aus und hängt ihn in ihre Küche, direkt über ihr altes Rezept."
+    picture: 🖼️
+    help: {en: "Then she cuts out the article and hangs it in her kitchen, right above her old recipe.", de: "Oma hängt den Text an die Wand in der Küche."}

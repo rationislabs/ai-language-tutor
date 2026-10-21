@@ -1,0 +1,38 @@
+lang: it
+level: A1
+title: I vestiti
+names: [Marco, Anna]
+new_words: [vestito, mi, ti, rosso, nero, o]
+lemma_overrides: {vestito: vestito}
+sentences:
+- text: Anna vuole un vestito per sabato.
+  picture: 👗
+  help: {en: Anna wants a dress for Saturday., de: Anna will ein Kleid für Samstag.}
+- text: Marco, ti piace il vestito rosso?
+  speaker: 1
+  picture: 🔴
+  help: {en: 'Marco, do you like the red dress?', de: 'Marco, gefällt dir das rote Kleid?'}
+- text: Sì, mi piace.
+  picture: 👍
+  help: {en: 'Yes, I like it.', de: 'Ja, es gefällt mir.'}
+- text: E il vestito nero? Ti piace?
+  speaker: 1
+  picture: ⚫
+  help: {en: 'And the black dress? Do you like it?', de: 'Und das schwarze Kleid? Gefällt es dir?'}
+- text: Sì, mi piace anche il vestito nero.
+  picture: 👍
+  help: {en: 'Yes, I like the black dress too.', de: 'Ja, das schwarze Kleid gefällt mir auch.'}
+- text: Rosso o nero?
+  speaker: 1
+  picture: 🤔
+  help: {en: 'Red or black?', de: 'Rot oder schwarz?'}
+- text: Rosso! No, nero! No, rosso!
+  picture: 😵
+  help: {en: 'Red! No, black! No, red!', de: 'Rot! Nein, schwarz! Nein, rot!'}
+- text: Marco!
+  speaker: 1
+  picture: 😤
+  help: {en: Marco!, de: Marco!}
+- text: Rosso o nero? Tu mi piaci in rosso e in nero!
+  picture: 😊
+  help: {en: 'Red or black? I like you in red and in black!', de: 'Rot oder schwarz? Du gefällst mir in Rot und in Schwarz!'}

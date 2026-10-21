@@ -1,0 +1,47 @@
+lang: de
+level: A2
+title: "Beim Arzt"
+names: [Jonas, Lena]
+new_words: [Fieber, Ärztin, Suppe]
+lemma_overrides: {Warten: warten}
+sentences:
+  - text: "Am Morgen hat Jonas Fieber, und sein Hals tut weh."
+    picture: 🤒
+    help: {en: "In the morning Jonas has a temperature and his throat hurts.", de: "Jonas ist krank. Er ist sehr warm und hat Schmerzen beim Schlucken."}
+  - text: "Er ruft seinen Chef an und sagt, dass er heute nicht arbeiten kann."
+    picture: 📞
+    help: {en: "He calls his boss and says he can't work today.", de: "Jonas telefoniert mit dem Chef. Er bleibt heute zu Hause."}
+  - text: "Dann geht er zur Ärztin."
+    picture: 🏥
+    help: {en: "Then he goes to the doctor.", de: "Danach geht er in die Arztpraxis."}
+  - text: "Dort sitzen schon zehn Leute und warten."
+    picture: 🪑
+    help: {en: "Ten people are already sitting there waiting.", de: "Im Wartezimmer sind schon viele Patienten."}
+  - text: "Nach langem Warten ist Jonas endlich dran."
+    picture: ⏳
+    help: {en: "After a long wait it's finally Jonas's turn.", de: "Jonas wartet lange. Dann kommt er zur Ärztin."}
+  - text: "Die Ärztin schaut in seinen Hals und fragt nach dem Fieber."
+    picture: 🩺
+    help: {en: "The doctor looks down his throat and asks about the fever.", de: "Die Ärztin untersucht ihn."}
+  - text: "„Sie bleiben drei Tage im Bett und trinken viel Tee.“"
+    speaker: 2
+    picture: 🛏️
+    help: {en: "“You stay in bed for three days and drink lots of tea.”", de: "Jonas soll sich ausruhen und viel trinken."}
+  - text: "„Drei Tage? Aber ich bin Koch! Wer kocht denn dann?“"
+    speaker: 1
+    picture: 👨‍🍳
+    help: {en: "“Three days? But I'm a cook! Who's going to cook then?”", de: "Jonas macht sich Sorgen um seine Arbeit."}
+  - text: "Die Ärztin lacht. „Jemand anderes. Und Sie gehen jetzt ins Bett.“"
+    speaker: 2
+    picture: 😄
+    help: {en: "The doctor laughs. “Someone else. And you are going to bed now.”", de: "Die Ärztin sagt"}
+  - text: "Am Abend steht Lena mit einer heißen Suppe vor seiner Tür."
+    picture: 🍲
+    help: {en: "In the evening Lena is at his door with a hot soup.", de: "Lena bringt Jonas etwas Warmes zu essen."}
+  - text: "„Heute koche ich mal für den Koch!“"
+    speaker: 2
+    picture: 🥄
+    help: {en: "“Today I'm cooking for the cook for once!”", de: "Lena hat für Jonas gekocht."}
+  - text: "Jonas isst die ganze Suppe und sagt, dass sie sehr gut ist."
+    picture: 😋
+    help: {en: "Jonas eats all the soup and says it's very good.", de: "Die Suppe ist lecker. Jonas isst alles."}

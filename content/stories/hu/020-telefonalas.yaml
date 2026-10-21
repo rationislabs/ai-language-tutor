@@ -1,0 +1,48 @@
+lang: hu
+level: A1
+title: Telefonálás
+names: [Anna, Péter, Kati]
+new_words: [telefon, szól, holnap, jön, este, hét]
+lemma_overrides: {igen: igen, jól: jó, vagy: van, főzünk: főz, megyek: megy, órakor: óra}
+sentences:
+  - text: "Este van. Anna otthon van."
+    picture: "🌙"
+    help: {en: "It's evening. Anna is at home.", de: "Es ist Abend. Anna ist zu Hause."}
+  - text: "Szól a telefon."
+    picture: "📱"
+    help: {en: "The phone rings.", de: "Das Telefon klingelt."}
+  - text: "Igen?"
+    speaker: 2
+    picture: "☎️"
+    help: {en: "Hello?", de: "Hallo?"}
+  - text: "Szia, Anna! Péter vagyok."
+    speaker: 1
+    picture: "👋"
+    help: {en: "Hi, Anna! It's Péter.", de: "Hallo, Anna! Hier ist Péter."}
+  - text: "Szia, Péter! Hogy vagy?"
+    speaker: 2
+    picture: "🙂"
+    help: {en: "Hi, Péter! How are you?", de: "Hallo, Péter! Wie geht's?"}
+  - text: "Jól. Holnap este levest főzünk. Jössz?"
+    speaker: 1
+    picture: "🍲"
+    help: {en: "Fine. Tomorrow evening we're making soup. Will you come?", de: "Gut. Morgen Abend kochen wir Suppe. Kommst du?"}
+  - text: "Holnap este? Igen, megyek! Hány órakor?"
+    speaker: 2
+    picture: "🕖"
+    help: {en: "Tomorrow evening? Yes, I'll come! At what time?", de: "Morgen Abend? Ja, ich komme! Um wie viel Uhr?"}
+  - text: "Hét órakor. Nagymama is jön!"
+    speaker: 1
+    picture: "👵"
+    help: {en: "At seven. Grandma is coming too!", de: "Um sieben. Oma kommt auch!"}
+  - text: "Hét órakor? Jó! Szia, Péter, holnap este!"
+    speaker: 2
+    picture: "👍"
+    help: {en: "At seven? Great! Bye, Péter, see you tomorrow evening!", de: "Um sieben? Gut! Tschüss, Péter, bis morgen Abend!"}
+  - text: "Szól a telefon. Kati az."
+    picture: "📞"
+    help: {en: "The phone rings. It's Kati.", de: "Das Telefon klingelt. Es ist Kati."}
+  - text: "Igen, Kati, holnap este megyek!"
+    speaker: 2
+    picture: "😄"
+    help: {en: "Yes, Kati, I'm coming tomorrow evening!", de: "Ja, Kati, ich komme morgen Abend!"}

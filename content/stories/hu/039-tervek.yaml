@@ -1,0 +1,45 @@
+lang: hu
+level: A2
+title: Tervek
+names: [Anna, Péter, Kati, Németországba]
+new_words: [terv, akar, jövő, utazik, tud, még]
+lemma_overrides: {igen: igen, tervetek: terv, terved: terv, nekem: én, jól: jó, jobban: jó}
+sentences:
+  - text: "Este van. Anna, Péter és Kati egy kávézóban ülnek."
+    picture: "☕"
+    help: {en: "It's evening. Anna, Péter and Kati are sitting in a café.", de: "Es ist Abend. Anna, Péter und Kati sitzen in einem Café."}
+  - text: "Mi a tervetek jövőre?"
+    speaker: 2
+    picture: "🗓️"
+    help: {en: "What are your plans for next year?", de: "Was sind eure Pläne fürs nächste Jahr?"}
+  - text: "Jövőre németül akarok tanulni."
+    speaker: 1
+    picture: "🇩🇪"
+    help: {en: "Next year I want to learn German.", de: "Nächstes Jahr will ich Deutsch lernen."}
+  - text: "Kati nem tud németül, de ő is utazni akar. Jövőre Németországba utazik."
+    picture: "✈️"
+    help: {en: "Kati doesn't speak German, but she wants to travel too. Next year she's going to Germany.", de: "Kati spricht kein Deutsch, aber sie will auch reisen. Nächstes Jahr fährt sie nach Deutschland."}
+  - text: "És te, Anna? Mi a terved?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "And you, Anna? What's your plan?", de: "Und du, Anna? Was ist dein Plan?"}
+  - text: "Én jól akarok beszélni magyarul."
+    speaker: 2
+    picture: "🗣️"
+    help: {en: "I want to speak Hungarian well.", de: "Ich will gut Ungarisch sprechen."}
+  - text: "De te most is jól beszélsz! Még jobban?"
+    speaker: 1
+    picture: "😮"
+    help: {en: "But you already speak well! Even better?", de: "Aber du sprichst doch schon gut! Noch besser?"}
+  - text: "Igen. Még nem tudok jól beszélni."
+    speaker: 2
+    picture: "🙂"
+    help: {en: "Yes. I can't speak well yet.", de: "Ja. Ich kann noch nicht gut sprechen."}
+  - text: "Akkor ez a terv: én segítek neked magyarul, és te segítesz nekem németül!"
+    speaker: 1
+    picture: "🤝"
+    help: {en: "Then here's the plan: I help you with Hungarian, and you help me with German!", de: "Dann ist das der Plan: Ich helfe dir mit Ungarisch, und du hilfst mir mit Deutsch!"}
+  - text: "Jó terv! Jövőre sokat tanulunk!"
+    speaker: 2
+    picture: "📚"
+    help: {en: "Good plan! Next year we'll learn a lot!", de: "Guter Plan! Nächstes Jahr lernen wir viel!"}

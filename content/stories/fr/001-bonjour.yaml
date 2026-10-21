@@ -1,0 +1,48 @@
+lang: fr
+level: A1
+title: Bonjour
+names: [Léa, Hugo, Nina, Marc]
+new_words: [bonjour, je, être, tu, toi, ça, aller, bien, très, merci, et, oui, voici, mon, ami, un, de, ce, au, revoir]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Bonjour ! Je suis Léa."
+    picture: 🙋‍♀️
+    help: {en: "Hello! I'm Léa.", de: "Hallo! Ich bin Léa."}
+  - text: "Bonjour, Léa ! Je suis Hugo, un ami de Nina."
+    speaker: 1
+    picture: 🙋‍♂️
+    help: {en: "Hello, Léa! I'm Hugo, a friend of Nina's.", de: "Hallo, Léa! Ich bin Hugo, ein Freund von Nina."}
+  - text: "Ça va, Hugo ?"
+    picture: 🙂
+    help: {en: "How are you, Hugo?", de: "Wie geht's, Hugo?"}
+  - text: "Oui, ça va bien, merci. Et toi ?"
+    speaker: 1
+    picture: 😊
+    help: {en: "Yes, I'm fine, thanks. And you?", de: "Ja, es geht mir gut, danke. Und dir?"}
+  - text: "Très bien ! Et voici Nina !"
+    picture: 👋
+    help: {en: "Very well! And here's Nina!", de: "Sehr gut! Und da ist Nina!"}
+  - text: "Bonjour ! Voici mon ami Marc."
+    picture: 👫
+    help: {en: "Hello! This is my friend Marc.", de: "Hallo! Das ist mein Freund Marc."}
+  - text: "Bonjour ! Tu vas bien, Léa ?"
+    speaker: 1
+    picture: 🤝
+    help: {en: "Hello! Are you well, Léa?", de: "Hallo! Geht es dir gut, Léa?"}
+  - text: "Oui, ça va très bien, merci. Et toi ?"
+    picture: 😄
+    help: {en: "Yes, I'm very well, thank you. And you?", de: "Ja, es geht mir sehr gut, danke. Und dir?"}
+  - text: "Bien, merci. Et toi, Hugo, tu es un ami de Léa ?"
+    speaker: 1
+    picture: 🤔
+    help: {en: "Fine, thanks. And you, Hugo, are you a friend of Léa's?", de: "Gut, danke. Und du, Hugo, bist du ein Freund von Léa?"}
+  - text: "Oui ! Léa, c'est mon amie."
+    speaker: 1
+    picture: 😃
+    help: {en: "Yes! Léa is my friend.", de: "Ja! Léa ist meine Freundin."}
+  - text: "Et Hugo, c'est mon ami !"
+    picture: 🥰
+    help: {en: "And Hugo is my friend!", de: "Und Hugo ist mein Freund!"}
+  - text: "Au revoir, Léa ! Au revoir, Hugo !"
+    picture: 👋
+    help: {en: "Goodbye, Léa! Goodbye, Hugo!", de: "Tschüss, Léa! Tschüss, Hugo!"}

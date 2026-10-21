@@ -1,0 +1,43 @@
+lang: de
+level: A2
+title: "Am Bahnhof"
+names: [Hilde, Lena]
+new_words: [Gleis, Verspätung, Durchsage, Koffer]
+sentences:
+  - text: "Oma Hilde kommt heute mit dem Zug in die Stadt."
+    picture: 🚆
+    help: {en: "Grandma Hilde is coming to town by train today.", de: "Oma Hilde besucht Lena in der Stadt."}
+  - text: "Lena wartet am Bahnhof auf Gleis fünf."
+    picture: 🧍‍♀️
+    help: {en: "Lena is waiting at the station on platform five.", de: "Lena steht am Bahnsteig und wartet."}
+  - text: "Aber der Zug hat zehn Minuten Verspätung."
+    picture: ⏱️
+    help: {en: "But the train is ten minutes late.", de: "Der Zug kommt später als geplant."}
+  - text: "Dann hört sie eine Durchsage: „Achtung! Der Zug kommt heute auf Gleis sieben.“"
+    picture: 📢
+    help: {en: "Then she hears an announcement: “Attention! Today the train arrives at platform seven.”", de: "Der Zug hält heute an einem anderen Gleis."}
+  - text: "Lena versteht die Durchsage erst beim zweiten Mal."
+    picture: 👂
+    help: {en: "Lena only understands the announcement the second time.", de: "Lena hört nicht gleich, was gesagt wird."}
+  - text: "Dann läuft sie schnell zu Gleis sieben."
+    picture: 🏃‍♀️
+    help: {en: "Then she hurries to platform seven.", de: "Lena läuft zum richtigen Bahnsteig."}
+  - text: "Aber die Leute aus dem Zug sind schon weg."
+    picture: 🚉
+    help: {en: "But the people from the train have already gone.", de: "Der Zug ist schon da, und alle sind ausgestiegen."}
+  - text: "Wo ist Oma? Lena sucht sie überall."
+    picture: 🔍
+    help: {en: "Where's Grandma? Lena looks for her everywhere.", de: "Lena findet ihre Oma nicht."}
+  - text: "Endlich sieht sie Oma: Sie sitzt auf ihrem Koffer und isst ein Brot."
+    picture: 🧳
+    help: {en: "Finally she sees Grandma: she's sitting on her suitcase eating a sandwich.", de: "Oma wartet ganz ruhig und isst etwas."}
+  - text: "„Mit 80 laufe ich nicht mehr, Kind. Ich warte einfach.“"
+    speaker: 1
+    picture: 👵
+    help: {en: "“At 80 I don't run any more, dear. I just wait.”", de: "Oma sagt: In meinem Alter renne ich nicht."}
+  - text: "Lena will den Koffer tragen, aber er ist sehr schwer."
+    picture: 💪
+    help: {en: "Lena wants to carry the suitcase, but it is very heavy.", de: "Der Koffer wiegt viel."}
+  - text: "Zehn Minuten Verspätung und ein Koffer voller Kuchen – das ist Oma!"
+    picture: 🍰
+    help: {en: "Ten minutes late and a suitcase full of cake – that's Grandma!", de: "Oma kommt zu spät, aber sie bringt viel Kuchen mit."}

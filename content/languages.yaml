@@ -1,0 +1,7 @@
+# Per language: baseline_rank — lemmas up to this frequency rank count as already known
+# (German: the owner is A2/B1); starter_new — new words allowed in the first story;
+# max_new — new words allowed in every later story.
+de: {baseline_rank: 1000, starter_new: 20, max_new: 6}
+hu: {baseline_rank: 0, starter_new: 20, max_new: 6}
+fr: {baseline_rank: 0, starter_new: 20, max_new: 6}
+it: {baseline_rank: 0, starter_new: 20, max_new: 6}

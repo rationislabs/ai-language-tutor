@@ -1,0 +1,44 @@
+lang: de
+level: A2
+title: "Im Hotel"
+names: [Lena, Jonas]
+new_words: [Rezeption, Balkon, klopfen]
+lemma_overrides: {fällt: fallen, Hast: haben}
+sentences:
+  - text: "Lena und Jonas kommen spät am Abend im Hotel an."
+    picture: 🏨
+    help: {en: "Lena and Jonas arrive at the hotel late in the evening.", de: "Es ist schon spät, als die zwei das Hotel erreichen."}
+  - text: "An der Rezeption bekommen sie den Schlüssel für Zimmer acht."
+    picture: 🔑
+    help: {en: "At reception they get the key for room eight.", de: "Sie bekommen ihr Zimmer."}
+  - text: "Das Zimmer ist klein, aber vom Balkon sieht man das Meer."
+    picture: 🌊
+    help: {en: "The room is small, but you can see the sea from the balcony.", de: "Das Zimmer hat einen schönen Blick."}
+  - text: "In der Nacht ist es warm, und Lena geht vorsichtig auf den Balkon."
+    picture: 🌙
+    help: {en: "At night it's warm, and Lena carefully steps out onto the balcony.", de: "Lena kann nicht schlafen und geht nach draußen."}
+  - text: "Plötzlich fällt hinter ihr die Tür zu."
+    picture: 🚪
+    help: {en: "Suddenly the door swings shut behind her.", de: "Die Tür geht von allein zu."}
+  - text: "Jetzt steht Lena auf dem Balkon und kann nicht mehr ins Zimmer."
+    picture: 😱
+    help: {en: "Now Lena is standing on the balcony and can't get back into the room.", de: "Lena ist draußen und kommt nicht mehr hinein."}
+  - text: "Sie klopft an das Fenster, aber Jonas schläft tief."
+    picture: ✊
+    help: {en: "She knocks on the window, but Jonas is fast asleep.", de: "Jonas hört nichts."}
+  - text: "Sie klopft lauter, doch Jonas schnarcht nur."
+    picture: 💤
+    help: {en: "She knocks louder, but Jonas just snores.", de: "Jonas wacht nicht auf."}
+  - text: "Ein Mann auf dem anderen Balkon lacht und ruft die Rezeption an."
+    picture: ☎️
+    help: {en: "A man on the next balcony laughs and calls reception.", de: "Ein Nachbar im Hotel hilft Lena."}
+  - text: "Fünf Minuten später öffnet jemand vom Hotel die Tür mit einem zweiten Schlüssel."
+    picture: 🗝️
+    help: {en: "Five minutes later someone from the hotel opens the door with a second key.", de: "Ein Mitarbeiter hilft Lena."}
+  - text: "Am Morgen fragt Jonas: „Hast du gut geschlafen?“"
+    speaker: 2
+    picture: ☕
+    help: {en: "In the morning Jonas asks: “Did you sleep well?”", de: "Jonas weiß nichts von der Nacht."}
+  - text: "Lena lacht nur und sagt: „Ich erzähle es dir beim Kaffee.“"
+    picture: 😅
+    help: {en: "Lena just laughs and says: “I'll tell you over coffee.”", de: "Lena erzählt die Geschichte später."}

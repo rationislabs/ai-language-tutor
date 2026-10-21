@@ -1,0 +1,45 @@
+lang: de
+level: A2
+title: "Wohnungssuche"
+names: [Mia, Emil, Lena]
+new_words: [Miete, dunkel, hell]
+lemma_overrides: {Jeden: jeder, Warte: warten}
+sentences:
+  - text: "Mia zieht mit ihrem Sohn Emil in die Stadt, aber sie hat noch keine Wohnung."
+    picture: 🏙️
+    help: {en: "Mia is moving to the city with her son Emil, but she doesn't have a flat yet.", de: "Mia und Emil kommen in die Stadt. Sie suchen eine Wohnung."}
+  - text: "Jeden Tag schaut sie sich Wohnungen an."
+    picture: 🔑
+    help: {en: "Every day she looks at flats.", de: "Mia besucht viele Wohnungen."}
+  - text: "Die erste Wohnung ist schön, aber die Miete ist viel zu hoch."
+    picture: 💶
+    help: {en: "The first flat is nice, but the rent is far too high.", de: "Die Wohnung ist toll, aber zu teuer."}
+  - text: "Bei der nächsten Wohnung ist die Miete okay, aber sie hat nur ein Zimmer."
+    picture: 🚪
+    help: {en: "The rent for the next flat is fine, but it only has one room.", de: "Die Wohnung ist nicht teuer, aber sehr klein."}
+  - text: "„Und wo soll ich schlafen, Mama?“, fragt Emil."
+    speaker: 1
+    picture: 😕
+    help: {en: "“And where am I supposed to sleep, Mum?” Emil asks.", de: "Emil hat in dieser Wohnung keinen Platz."}
+  - text: "Eine andere Wohnung hat drei Zimmer, doch sie ist sehr dunkel."
+    picture: 🌑
+    help: {en: "Another flat has three rooms, but it is very dark.", de: "Die Wohnung ist groß, aber sie hat wenig Licht."}
+  - text: "Am Abend ruft Mia ihre Freundin Lena an und erzählt ihr alles."
+    picture: 📞
+    help: {en: "In the evening Mia calls her friend Lena and tells her everything.", de: "Mia telefoniert mit Lena und spricht über die Wohnungen."}
+  - text: "„Warte mal! Bei uns im Haus wird bald eine Wohnung frei.“"
+    speaker: 2
+    picture: 🏠
+    help: {en: "“Wait a moment! A flat in our building is coming free soon.”", de: "Lena weiß von einer freien Wohnung in ihrem Haus."}
+  - text: "Am nächsten Tag zeigt Lena ihr die Wohnung."
+    picture: 👀
+    help: {en: "The next day Lena shows her the flat.", de: "Mia und Lena sehen sich die Wohnung zusammen an."}
+  - text: "Sie ist nicht dunkel, sondern schön hell, und die Miete ist nicht zu hoch."
+    picture: ☀️
+    help: {en: "It isn't dark but nice and bright, and the rent isn't too high.", de: "Die Wohnung hat viel Licht und ist nicht zu teuer."}
+  - text: "Emil läuft durch die hellen Zimmer und ruft: „Hier will ich wohnen!“"
+    picture: 🧒
+    help: {en: "Emil runs through the bright rooms and shouts: “I want to live here!”", de: "Emil gefällt die Wohnung sehr."}
+  - text: "Mia lacht, und Lena bekommt bald noch einen Nachbarn."
+    picture: 😄
+    help: {en: "Mia laughs, and soon Lena will have another neighbour.", de: "Mia nimmt die Wohnung. Jetzt wohnen die Freundinnen im selben Haus."}

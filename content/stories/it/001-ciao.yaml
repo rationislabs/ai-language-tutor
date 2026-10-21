@@ -1,0 +1,46 @@
+lang: it
+level: A1
+title: Ciao!
+names: [Marco, Anna, Luca]
+new_words: [ciao, io, essere, piacere, come, stare, bene, grazie, e, tu, anche, uno, amico, di, 'no', non, il, sorella, ma, qui]
+lemma_overrides: {anch': anche}
+sentences:
+- text: Ciao! Io sono Marco.
+  picture: 👋
+  help: {en: Hi! I'm Marco., de: Hallo! Ich bin Marco.}
+- text: Ciao, Marco! Io sono Anna. Piacere!
+  speaker: 1
+  picture: 🙋‍♀️
+  help: {en: 'Hi, Marco! I''m Anna. Nice to meet you!', de: 'Hallo, Marco! Ich bin Anna. Freut mich!'}
+- text: Piacere, Anna! Come stai?
+  picture: 🤝
+  help: {en: 'Nice to meet you, Anna! How are you?', de: 'Freut mich, Anna! Wie geht es dir?'}
+- text: Sto bene, grazie. E tu, come stai?
+  speaker: 1
+  picture: 😊
+  help: {en: 'I''m fine, thanks. And you, how are you?', de: 'Mir geht es gut, danke. Und dir?'}
+- text: Anch'io sto bene, grazie.
+  picture: 🙂
+  help: {en: 'I''m fine too, thanks.', de: 'Mir geht es auch gut, danke.'}
+- text: Tu sei un'amica di Luca?
+  picture: ❓
+  help: {en: 'Are you a friend of Luca''s?', de: 'Bist du eine Freundin von Luca?'}
+- text: No, non sono un'amica di Luca.
+  speaker: 1
+  picture: 🙅‍♀️
+  help: {en: 'No, I''m not a friend of Luca''s.', de: 'Nein, ich bin keine Freundin von Luca.'}
+- text: Ma sono la sorella di Luca!
+  speaker: 1
+  picture: 👫
+  help: {en: But I'm Luca's sister!, de: Aber ich bin Lucas Schwester!}
+- text: La sorella di Luca! E Luca è qui?
+  picture: 😮
+  help: {en: 'Luca''s sister! And is Luca here?', de: 'Lucas Schwester! Und ist Luca hier?'}
+- text: No, Luca non è qui.
+  speaker: 1
+  picture: 🤷‍♀️
+  help: {en: 'No, Luca isn''t here.', de: 'Nein, Luca ist nicht hier.'}
+- text: Ma tu sei qui, e anch'io!
+  speaker: 1
+  picture: 😄
+  help: {en: 'But you''re here, and so am I!', de: 'Aber du bist hier, und ich auch!'}

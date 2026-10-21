@@ -1,0 +1,43 @@
+lang: de
+level: A2
+title: "Der Umzug"
+names: [Lena, Jonas, Tim, Mia, Emil]
+new_words: [Umzug, Aufzug, Treppe, Sofa, Pizza]
+sentences:
+  - text: "Lena und Jonas ziehen zusammen in eine größere Wohnung."
+    picture: 📦
+    help: {en: "Lena and Jonas are moving into a bigger flat together.", de: "Lena und Jonas wohnen ab jetzt zusammen."}
+  - text: "Die neue Wohnung ist ganz oben, und es gibt keinen Aufzug."
+    picture: 🏢
+    help: {en: "The new flat is right at the top, and there's no lift.", de: "Man muss zu Fuß nach oben gehen."}
+  - text: "Tim, Mia und Emil helfen beim Umzug."
+    picture: 🤝
+    help: {en: "Tim, Mia and Emil help with the move.", de: "Die Freunde helfen."}
+  - text: "Alle tragen Kisten die Treppe hoch."
+    picture: 🪜
+    help: {en: "Everyone carries boxes up the stairs.", de: "Alle bringen Kartons nach oben."}
+  - text: "Emil trägt nur die leichten Sachen."
+    picture: 🧸
+    help: {en: "Emil only carries the light things.", de: "Emil ist noch klein. Er trägt nichts Schweres."}
+  - text: "Dann kommt das große Sofa."
+    picture: 🛋️
+    help: {en: "Then comes the big sofa.", de: "Jetzt müssen sie das Sofa tragen."}
+  - text: "Im Treppenhaus geht es nicht weiter: Das Sofa ist zu groß."
+    picture: 😫
+    help: {en: "In the stairwell they can't get any further: the sofa is too big.", de: "Das Sofa bleibt im Treppenhaus stecken."}
+  - text: "Sie drehen es nach links und nach rechts, aber es passt nicht."
+    picture: 🔄
+    help: {en: "They turn it left and right, but it doesn't fit.", de: "Es geht einfach nicht."}
+  - text: "„Ohne Aufzug ist so ein Umzug wirklich schwer“, sagt Tim."
+    speaker: 1
+    picture: 😮‍💨
+    help: {en: "“Moving house without a lift is really hard,” says Tim.", de: "Tim ist müde."}
+  - text: "Am Ende bestellt Jonas Pizza für alle."
+    picture: 🍕
+    help: {en: "In the end Jonas orders pizza for everyone.", de: "Jonas holt Essen für alle."}
+  - text: "Sie sitzen auf dem Sofa im Treppenhaus und essen Pizza."
+    picture: 😄
+    help: {en: "They sit on the sofa in the stairwell and eat pizza.", de: "Das Sofa steht noch im Treppenhaus. Alle essen dort."}
+  - text: "Die Nachbarn kommen vorbei, und bald gibt es eine Party auf der Treppe."
+    picture: 🎉
+    help: {en: "The neighbours come by, and soon there's a party on the stairs.", de: "Die Nachbarn feiern mit."}

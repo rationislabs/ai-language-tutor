@@ -1,0 +1,43 @@
+lang: de
+level: B1
+title: "Das alte Foto"
+names: [Hilde, Lena, Jonas]
+new_words: [Köchin, Tablett, Opa]
+lemma_overrides: {Kellner: Kellner}
+sentences:
+  - text: "Vor kurzem fand Oma Hilde eine Kiste mit alten Fotos."
+    picture: 📦
+    help: {en: "Recently Grandma Hilde found a box of old photos.", de: "Oma hat alte Bilder gefunden."}
+  - text: "Auf einem Foto sah man eine junge Frau in einer Küche – das war sie selbst."
+    picture: 📷
+    help: {en: "One photo showed a young woman in a kitchen – it was Grandma herself.", de: "Auf dem Foto ist Oma als junge Frau."}
+  - text: "„Damals war ich noch sehr jung und arbeitete als Köchin in einem großen Hotel“, erzählte sie Lena."
+    picture: 👩‍🍳
+    help: {en: "“Back then I was still very young and worked as a cook in a big hotel,” she told Lena.", de: "Oma war früher Köchin."}
+  - text: "Neben ihr sah man einen jungen Mann mit einem Tablett."
+    picture: 🍽️
+    help: {en: "Next to her in the photo stood a young man holding a tray.", de: "Auf dem Bild ist auch ein Mann."}
+  - text: "„Das ist dein Opa. Er war Kellner, und fast jeden Tag ließ er etwas fallen.“"
+    picture: 🙈
+    help: {en: "“That's your grandpa. He was a waiter, and almost every day he dropped something.”", de: "Lenas Großvater war Kellner, aber nicht sehr geschickt."}
+  - text: "„Eines Tages fiel ihm ein ganzes Tablett mit Kuchen auf den Boden, direkt vor mir.“"
+    picture: 🍰
+    help: {en: "“One day a whole tray of cakes fell on the floor, right in front of me.”", de: "Der Kuchen lag vor Oma auf dem Boden."}
+  - text: "„Ich war so wütend, dass ich kein Wort mehr mit ihm sprechen wollte.“"
+    picture: 😠
+    help: {en: "“I was so angry that I didn't want to say another word to him.”", de: "Oma war sehr böse auf ihn."}
+  - text: "„Aber er hat mich so lange zum Lachen gebracht, bis ich mich in ihn verliebt habe.“"
+    picture: ❤️
+    help: {en: "“But he kept making me laugh until I fell in love with him.”", de: "Später hat Oma den Kellner geliebt."}
+  - text: "Lena schaute sich das Foto lange an."
+    picture: 🔍
+    help: {en: "Lena looked at the photo for a long time.", de: "Lena betrachtete das Bild genau."}
+  - text: "„Eine Köchin und ein Mann, der alles fallen lässt – das kenne ich doch!“, lachte sie."
+    picture: 😂
+    help: {en: "“A cook and someone who drops everything – that sounds familiar!” she laughed.", de: "Lena denkt an Jonas und an sich selbst."}
+  - text: "Oma lachte auch: „Von deinem Opa hast du also nicht nur die Augen.“"
+    picture: 👀
+    help: {en: "Grandma laughed too: “So it's not just your eyes you got from your grandpa.”", de: "Lena ist ein bisschen wie ihr Großvater."}
+  - text: "Dann gab sie Lena das Foto, damit sie es Jonas zeigen konnte."
+    picture: 🎁
+    help: {en: "Then she gave Lena the photo so that she could show it to Jonas.", de: "Lena darf das Foto behalten."}

@@ -1,0 +1,44 @@
+lang: fr
+level: A1
+title: Les vacances
+names: [Léa, Théo, Emma, Hugo, Nina]
+new_words: [vacances, partir, mer, chaud, plage, aussi]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Ce sont les vacances !"
+    picture: 🏖️
+    help: {en: "It's the holidays!", de: "Es sind Ferien!"}
+  - text: "Nous partons à la mer avec Emma et Théo !"
+    picture: 🚗
+    help: {en: "We're off to the seaside with Emma and Théo!", de: "Wir fahren mit Emma und Théo ans Meer!"}
+  - text: "À la mer, il fait beau et chaud."
+    picture: ☀️
+    help: {en: "At the seaside, the weather is nice and warm.", de: "Am Meer ist das Wetter schön und warm."}
+  - text: "Théo aime la plage. Emma aime la plage aussi."
+    picture: 🏝️
+    help: {en: "Théo loves the beach. Emma loves the beach too.", de: "Théo liebt den Strand. Emma liebt den Strand auch."}
+  - text: "Léa ? Tu es où ?"
+    speaker: 1
+    picture: 📱
+    help: {en: "Léa? Where are you?", de: "Léa? Wo bist du?"}
+  - text: "Je suis à la plage, Hugo ! Il fait chaud !"
+    picture: 😎
+    help: {en: "I'm at the beach, Hugo! It's hot!", de: "Ich bin am Strand, Hugo! Es ist heiß!"}
+  - text: "Et toi ? Tu n'es pas en vacances ?"
+    picture: 🤔
+    help: {en: "And you? Aren't you on holiday?", de: "Und du? Hast du keinen Urlaub?"}
+  - text: "Non, je travaille au café. Et il pleut !"
+    speaker: 1
+    picture: 🌧️
+    help: {en: "No, I'm working at the café. And it's raining!", de: "Nein, ich arbeite im Café. Und es regnet!"}
+  - text: "Pas de mer, pas de plage…"
+    speaker: 1
+    picture: 😞
+    help: {en: "No sea, no beach…", de: "Kein Meer, kein Strand…"}
+  - text: "Mais samedi, je pars à la mer avec Nina !"
+    speaker: 1
+    picture: 😄
+    help: {en: "But on Saturday, I'm off to the seaside with Nina!", de: "Aber am Samstag fahre ich mit Nina ans Meer!"}
+  - text: "Très bien ! Les vacances, c'est pour toi aussi !"
+    picture: 🥰
+    help: {en: "Great! You get a holiday too!", de: "Super! Dann hast du auch Ferien!"}

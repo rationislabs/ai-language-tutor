@@ -1,0 +1,46 @@
+lang: hu
+level: A2
+title: Egy levél
+names: [Anna, Lisa, Lisának, Lisától, Németországból, Budapest]
+new_words: [kap, ír, barát, olvas, kedves, ért]
+lemma_overrides: {lakásom: lakás, levelet: levél, írj: ír, értem: ért, vagy: van, jól: jó}
+sentences:
+  - text: "Ma Anna levelet kapott Németországból."
+    picture: "✉️"
+    help: {en: "Today Anna got a letter from Germany.", de: "Heute hat Anna einen Brief aus Deutschland bekommen."}
+  - text: "A levelet Lisa írta. Lisa Anna régi barátja."
+    picture: "👭"
+    help: {en: "Lisa wrote the letter. Lisa is Anna's old friend.", de: "Lisa hat den Brief geschrieben. Lisa ist Annas alte Freundin."}
+  - text: "Anna olvassa a levelet."
+    picture: "📖"
+    help: {en: "Anna reads the letter.", de: "Anna liest den Brief."}
+  - text: "Kedves Anna! Hogy vagy? Szép Budapest?"
+    speaker: 1
+    picture: "💌"
+    help: {en: "Dear Anna! How are you? Is Budapest beautiful?", de: "Liebe Anna! Wie geht es dir? Ist Budapest schön?"}
+  - text: "Írj sokat!"
+    speaker: 1
+    picture: "✍️"
+    help: {en: "Write a lot!", de: "Schreib viel!"}
+  - text: "Este Anna levelet ír Lisának. Magyarul ír!"
+    picture: "📝"
+    help: {en: "In the evening Anna writes a letter to Lisa. She writes in Hungarian!", de: "Am Abend schreibt Anna Lisa einen Brief. Sie schreibt auf Ungarisch!"}
+  - text: "Kedves Lisa! Jól vagyok. Budapest nagyon szép város."
+    speaker: 2
+    picture: "🏙️"
+    help: {en: "Dear Lisa! I'm fine. Budapest is a very beautiful city.", de: "Liebe Lisa! Mir geht es gut. Budapest ist eine sehr schöne Stadt."}
+  - text: "Új lakásom van, és sok magyar barátom van."
+    speaker: 2
+    picture: "🏠"
+    help: {en: "I have a new flat, and I have lots of Hungarian friends.", de: "Ich habe eine neue Wohnung und viele ungarische Freunde."}
+  - text: "Vasárnap Anna új levelet kapott Lisától."
+    picture: "📬"
+    help: {en: "On Sunday Anna got a new letter from Lisa.", de: "Am Sonntag hat Anna einen neuen Brief von Lisa bekommen."}
+  - text: "Kedves Anna! Köszönöm a levelet, de nem értem! Csak németül olvasok!"
+    speaker: 1
+    picture: "😅"
+    help: {en: "Dear Anna! Thanks for the letter, but I don't understand it! I only read German!", de: "Liebe Anna! Danke für den Brief, aber ich verstehe ihn nicht! Ich lese nur Deutsch!"}
+  - text: "Lisa nem érti a magyar levelet! Most németül írok."
+    speaker: 2
+    picture: "😄"
+    help: {en: "Lisa doesn't understand the Hungarian letter! Now I'll write in German.", de: "Lisa versteht den ungarischen Brief nicht! Jetzt schreibe ich auf Deutsch."}

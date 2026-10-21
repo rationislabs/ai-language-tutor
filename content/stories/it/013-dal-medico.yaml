@@ -1,0 +1,48 @@
+lang: it
+level: A1
+title: Dal medico
+names: [Marco]
+new_words: [medico, da, male, testa, bere, troppo]
+lemma_overrides: {al: a, alla: a, dal: da}
+sentences:
+- text: Oggi Marco non sta bene.
+  picture: 🤒
+  help: {en: Today Marco isn't feeling well., de: Heute geht es Marco nicht gut.}
+- text: Ha mal di testa da una settimana.
+  picture: 🤕
+  help: {en: He's had a headache for a week., de: Er hat seit einer Woche Kopfschmerzen.}
+- text: Marco va dal medico.
+  picture: 🩺
+  help: {en: Marco goes to the doctor., de: Marco geht zum Arzt.}
+- text: Buongiorno, Marco! Quanti caffè beve ogni giorno?
+  speaker: 1
+  picture: ☕
+  help: {en: 'Hello, Marco! How many coffees do you drink every day?', de: 'Guten Tag, Marco! Wie viele Kaffees trinken Sie jeden Tag?'}
+- text: Due a casa, tre al bar e due al ristorante.
+  picture: 🤔
+  help: {en: 'Two at home, three at the café and two at the restaurant.', de: 'Zwei zu Hause, drei im Café und zwei im Restaurant.'}
+- text: Ma è troppo!
+  speaker: 1
+  picture: 😲
+  help: {en: But that's too much!, de: Aber das ist zu viel!}
+- text: Troppo caffè fa male alla testa.
+  speaker: 1
+  picture: 🧠
+  help: {en: Too much coffee is bad for your head., de: Zu viel Kaffee ist schlecht für den Kopf.}
+- text: Non beva caffè per una settimana!
+  speaker: 1
+  picture: 🚫
+  help: {en: Don't drink coffee for a week!, de: Trinken Sie eine Woche lang keinen Kaffee!}
+- text: Una settimana? Ma il caffè è buono!
+  picture: 😩
+  help: {en: 'A week? But coffee is good!', de: 'Eine Woche? Aber Kaffee ist so gut!'}
+- text: Sabato Marco è al bar.
+  picture: 🏙️
+  help: {en: On Saturday Marco is at the café., de: Am Samstag ist Marco im Café.}
+- text: Ciao, Marco! Un caffè?
+  speaker: 2
+  picture: 🙋
+  help: {en: 'Hi, Marco! A coffee?', de: 'Hallo, Marco! Einen Kaffee?'}
+- text: No, grazie. Il medico non vuole!
+  picture: 🙅
+  help: {en: 'No, thanks. The doctor says no!', de: 'Nein, danke. Der Arzt will das nicht!'}

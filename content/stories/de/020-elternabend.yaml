@@ -1,0 +1,44 @@
+lang: de
+level: A2
+title: "Elternabend"
+names: [Mia, Emil, Jonas]
+new_words: [Elternabend, Lehrerin, Schulfest]
+sentences:
+  - text: "Heute Abend ist Elternabend in der Schule von Emil."
+    picture: 🏫
+    help: {en: "This evening there's a parents' evening at Emil's school.", de: "Die Eltern treffen sich heute in der Schule."}
+  - text: "Mia sitzt mit vielen anderen Eltern in der Klasse von Emil."
+    picture: 🪑
+    help: {en: "Mia sits with lots of other parents in Emil's classroom.", de: "Viele Mütter und Väter sind da."}
+  - text: "Die Lehrerin erzählt, was die Kinder in der Schule lernen."
+    picture: 👩‍🏫
+    help: {en: "The teacher talks about what the children learn at school.", de: "Die Lehrerin spricht über den Unterricht."}
+  - text: "Dann sagt sie: „Bald gibt es ein großes Schulfest.“"
+    speaker: 1
+    picture: 🎪
+    help: {en: "Then she says: “Soon there'll be a big school fair.”", de: "Die Schule macht bald ein Fest."}
+  - text: "„Für das Schulfest brauchen wir noch Hilfe beim Essen.“"
+    speaker: 1
+    picture: 🍲
+    help: {en: "“We still need help with the food for the school fair.”", de: "Jemand soll das Essen für das Fest machen."}
+  - text: "Dann schaut die Lehrerin Mia an."
+    picture: 👀
+    help: {en: "Then the teacher looks at Mia.", de: "Die Lehrerin sieht zu Mia."}
+  - text: "„Emil sagt, sein Nachbar ist der beste Koch der Welt.“"
+    speaker: 1
+    picture: 👨‍🍳
+    help: {en: "“Emil says his neighbour is the best cook in the world.”", de: "Emil hat in der Schule von Jonas erzählt."}
+  - text: "„Und er sagt, sein Nachbar kocht sehr gern für viele Leute.“"
+    speaker: 1
+    picture: 😏
+    help: {en: "“And he says his neighbour loves cooking for lots of people.”", de: "Emil meint, Jonas hilft bestimmt gern."}
+  - text: "Alle Eltern schauen jetzt Mia an, und Mia weiß nicht, was sie sagen soll."
+    picture: 😳
+    help: {en: "All the parents are now looking at Mia, and Mia doesn't know what to say.", de: "Mia ist überrascht und ein bisschen verlegen."}
+  - text: "Nach dem Elternabend erzählt sie Jonas alles."
+    picture: 🗣️
+    help: {en: "After the parents' evening she tells Jonas everything.", de: "Mia spricht mit Jonas über das Fest."}
+  - text: "Jonas lacht: „Für die ganze Schule? Klar, das mache ich – zusammen mit Emil!“"
+    speaker: 2
+    picture: 🤝
+    help: {en: "Jonas laughs: “For the whole school? Sure, I'll do it – together with Emil!”", de: "Jonas kocht gern für das Schulfest. Emil hilft ihm."}

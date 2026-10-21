@@ -1,0 +1,41 @@
+lang: hu
+level: A1
+title: Az időjárás
+names: [Anna, Péter]
+new_words: [ma, idő, hideg, meleg, esik, eső]
+lemma_overrides: {óra: óra, igen: igen, eső: eső}
+sentences:
+  - text: "Péter, ma jó idő van?"
+    speaker: 2
+    picture: "🌤️"
+    help: {en: "Péter, is the weather nice today?", de: "Péter, ist heute schönes Wetter?"}
+  - text: "Nem, ma nem jó az idő. Hideg van."
+    speaker: 1
+    picture: "🥶"
+    help: {en: "No, the weather isn't nice today. It's cold.", de: "Nein, heute ist das Wetter nicht schön. Es ist kalt."}
+  - text: "És esik az eső."
+    speaker: 1
+    picture: "🌧️"
+    help: {en: "And it's raining.", de: "Und es regnet."}
+  - text: "Hideg van, és esik az eső? Nem jó!"
+    speaker: 2
+    picture: "☔"
+    help: {en: "It's cold and it's raining? That's not good!", de: "Es ist kalt und es regnet? Nicht gut!"}
+  - text: "Két óra van. Most nem esik az eső."
+    picture: "🕑"
+    help: {en: "It's two o'clock. Now it isn't raining.", de: "Es ist zwei Uhr. Jetzt regnet es nicht."}
+  - text: "Most meleg van!"
+    picture: "☀️"
+    help: {en: "Now it's warm!", de: "Jetzt ist es warm!"}
+  - text: "Péter, most jó idő van!"
+    speaker: 2
+    picture: "😎"
+    help: {en: "Péter, the weather is nice now!", de: "Péter, jetzt ist schönes Wetter!"}
+  - text: "Igen! Most meleg van, és nem esik."
+    speaker: 1
+    picture: "🌞"
+    help: {en: "Yes! Now it's warm, and it isn't raining.", de: "Ja! Jetzt ist es warm, und es regnet nicht."}
+  - text: "Ma hideg is van, meleg is!"
+    speaker: 2
+    picture: "😄"
+    help: {en: "Today it's cold and warm too!", de: "Heute ist es kalt und auch warm!"}

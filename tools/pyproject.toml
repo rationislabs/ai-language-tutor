@@ -1,0 +1,35 @@
+[project]
+name = "tutortools"
+version = "0.1.0"
+description = "Build tools for the listening tutor: story checks, Tatoeba gaps, Piper audio, export"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "httpx>=0.28,<1",
+  "pyyaml>=6.0,<7",
+  "simplemma>=2.0,<3",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+  "pytest>=9.1",
+  "ruff>=0.12",
+]
+audio = [
+  "piper-tts>=1.8,<2",  # GPL-3.0 engine, used only at build time; its voices' audio is CC0 / CC BY
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--import-mode=importlib -ra"
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]

@@ -1,0 +1,43 @@
+lang: fr
+level: A1
+title: Au café
+names: [Léa, Hugo]
+new_words: [café, thé, vouloir, vous, si, plaire]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Léa et Hugo vont au café."
+    picture: ☕
+    help: {en: "Léa and Hugo go to the café.", de: "Léa und Hugo gehen ins Café."}
+  - text: "Bonjour ! Vous voulez un café ?"
+    speaker: 1
+    picture: 🤵
+    help: {en: "Hello! Would you like a coffee?", de: "Guten Tag! Möchten Sie einen Kaffee?"}
+  - text: "Oui, je voudrais un café, s'il vous plaît."
+    picture: ☕
+    help: {en: "Yes, I'd like a coffee, please.", de: "Ja, ich möchte einen Kaffee, bitte."}
+  - text: "Et je voudrais un thé, s'il vous plaît."
+    speaker: 1
+    picture: 🍵
+    help: {en: "And I'd like a tea, please.", de: "Und ich möchte einen Tee, bitte."}
+  - text: "Un café et un thé. Très bien !"
+    speaker: 1
+    picture: 📝
+    help: {en: "A coffee and a tea. Very good!", de: "Ein Kaffee und ein Tee. Sehr gut!"}
+  - text: "Voici le café… et voici le thé."
+    speaker: 1
+    picture: 🫖
+    help: {en: "Here's the coffee… and here's the tea.", de: "Hier ist der Kaffee… und hier ist der Tee."}
+  - text: "Merci !"
+    picture: 😊
+    help: {en: "Thank you!", de: "Danke!"}
+  - text: "Léa… je voudrais le café."
+    speaker: 1
+    picture: 😅
+    help: {en: "Léa… I'd like the coffee.", de: "Léa… ich möchte lieber den Kaffee."}
+  - text: "Et je voudrais le thé ! Voici le café, Hugo."
+    picture: 🔄
+    help: {en: "And I'd like the tea! Here's the coffee, Hugo.", de: "Und ich möchte den Tee! Hier ist der Kaffee, Hugo."}
+  - text: "Merci, Léa !"
+    speaker: 1
+    picture: 🥰
+    help: {en: "Thanks, Léa!", de: "Danke, Léa!"}

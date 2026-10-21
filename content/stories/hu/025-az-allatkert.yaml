@@ -1,0 +1,47 @@
+lang: hu
+level: A1
+title: Az állatkert
+names: [Anna, Gábor, Bence]
+new_words: [állatkert, állat, oroszlán, majom, gyerek]
+lemma_overrides: {igen: igen, állat: állat}
+sentences:
+  - text: "Vasárnap Anna, Gábor és Bence az állatkertben vannak."
+    picture: "🦁"
+    help: {en: "On Sunday Anna, Gábor and Bence are at the zoo.", de: "Am Sonntag sind Anna, Gábor und Bence im Zoo."}
+  - text: "Bence egy gyerek. Ő Gábor gyereke."
+    picture: "👦"
+    help: {en: "Bence is a child. He is Gábor's child.", de: "Bence ist ein Kind. Er ist Gábors Kind."}
+  - text: "Az állatkertben sok állat van."
+    picture: "🐘"
+    help: {en: "There are many animals in the zoo.", de: "Im Zoo gibt es viele Tiere."}
+  - text: "Apa, ott van egy oroszlán!"
+    speaker: 1
+    picture: "👉"
+    help: {en: "Dad, there's a lion over there!", de: "Papa, da ist ein Löwe!"}
+  - text: "Az oroszlán nagyon nagy!"
+    speaker: 1
+    picture: "😮"
+    help: {en: "The lion is very big!", de: "Der Löwe ist sehr groß!"}
+  - text: "Igen, és nagyon szép."
+    speaker: 2
+    picture: "🦁"
+    help: {en: "Yes, and very beautiful.", de: "Ja, und sehr schön."}
+  - text: "Itt van egy majom."
+    picture: "🐒"
+    help: {en: "Here is a monkey.", de: "Hier ist ein Affe."}
+  - text: "Apa, a majom eszik! Mit eszik?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "Dad, the monkey is eating! What is it eating?", de: "Papa, der Affe isst! Was isst er?"}
+  - text: "Almát eszik."
+    speaker: 2
+    picture: "🍎"
+    help: {en: "It's eating an apple.", de: "Er isst einen Apfel."}
+  - text: "A majom is szereti az almát! Én is!"
+    speaker: 1
+    picture: "🐵"
+    help: {en: "The monkey likes apples too! Me too!", de: "Der Affe mag auch Äpfel! Ich auch!"}
+  - text: "Apa, én szeretem az állatokat! Az állatkert nagyon jó!"
+    speaker: 1
+    picture: "😄"
+    help: {en: "Dad, I love animals! The zoo is great!", de: "Papa, ich mag Tiere! Der Zoo ist toll!"}

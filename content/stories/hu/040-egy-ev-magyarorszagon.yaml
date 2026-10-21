@@ -1,0 +1,43 @@
+lang: hu
+level: A2
+title: Egy év Magyarországon
+names: [Anna, Péter, Kati, Zsuzsa, Gábor, Bence, Magyarországon]
+new_words: [év, első, emlékszik]
+lemma_overrides: {neved: név, igen: igen, lakásában: lakás, vagy: van, tudtam: tud}
+sentences:
+  - text: "Anna egy éve lakik Magyarországon."
+    picture: "🇭🇺"
+    help: {en: "Anna has been living in Hungary for a year.", de: "Anna wohnt seit einem Jahr in Ungarn."}
+  - text: "Ma este Anna lakásában sok barát van: Péter, Kati, Zsuzsa, Gábor és Bence."
+    picture: "🥳"
+    help: {en: "This evening there are lots of friends in Anna's flat: Péter, Kati, Zsuzsa, Gábor and Bence.", de: "Heute Abend sind viele Freunde in Annas Wohnung: Péter, Kati, Zsuzsa, Gábor und Bence."}
+  - text: "Nagymama is itt van, és tortát hoz."
+    picture: "🎂"
+    help: {en: "Grandma is here too, and she brings a cake.", de: "Oma ist auch da und bringt eine Torte."}
+  - text: "Anna, emlékszel az első napra?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "Anna, do you remember the first day?", de: "Anna, erinnerst du dich an den ersten Tag?"}
+  - text: "Igen, emlékszem! Az első napon csak ezt tudtam: Szia, mi a neved?"
+    speaker: 2
+    picture: "👋"
+    help: {en: "Yes, I remember! On the first day all I could say was: Hi, what's your name?", de: "Ja, ich erinnere mich! Am ersten Tag konnte ich nur das: Hallo, wie heißt du?"}
+  - text: "És most?"
+    speaker: 1
+    picture: "😊"
+    help: {en: "And now?", de: "Und jetzt?"}
+  - text: "Most magyarul beszélek, magyarul olvasok, és sok magyar barátom van!"
+    speaker: 2
+    picture: "📚"
+    help: {en: "Now I speak Hungarian, I read Hungarian, and I have lots of Hungarian friends!", de: "Jetzt spreche ich Ungarisch, lese Ungarisch und habe viele ungarische Freunde!"}
+  - text: "Egy év Magyarországon! Boldog vagy, Anna?"
+    speaker: 1
+    picture: "🎉"
+    help: {en: "A year in Hungary! Are you happy, Anna?", de: "Ein Jahr in Ungarn! Bist du glücklich, Anna?"}
+  - text: "Nagyon boldog vagyok. Köszönöm, barátaim!"
+    speaker: 2
+    picture: "🥰"
+    help: {en: "I'm very happy. Thank you, my friends!", de: "Ich bin sehr glücklich. Danke, meine Freunde!"}
+  - text: "Szól a zene, és Anna barátai táncolnak. Nagymama is!"
+    picture: "💃"
+    help: {en: "Music plays, and Anna's friends dance. Grandma too!", de: "Musik spielt, und Annas Freunde tanzen. Oma auch!"}

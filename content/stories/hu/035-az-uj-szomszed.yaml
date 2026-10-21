@@ -1,0 +1,50 @@
+lang: hu
+level: A2
+title: Az új szomszéd
+names: [Anna, Zsuzsa]
+new_words: [szomszéd, ajtó, doboz, nehéz, segít]
+lemma_overrides: {igen: igen, vagy: van, vagyunk: van}
+sentences:
+  - text: "Anna most az új lakásban lakik."
+    picture: "🏠"
+    help: {en: "Anna lives in the new flat now.", de: "Anna wohnt jetzt in der neuen Wohnung."}
+  - text: "Ma sok doboz van az ajtónál."
+    picture: "📦"
+    help: {en: "Today there are lots of boxes by the door.", de: "Heute stehen viele Kisten an der Tür."}
+  - text: "A dobozok nagyon nehezek."
+    picture: "🏋️"
+    help: {en: "The boxes are very heavy.", de: "Die Kisten sind sehr schwer."}
+  - text: "Ez a doboz nagyon nehéz!"
+    speaker: 2
+    picture: "😓"
+    help: {en: "This box is really heavy!", de: "Diese Kiste ist sehr schwer!"}
+  - text: "Most a szomszéd jön az ajtóhoz."
+    picture: "🚪"
+    help: {en: "Now the neighbour comes to the door.", de: "Jetzt kommt die Nachbarin zur Tür."}
+  - text: "Jó napot! Segíthetek?"
+    speaker: 1
+    picture: "🙋‍♀️"
+    help: {en: "Hello! Can I help?", de: "Guten Tag! Kann ich helfen?"}
+  - text: "Zsuzsa?"
+    speaker: 2
+    picture: "😮"
+    help: {en: "Zsuzsa?", de: "Zsuzsa?"}
+  - text: "Anna! Te vagy az új szomszéd?"
+    speaker: 1
+    picture: "😲"
+    help: {en: "Anna! You're the new neighbour?", de: "Anna! Du bist die neue Nachbarin?"}
+  - text: "Igen, most én lakom itt!"
+    speaker: 2
+    picture: "🔑"
+    help: {en: "Yes, I live here now!", de: "Ja, jetzt wohne ich hier!"}
+  - text: "Zsuzsa segít, és most a dobozok a lakásban vannak."
+    picture: "🤝"
+    help: {en: "Zsuzsa helps, and now the boxes are in the flat.", de: "Zsuzsa hilft, und jetzt sind die Kisten in der Wohnung."}
+  - text: "Most szomszédok vagyunk!"
+    speaker: 1
+    picture: "😊"
+    help: {en: "Now we're neighbours!", de: "Jetzt sind wir Nachbarinnen!"}
+  - text: "És a tanárom a szomszédom!"
+    speaker: 2
+    picture: "👩‍🏫"
+    help: {en: "And my teacher is my neighbour!", de: "Und meine Lehrerin ist meine Nachbarin!"}

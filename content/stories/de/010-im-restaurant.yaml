@@ -1,0 +1,45 @@
+lang: de
+level: A2
+title: "Im Restaurant"
+names: [Lena, Mia, Jonas]
+new_words: [Restaurant, Kellner, Speisekarte, bestellen, Fisch]
+lemma_overrides: {Kellner: Kellner}
+sentences:
+  - text: "Am Abend gehen Lena und Mia in ein Restaurant."
+    picture: 🍽️
+    help: {en: "In the evening Lena and Mia go to a restaurant.", de: "Lena und Mia essen heute nicht zu Hause."}
+  - text: "Es ist das Restaurant, in dem Jonas als Koch arbeitet."
+    picture: 👨‍🍳
+    help: {en: "It's the restaurant where Jonas works as a cook.", de: "Jonas kocht in diesem Restaurant."}
+  - text: "Aber Jonas weiß nichts davon, denn es soll eine Überraschung sein."
+    picture: 🤫
+    help: {en: "But Jonas knows nothing about it, because it's meant to be a surprise.", de: "Jonas soll nicht wissen, dass sie kommen."}
+  - text: "Der Kellner bringt die Speisekarte, und die zwei lesen lange."
+    picture: 📜
+    help: {en: "The waiter brings the menu, and the two of them read for a long time.", de: "Sie bekommen die Karte und überlegen lange."}
+  - text: "Auf der Speisekarte stehen so viele gute Sachen!"
+    picture: 😍
+    help: {en: "There are so many good things on the menu!", de: "Alles auf der Karte klingt lecker."}
+  - text: "Am Ende bestellt Mia Fisch, und Lena nimmt die Suppe."
+    picture: 🐟
+    help: {en: "In the end Mia orders fish and Lena has the soup.", de: "Mia isst Fisch. Lena isst Suppe."}
+  - text: "Der Fisch ist perfekt, und die Suppe ist auch sehr gut."
+    picture: 😋
+    help: {en: "The fish is perfect and the soup is very good too.", de: "Das Essen schmeckt beiden sehr gut."}
+  - text: "Plötzlich bringt der Kellner Kuchen, aber sie haben keinen Kuchen bestellt."
+    picture: 🍰
+    help: {en: "Suddenly the waiter brings cake, but they haven't ordered any cake.", de: "Sie bekommen Kuchen, obwohl sie ihn nicht wollten."}
+  - text: "„Vom Koch – für die zwei Damen an Tisch fünf!“"
+    speaker: 1
+    picture: 🎁
+    help: {en: "“From the chef – for the two ladies at table five!”", de: "Der Kuchen ist ein Geschenk vom Koch."}
+  - text: "Lena lacht: „Er hat uns also doch gesehen!“"
+    speaker: 2
+    picture: 😂
+    help: {en: "Lena laughs: “So he did see us after all!”", de: "Jonas weiß doch, dass sie da sind."}
+  - text: "Später kommt Jonas aus der Küche und setzt sich kurz zu ihnen."
+    picture: 🧑‍🍳
+    help: {en: "Later Jonas comes out of the kitchen and sits with them for a moment.", de: "Jonas macht eine kleine Pause bei Lena und Mia."}
+  - text: "Dann bringt der Kellner einen kleinen Brief: „Heute bezahlt der Koch.“"
+    picture: ✉️
+    help: {en: "Then the waiter brings a little note: “Today the chef is paying.”", de: "Lena und Mia müssen nichts bezahlen."}

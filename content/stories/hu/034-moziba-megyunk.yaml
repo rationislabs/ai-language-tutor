@@ -1,0 +1,43 @@
+lang: hu
+level: A2
+title: Moziba megyünk
+names: [Anna, Péter]
+new_words: [mozi, film, néz, amerikai, unalmas]
+lemma_overrides: {jól: jó, ért: ért, igen: igen, értettem: ért, aludtam: alszik, nekem: én}
+sentences:
+  - text: "Szombat este Anna és Péter moziba mennek."
+    picture: "🎬"
+    help: {en: "On Saturday evening Anna and Péter go to the cinema.", de: "Am Samstagabend gehen Anna und Péter ins Kino."}
+  - text: "Mit nézünk? Egy amerikai filmet?"
+    speaker: 1
+    picture: "🍿"
+    help: {en: "What shall we watch? An American film?", de: "Was schauen wir? Einen amerikanischen Film?"}
+  - text: "Nem. Én egy magyar filmet szeretnék nézni."
+    speaker: 2
+    picture: "🇭🇺"
+    help: {en: "No. I'd like to watch a Hungarian film.", de: "Nein. Ich möchte einen ungarischen Film sehen."}
+  - text: "Egy magyar filmet? De az unalmas! Az amerikai film jobb."
+    speaker: 1
+    picture: "🙄"
+    help: {en: "A Hungarian film? But that's boring! The American film is better.", de: "Einen ungarischen Film? Aber das ist langweilig! Der amerikanische Film ist besser."}
+  - text: "Nem unalmas! És nekem jó, mert magyarul tanulok."
+    speaker: 2
+    picture: "📚"
+    help: {en: "It's not boring! And it's good for me, because I learn Hungarian that way.", de: "Er ist nicht langweilig! Und für mich ist es gut, weil ich so Ungarisch lerne."}
+  - text: "Hét órakor a moziban vannak."
+    picture: "🕖"
+    help: {en: "At seven o'clock they are in the cinema.", de: "Um sieben Uhr sind sie im Kino."}
+  - text: "Anna nézi a filmet, és sokat ért."
+    picture: "👀"
+    help: {en: "Anna watches the film and understands a lot.", de: "Anna schaut den Film und versteht viel."}
+  - text: "Péter is nézi a filmet... de alszik!"
+    picture: "😴"
+    help: {en: "Péter is watching the film too... but he's asleep!", de: "Péter schaut auch den Film... aber er schläft!"}
+  - text: "Péter! A film nagyon jó volt, és sokat értettem!"
+    speaker: 2
+    picture: "🤩"
+    help: {en: "Péter! The film was really good, and I understood a lot!", de: "Péter! Der Film war sehr gut, und ich habe viel verstanden!"}
+  - text: "Igen? Nekem unalmas volt... de jól aludtam!"
+    speaker: 1
+    picture: "😄"
+    help: {en: "Really? It was boring for me... but I slept well!", de: "Wirklich? Für mich war er langweilig... aber ich habe gut geschlafen!"}

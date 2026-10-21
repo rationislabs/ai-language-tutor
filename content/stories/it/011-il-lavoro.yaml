@@ -1,0 +1,48 @@
+lang: it
+level: A1
+title: Il lavoro
+names: [Marco, Luca]
+new_words: [lavorare, cameriere, cuoco, ogni, giorno, stanco]
+lemma_overrides: {anch': anche, al: a, lavoro: lavorare, lavori: lavorare}
+sentences:
+- text: Marco e Luca sono al bar.
+  picture: ☕
+  help: {en: Marco and Luca are at the café., de: Marco und Luca sind im Café.}
+- text: Luca, dove lavori?
+  picture: 💼
+  help: {en: 'Luca, where do you work?', de: 'Luca, wo arbeitest du?'}
+- text: Lavoro in un ristorante.
+  speaker: 1
+  picture: 🍽️
+  help: {en: I work in a restaurant., de: Ich arbeite in einem Restaurant.}
+- text: Sei cameriere?
+  picture: 🤵
+  help: {en: 'Are you a waiter?', de: 'Bist du Kellner?'}
+- text: No, non sono cameriere. Sono cuoco!
+  speaker: 1
+  picture: 👨‍🍳
+  help: {en: 'No, I''m not a waiter. I''m a cook!', de: 'Nein, ich bin kein Kellner. Ich bin Koch!'}
+- text: Un cuoco! E cosa fai?
+  picture: 😮
+  help: {en: 'A cook! And what do you make?', de: 'Ein Koch! Und was machst du?'}
+- text: Faccio la pizza e la pasta.
+  speaker: 1
+  picture: 🍕
+  help: {en: I make pizza and pasta., de: Ich mache Pizza und Nudeln.}
+- text: Lavori ogni giorno?
+  picture: 📅
+  help: {en: 'Do you work every day?', de: 'Arbeitest du jeden Tag?'}
+- text: Sì, lavoro ogni giorno, anche sabato e domenica.
+  speaker: 1
+  picture: 🗓️
+  help: {en: 'Yes, I work every day, Saturday and Sunday too.', de: 'Ja, ich arbeite jeden Tag, auch am Samstag und Sonntag.'}
+- text: Sei stanco?
+  picture: 🥱
+  help: {en: 'Are you tired?', de: 'Bist du müde?'}
+- text: Sì, sono stanco. Ma mangio la pizza ogni giorno!
+  speaker: 1
+  picture: 😋
+  help: {en: 'Yes, I''m tired. But I eat pizza every day!', de: 'Ja, ich bin müde. Aber ich esse jeden Tag Pizza!'}
+- text: La pizza ogni giorno? Anch'io voglio lavorare al ristorante!
+  picture: 😄
+  help: {en: 'Pizza every day? I want to work at the restaurant too!', de: 'Jeden Tag Pizza? Ich will auch im Restaurant arbeiten!'}

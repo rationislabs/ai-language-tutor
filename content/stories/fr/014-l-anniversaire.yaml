@@ -1,0 +1,48 @@
+lang: fr
+level: A1
+title: L'anniversaire
+names: [Théo, Léa, Hugo]
+new_words: [anniversaire, six, joyeux, gâteau, aux, cadeau]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "C'est l'anniversaire de Théo."
+    picture: 🎈
+    help: {en: "It's Théo's birthday.", de: "Théo hat Geburtstag."}
+  - text: "Il a six ans !"
+    picture: 6️⃣
+    help: {en: "He's six!", de: "Er ist jetzt sechs!"}
+  - text: "Joyeux anniversaire, Théo !"
+    picture: 🎉
+    help: {en: "Happy birthday, Théo!", de: "Alles Gute zum Geburtstag, Théo!"}
+  - text: "Un, deux, trois, quatre, cinq, six ! J'ai six ans !"
+    speaker: 1
+    picture: 🙌
+    help: {en: "One, two, three, four, five, six! I'm six!", de: "Eins, zwei, drei, vier, fünf, sechs! Ich bin sechs!"}
+  - text: "Voici le gâteau !"
+    picture: 🎂
+    help: {en: "Here's the cake!", de: "Hier ist der Kuchen!"}
+  - text: "Un gâteau aux pommes ! J'aime les gâteaux aux pommes !"
+    speaker: 1
+    picture: 🍎
+    help: {en: "An apple cake! I love apple cakes!", de: "Ein Apfelkuchen! Ich liebe Apfelkuchen!"}
+  - text: "Et voici mon cadeau, Théo."
+    picture: 🎁
+    help: {en: "And here's my present, Théo.", de: "Und hier ist mein Geschenk, Théo."}
+  - text: "Un bus ! Un petit bus rouge ! Merci, Léa !"
+    speaker: 1
+    picture: 🚌
+    help: {en: "A bus! A little red bus! Thank you, Léa!", de: "Ein Bus! Ein kleiner roter Bus! Danke, Léa!"}
+  - text: "Et voici le cadeau de Hugo."
+    picture: 🎁
+    help: {en: "And here's Hugo's present.", de: "Und hier ist das Geschenk von Hugo."}
+  - text: "Un pull bleu… Merci, Hugo."
+    speaker: 1
+    picture: 😐
+    help: {en: "A blue sweater… Thanks, Hugo.", de: "Ein blauer Pullover… Danke, Hugo."}
+  - text: "Joyeux anniversaire, Théo !"
+    picture: 🎶
+    help: {en: "Happy birthday, Théo!", de: "Alles Gute zum Geburtstag, Théo!"}
+  - text: "Un gâteau, un bus… J'aime mon anniversaire !"
+    speaker: 1
+    picture: 🥳
+    help: {en: "A cake, a bus… I love my birthday!", de: "Ein Kuchen, ein Bus… Ich liebe meinen Geburtstag!"}

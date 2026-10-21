@@ -1,0 +1,42 @@
+lang: hu
+level: A1
+title: A munkahelyen
+names: [Anna, Gábor]
+new_words: [iroda, dolgozik, munka, sok, főnök, hoz]
+lemma_overrides: {jól: jó, vagy: van, óra: óra, igen: igen, dolgozik: dolgozik, főnök: főnök}
+sentences:
+  - text: "Anna egy irodában dolgozik."
+    picture: "🏢"
+    help: {en: "Anna works in an office.", de: "Anna arbeitet in einem Büro."}
+  - text: "Gábor is az irodában dolgozik."
+    picture: "👨‍💼"
+    help: {en: "Gábor works in the office too.", de: "Gábor arbeitet auch im Büro."}
+  - text: "Szia, Anna! Hogy vagy?"
+    speaker: 1
+    picture: "👋"
+    help: {en: "Hi, Anna! How are you?", de: "Hallo, Anna! Wie geht es dir?"}
+  - text: "Jól vagyok, de ma sok a munka."
+    speaker: 2
+    picture: "📚"
+    help: {en: "I'm fine, but there's a lot of work today.", de: "Mir geht es gut, aber heute gibt es viel Arbeit."}
+  - text: "Igen, ma sok munka van."
+    speaker: 1
+    picture: "💻"
+    help: {en: "Yes, there's a lot of work today.", de: "Ja, heute gibt es viel Arbeit."}
+  - text: "Anna és Gábor dolgoznak. Egy óra, két óra, három óra..."
+    picture: "⏳"
+    help: {en: "Anna and Gábor work. One hour, two hours, three hours...", de: "Anna und Gábor arbeiten. Eine Stunde, zwei Stunden, drei Stunden..."}
+  - text: "Három órakor itt van a főnök."
+    picture: "👩‍💼"
+    help: {en: "At three o'clock the boss is here.", de: "Um drei Uhr ist die Chefin da."}
+  - text: "A főnök kávét és süteményt hoz."
+    picture: "☕"
+    help: {en: "The boss brings coffee and cake.", de: "Die Chefin bringt Kaffee und Kuchen."}
+  - text: "Süteményt hozol? Köszönöm!"
+    speaker: 1
+    picture: "🍰"
+    help: {en: "You're bringing cake? Thank you!", de: "Du bringst Kuchen? Danke!"}
+  - text: "Sok a munka, de jó a főnök!"
+    speaker: 2
+    picture: "😄"
+    help: {en: "There's a lot of work, but the boss is nice!", de: "Es gibt viel Arbeit, aber die Chefin ist nett!"}

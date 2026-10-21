@@ -1,0 +1,40 @@
+lang: de
+level: B1
+title: "Krank im Urlaub"
+names: [Mia, Tim]
+new_words: [Hochzeitsreise, Strand, Medikament, Schatten]
+lemma_overrides: {gegessen: essen}
+sentences:
+  - text: "Für ihre Hochzeitsreise hatten Mia und Tim eine Woche am Meer gebucht."
+    picture: 🏖️
+    help: {en: "For their honeymoon Mia and Tim had booked a week by the sea.", de: "Nach der Hochzeit fuhren Mia und Tim ans Meer."}
+  - text: "Doch schon am ersten Abend bekam Tim hohes Fieber, und ihm war schlecht."
+    picture: 🤒
+    help: {en: "But on the very first evening Tim got a high temperature and felt sick.", de: "Tim wurde sofort krank."}
+  - text: "Er hatte am Strand zu lange ohne Schatten in der Sonne gelegen und außerdem einen Fisch gegessen, der nicht mehr frisch war."
+    picture: 🐟
+    help: {en: "He had lain in the sun on the beach too long without shade, and had also eaten a fish that wasn't fresh any more.", de: "Zu viel Sonne und schlechtes Essen haben Tim krank gemacht."}
+  - text: "„Warum gerade jetzt?“, stöhnte er, als er im Bett lag."
+    picture: 😩
+    help: {en: "“Why now of all times?” he groaned as he lay in bed.", de: "Tim war traurig, weil er im Urlaub krank war."}
+  - text: "Gut, dass Mia Krankenschwester war und genau wusste, was zu tun war."
+    picture: 👩‍⚕️
+    help: {en: "Good thing Mia is a nurse and knew exactly what to do.", de: "Mia konnte Tim gut helfen."}
+  - text: "Sie kaufte Medikamente und kochte ihm Tee."
+    picture: 💊
+    help: {en: "She bought medicine and made him tea.", de: "Mia holte Tabletten und machte Tee."}
+  - text: "Drei Tage lang lag Tim im Bett, während Mia neben ihm saß und ihm Geschichten erzählte."
+    picture: 📖
+    help: {en: "For three days Tim lay in bed while Mia sat next to him telling him stories.", de: "Mia blieb bei Tim und erzählte ihm viel."}
+  - text: "„Es tut mir leid, dass ich unsere Hochzeitsreise kaputt gemacht habe“, sagte Tim."
+    picture: 😔
+    help: {en: "“I'm sorry I ruined our honeymoon,” said Tim.", de: "Tim fühlte sich schuldig."}
+  - text: "Mia lachte: „Wenn du gesund gewesen wärst, hätten wir nie so viel miteinander geredet.“"
+    picture: ❤️
+    help: {en: "Mia laughed: “If you'd been healthy, we'd never have talked to each other so much.”", de: "Mia fand die Zeit trotzdem schön."}
+  - text: "Am Ende der Woche ging es ihm endlich besser, und sie gingen zusammen an den Strand."
+    picture: 🌊
+    help: {en: "At the end of the week he was finally better, and they went to the beach together.", de: "Tim war wieder gesund."}
+  - text: "Diesmal blieb Tim im Schatten, und die Medikamente hatte er auch dabei."
+    picture: ⛱️
+    help: {en: "This time Tim stayed in the shade, and he had the medicine with him too.", de: "Tim war jetzt vorsichtiger."}

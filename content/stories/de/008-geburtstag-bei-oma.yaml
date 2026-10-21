@@ -1,0 +1,43 @@
+lang: de
+level: A2
+title: "Geburtstag bei Oma"
+names: [Hilde, Lena, Jonas]
+new_words: [Kerze, Rezept, probieren]
+lemma_overrides: {gebacken: backen}
+sentences:
+  - text: "Heute wird Oma Hilde 80 Jahre alt, und die ganze Familie feiert bei ihr."
+    picture: 🎂
+    help: {en: "Today Grandma Hilde turns 80, and the whole family is celebrating at her place.", de: "Oma Hilde hat Geburtstag. Die Familie ist bei ihr zu Hause."}
+  - text: "Lena kommt mit Jonas, und Jonas trägt einen großen Kuchen."
+    picture: 🍰
+    help: {en: "Lena comes with Jonas, and Jonas is carrying a big cake.", de: "Jonas bringt einen Kuchen mit."}
+  - text: "Aber auf dem Tisch steht schon ein Kuchen, denn Oma hat selbst gebacken."
+    picture: 🥧
+    help: {en: "But there's already a cake on the table, because Grandma baked one herself.", de: "Oma hat auch einen Kuchen gemacht."}
+  - text: "Alle singen, und Oma macht die Kerzen aus."
+    picture: 🕯️
+    help: {en: "Everyone sings, and Grandma blows out the candles.", de: "Die Familie singt ein Lied. Oma bläst die Kerzen aus."}
+  - text: "Dann probiert sie den Kuchen von Jonas."
+    picture: 😋
+    help: {en: "Then she tries Jonas's cake.", de: "Oma isst ein Stück von Jonas' Kuchen."}
+  - text: "„Sehr gut, junger Mann. Aber meiner ist besser.“"
+    speaker: 1
+    picture: 👵
+    help: {en: "“Very good, young man. But mine is better.”", de: "Oma findet ihren eigenen Kuchen besser."}
+  - text: "Alle lachen, und Jonas weiß nicht, was er sagen soll."
+    picture: 😳
+    help: {en: "Everyone laughs, and Jonas doesn't know what to say.", de: "Jonas ist ein bisschen überrascht."}
+  - text: "Später schreibt Oma ihm ihr Rezept auf."
+    picture: 📝
+    help: {en: "Later Grandma writes down her recipe for him.", de: "Oma gibt Jonas ihr Rezept auf Papier."}
+  - text: "„Das Rezept bekommt nur die Familie. Jetzt gehörst du dazu.“"
+    speaker: 1
+    picture: ❤️
+    help: {en: "“Only the family gets this recipe. Now you're one of us.”", de: "Oma sagt: Jonas ist jetzt Teil der Familie."}
+  - text: "„Danke! Den Kuchen will ich unbedingt probieren!“"
+    speaker: 2
+    picture: 🙏
+    help: {en: "“Thank you! I really want to try this cake!”", de: "Jonas freut sich sehr über das Rezept."}
+  - text: "Am Abend ist von beiden Kuchen nichts mehr übrig, und auf dem Tisch stehen nur noch die Kerzen."
+    picture: 🍽️
+    help: {en: "By the evening there's nothing left of either cake, and only the candles are still on the table.", de: "Alle Kuchen sind gegessen. Nur die Kerzen sind noch da."}

@@ -1,0 +1,43 @@
+lang: hu
+level: A1
+title: A lakásom
+names: [Anna, Péter]
+new_words: [lakás, szoba, konyha, kicsi, itt, de]
+lemma_overrides: {igen: igen, lakásom: lakás}
+sentences:
+  - text: "Szia, Péter! Ez a lakásom."
+    speaker: 2
+    picture: "🏠"
+    help: {en: "Hi, Péter! This is my flat.", de: "Hallo, Péter! Das ist meine Wohnung."}
+  - text: "Szia, Anna! Hány szoba van itt?"
+    speaker: 1
+    picture: "🚪"
+    help: {en: "Hi, Anna! How many rooms are there here?", de: "Hallo, Anna! Wie viele Zimmer gibt es hier?"}
+  - text: "Egy szoba van. A lakás kicsi."
+    speaker: 2
+    picture: "☝️"
+    help: {en: "There is one room. The flat is small.", de: "Es gibt ein Zimmer. Die Wohnung ist klein."}
+  - text: "Itt van a szoba."
+    speaker: 2
+    picture: "🛏️"
+    help: {en: "Here is the room.", de: "Hier ist das Zimmer."}
+  - text: "A szoba kicsi, de jó."
+    speaker: 1
+    picture: "👍"
+    help: {en: "The room is small, but nice.", de: "Das Zimmer ist klein, aber schön."}
+  - text: "És itt van a konyha."
+    speaker: 2
+    picture: "🍳"
+    help: {en: "And here is the kitchen.", de: "Und hier ist die Küche."}
+  - text: "A konyha is kicsi!"
+    speaker: 1
+    picture: "🤏"
+    help: {en: "The kitchen is small too!", de: "Die Küche ist auch klein!"}
+  - text: "Igen, kicsi. De ez az én lakásom!"
+    speaker: 2
+    picture: "🔑"
+    help: {en: "Yes, it's small. But this is my flat!", de: "Ja, sie ist klein. Aber das ist meine Wohnung!"}
+  - text: "Jó lakás, Anna!"
+    speaker: 1
+    picture: "😊"
+    help: {en: "It's a nice flat, Anna!", de: "Eine schöne Wohnung, Anna!"}

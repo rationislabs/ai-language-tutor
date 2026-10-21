@@ -1,0 +1,43 @@
+lang: hu
+level: A1
+title: Számok és idő
+names: [Anna, Péter]
+new_words: [hány, óra, most, egy, két, három]
+lemma_overrides: {óra: óra, órád: óra, órám: óra}
+sentences:
+  - text: "Péter, hány óra van?"
+    speaker: 2
+    picture: "🕐"
+    help: {en: "Péter, what time is it?", de: "Péter, wie spät ist es?"}
+  - text: "Most egy óra van, Anna."
+    speaker: 1
+    picture: "🕐"
+    help: {en: "It's one o'clock now, Anna.", de: "Jetzt ist es ein Uhr, Anna."}
+  - text: "És most? Most hány óra van?"
+    speaker: 2
+    picture: "🕑"
+    help: {en: "And now? What time is it now?", de: "Und jetzt? Wie spät ist es jetzt?"}
+  - text: "Most két óra van."
+    speaker: 1
+    picture: "🕑"
+    help: {en: "It's two o'clock now.", de: "Jetzt ist es zwei Uhr."}
+  - text: "Két óra? És most hány óra van?"
+    speaker: 2
+    picture: "🕒"
+    help: {en: "Two o'clock? And what time is it now?", de: "Zwei Uhr? Und wie spät ist es jetzt?"}
+  - text: "Most három óra van!"
+    speaker: 1
+    picture: "🕒"
+    help: {en: "It's three o'clock now!", de: "Jetzt ist es drei Uhr!"}
+  - text: "Anna, ez egy óra. Ez a te órád."
+    speaker: 1
+    picture: "⌚"
+    help: {en: "Anna, this is a watch. This is your watch.", de: "Anna, das ist eine Uhr. Das ist deine Uhr."}
+  - text: "Az én órám? Köszönöm, Péter!"
+    speaker: 2
+    picture: "🎁"
+    help: {en: "My watch? Thank you, Péter!", de: "Meine Uhr? Danke, Péter!"}
+  - text: "Hány óra van? Három óra. Jó!"
+    speaker: 2
+    picture: "😄"
+    help: {en: "What time is it? Three o'clock. Good!", de: "Wie spät ist es? Drei Uhr. Gut!"}

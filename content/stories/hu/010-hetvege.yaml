@@ -1,0 +1,51 @@
+lang: hu
+level: A1
+title: Hétvége
+names: [Anna, Péter]
+new_words: [hétvége, szombat, vasárnap, otthon, alszik, csinál]
+lemma_overrides: {igen: igen, megyek: megy}
+sentences:
+  - text: "Péter, mit csinálsz a hétvégén?"
+    speaker: 2
+    picture: "📅"
+    help: {en: "Péter, what are you doing at the weekend?", de: "Péter, was machst du am Wochenende?"}
+  - text: "Szombaton a piacra megyek."
+    speaker: 1
+    picture: "🧺"
+    help: {en: "On Saturday I'm going to the market.", de: "Am Samstag gehe ich auf den Markt."}
+  - text: "És vasárnap? Mit csinálsz vasárnap?"
+    speaker: 2
+    picture: "🤔"
+    help: {en: "And on Sunday? What are you doing on Sunday?", de: "Und am Sonntag? Was machst du am Sonntag?"}
+  - text: "Vasárnap otthon vagyok."
+    speaker: 1
+    picture: "🏠"
+    help: {en: "On Sunday I'm at home.", de: "Am Sonntag bin ich zu Hause."}
+  - text: "És mit csinálsz otthon?"
+    speaker: 2
+    picture: "❓"
+    help: {en: "And what do you do at home?", de: "Und was machst du zu Hause?"}
+  - text: "Alszom."
+    speaker: 1
+    picture: "😴"
+    help: {en: "I sleep.", de: "Ich schlafe."}
+  - text: "Csak alszol?"
+    speaker: 2
+    picture: "😮"
+    help: {en: "You just sleep?", de: "Du schläfst nur?"}
+  - text: "Igen. Hétvége van!"
+    speaker: 1
+    picture: "🛌"
+    help: {en: "Yes. It's the weekend!", de: "Ja. Es ist Wochenende!"}
+  - text: "És te, Anna? Mit csinálsz a hétvégén?"
+    speaker: 1
+    picture: "🙂"
+    help: {en: "And you, Anna? What are you doing at the weekend?", de: "Und du, Anna? Was machst du am Wochenende?"}
+  - text: "Szombaton én is a piacra megyek!"
+    speaker: 2
+    picture: "🍎"
+    help: {en: "On Saturday I'm going to the market too!", de: "Am Samstag gehe ich auch auf den Markt!"}
+  - text: "Jó! Szombaton a piacon!"
+    speaker: 1
+    picture: "🤝"
+    help: {en: "Great! See you at the market on Saturday!", de: "Gut! Bis Samstag auf dem Markt!"}

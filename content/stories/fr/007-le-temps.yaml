@@ -1,0 +1,45 @@
+lang: fr
+level: A1
+title: Le temps
+names: [Léa, Hugo]
+new_words: [faire, beau, pleuvoir, froid, non, mais]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Léa, il fait beau ?"
+    speaker: 1
+    picture: ⛅
+    help: {en: "Léa, is the weather nice?", de: "Léa, ist das Wetter schön?"}
+  - text: "Non, il ne fait pas beau. Il pleut."
+    picture: 🌧️
+    help: {en: "No, the weather isn't nice. It's raining.", de: "Nein, das Wetter ist nicht schön. Es regnet."}
+  - text: "Il pleut ? Et il fait froid ?"
+    speaker: 1
+    picture: 🌬️
+    help: {en: "It's raining? And is it cold?", de: "Es regnet? Und ist es kalt?"}
+  - text: "Oui, il fait très froid."
+    picture: 🥶
+    help: {en: "Yes, it's very cold.", de: "Ja, es ist sehr kalt."}
+  - text: "Mais je voudrais aller au marché !"
+    speaker: 1
+    picture: 🧺
+    help: {en: "But I'd like to go to the market!", de: "Aber ich möchte auf den Markt gehen!"}
+  - text: "Non, Hugo ! Il pleut, et il fait froid."
+    picture: ☔
+    help: {en: "No, Hugo! It's raining, and it's cold.", de: "Nein, Hugo! Es regnet, und es ist kalt."}
+  - text: "Tu ne veux pas un thé au café ?"
+    picture: 🍵
+    help: {en: "Wouldn't you like a tea at the café?", de: "Möchtest du nicht einen Tee im Café?"}
+  - text: "Un thé ? Oui, très bien !"
+    speaker: 1
+    picture: 😊
+    help: {en: "A tea? Yes, great!", de: "Einen Tee? Ja, sehr gut!"}
+  - text: "Léa et Hugo sont au café."
+    picture: ☕
+    help: {en: "Léa and Hugo are at the café.", de: "Léa und Hugo sind im Café."}
+  - text: "Mais Léa… il ne pleut pas ! Il fait beau !"
+    speaker: 1
+    picture: ☀️
+    help: {en: "But Léa… it isn't raining! The weather is nice!", de: "Aber Léa… es regnet nicht! Das Wetter ist schön!"}
+  - text: "Très bien ! Au marché !"
+    picture: 🧺
+    help: {en: "Great! Off to the market!", de: "Super! Auf zum Markt!"}

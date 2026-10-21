@@ -1,0 +1,44 @@
+lang: hu
+level: A1
+title: Bevásárlás
+names: [Anna, Péter]
+new_words: [lista, sajt, hagyma, csoki]
+lemma_overrides: {vizet: víz, kenyeret: kenyér}
+sentences:
+  - text: "Szombat van. Anna és Péter a boltba mennek."
+    picture: "🛒"
+    help: {en: "It's Saturday. Anna and Péter go to the shop.", de: "Es ist Samstag. Anna und Péter gehen in den Laden."}
+  - text: "Itt van a lista: tej, kenyér, sajt, víz és hagyma."
+    speaker: 2
+    picture: "📝"
+    help: {en: "Here's the list: milk, bread, cheese, water and onions.", de: "Hier ist die Liste: Milch, Brot, Käse, Wasser und Zwiebeln."}
+  - text: "Jó. Én hozom a vizet és a hagymát."
+    speaker: 1
+    picture: "💧"
+    help: {en: "OK. I'll get the water and the onions.", de: "Gut. Ich hole das Wasser und die Zwiebeln."}
+  - text: "És én hozom a tejet, a kenyeret és a sajtot."
+    speaker: 2
+    picture: "🧀"
+    help: {en: "And I'll get the milk, the bread and the cheese.", de: "Und ich hole die Milch, das Brot und den Käse."}
+  - text: "Péter vizet és hagymát hoz. De csokit is hoz!"
+    picture: "🍫"
+    help: {en: "Péter brings water and onions. But he brings chocolate too!", de: "Péter bringt Wasser und Zwiebeln. Aber er bringt auch Schokolade!"}
+  - text: "Péter! A csoki nincs a listán!"
+    speaker: 2
+    picture: "😲"
+    help: {en: "Péter! Chocolate isn't on the list!", de: "Péter! Schokolade steht nicht auf der Liste!"}
+  - text: "Nincs a listán? De én szeretem a csokit!"
+    speaker: 1
+    picture: "😇"
+    help: {en: "It's not on the list? But I love chocolate!", de: "Steht nicht auf der Liste? Aber ich mag Schokolade!"}
+  - text: "Anna is hoz tejet, kenyeret, sajtot... és süteményt!"
+    picture: "🍰"
+    help: {en: "Anna brings milk, bread, cheese... and cake too!", de: "Anna bringt Milch, Brot, Käse... und Kuchen!"}
+  - text: "Anna! És a sütemény? Az a listán van?"
+    speaker: 1
+    picture: "🤨"
+    help: {en: "Anna! And the cake? Is that on the list?", de: "Anna! Und der Kuchen? Steht der auf der Liste?"}
+  - text: "Nem... De én szeretem a süteményt!"
+    speaker: 2
+    picture: "😄"
+    help: {en: "No... But I love cake!", de: "Nein... Aber ich mag Kuchen!"}

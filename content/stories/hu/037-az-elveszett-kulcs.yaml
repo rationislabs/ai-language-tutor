@@ -1,0 +1,51 @@
+lang: hu
+level: A2
+title: Az elveszett kulcs
+names: [Anna, Zsuzsa]
+new_words: [hol, táska, zseb, talál, kabát]
+lemma_overrides: {találtam: talál, kulcsom: kulcs, zsebemben: zseb, kabátod: kabát, kabátom: kabát, kabátomban: kabát}
+sentences:
+  - text: "Este Anna az ajtónál van."
+    picture: "🚪"
+    help: {en: "In the evening Anna is at her door.", de: "Am Abend steht Anna vor ihrer Tür."}
+  - text: "Hol van a kulcsom?"
+    speaker: 2
+    picture: "🔑"
+    help: {en: "Where's my key?", de: "Wo ist mein Schlüssel?"}
+  - text: "Anna a táskában keresi a kulcsot."
+    picture: "👜"
+    help: {en: "Anna looks for the key in her bag.", de: "Anna sucht den Schlüssel in der Tasche."}
+  - text: "A táskában van telefon, pénz, csoki... de kulcs nincs."
+    picture: "📱"
+    help: {en: "In the bag there's a phone, money, chocolate... but no key.", de: "In der Tasche sind ein Handy, Geld, Schokolade... aber kein Schlüssel."}
+  - text: "Nincs a táskában! És a zsebemben? Nem, ott nincs."
+    speaker: 2
+    picture: "😟"
+    help: {en: "It's not in the bag! And in my pocket? No, it's not there.", de: "Er ist nicht in der Tasche! Und in meiner Hosentasche? Nein, da ist er nicht."}
+  - text: "Most jön Zsuzsa, a szomszéd."
+    picture: "👩"
+    help: {en: "Now Zsuzsa, the neighbour, comes along.", de: "Jetzt kommt Zsuzsa, die Nachbarin."}
+  - text: "Szia, Anna! Mit keresel?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "Hi, Anna! What are you looking for?", de: "Hallo, Anna! Was suchst du?"}
+  - text: "A kulcsomat! Nem találom!"
+    speaker: 2
+    picture: "😩"
+    help: {en: "My key! I can't find it!", de: "Meinen Schlüssel! Ich finde ihn nicht!"}
+  - text: "Hol voltál ma?"
+    speaker: 1
+    picture: "🗺️"
+    help: {en: "Where have you been today?", de: "Wo warst du heute?"}
+  - text: "Az iskolában, a boltban és a parkban."
+    speaker: 2
+    picture: "🏫"
+    help: {en: "At school, at the shop and in the park.", de: "In der Schule, im Laden und im Park."}
+  - text: "És a kabátod zsebében?"
+    speaker: 1
+    picture: "🧥"
+    help: {en: "And in your coat pocket?", de: "Und in deiner Manteltasche?"}
+  - text: "Itt van! Nem találtam, mert a kabátomban volt! Köszönöm, Zsuzsa!"
+    speaker: 2
+    picture: "😅"
+    help: {en: "Here it is! I couldn't find it because it was in my coat! Thanks, Zsuzsa!", de: "Hier ist er! Ich habe ihn nicht gefunden, weil er in meinem Mantel war! Danke, Zsuzsa!"}

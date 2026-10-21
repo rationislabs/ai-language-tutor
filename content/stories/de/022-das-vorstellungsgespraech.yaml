@@ -1,0 +1,47 @@
+lang: de
+level: A2
+title: "Das Vorstellungsgespräch"
+names: [Jonas, Hilde]
+new_words: [Vorstellungsgespräch, Küchenchef, Chefin]
+lemma_overrides: {gebacken: backen}
+sentences:
+  - text: "Jonas hat heute ein Vorstellungsgespräch in einem großen Hotel."
+    picture: 👔
+    help: {en: "Jonas has a job interview at a big hotel today.", de: "Jonas möchte in einem Hotel arbeiten. Heute stellt er sich vor."}
+  - text: "Das Hotel sucht einen neuen Küchenchef."
+    picture: 🏨
+    help: {en: "The hotel is looking for a new head chef.", de: "Im Hotel ist eine Stelle frei."}
+  - text: "Jonas trägt seine besten Sachen und ist sehr nervös."
+    picture: 😬
+    help: {en: "Jonas is wearing his best clothes and is very nervous.", de: "Jonas hat sich schön angezogen. Er hat Angst."}
+  - text: "Die Chefin vom Hotel stellt ihm viele Fragen."
+    picture: ❓
+    help: {en: "The hotel manager asks him lots of questions.", de: "Die Chefin will viel über Jonas wissen."}
+  - text: "„Warum wollen Sie bei uns Küchenchef werden?“"
+    speaker: 1
+    picture: 🤔
+    help: {en: "“Why do you want to become head chef here?”", de: "Die Chefin fragt nach seinem Grund."}
+  - text: "Jonas antwortet, aber er findet nicht die richtigen Worte."
+    picture: 😶
+    help: {en: "Jonas answers, but he can't find the right words.", de: "Jonas spricht nicht gut, weil er nervös ist."}
+  - text: "Dann sagt die Chefin: „Genug geredet. Kochen Sie etwas für mich!“"
+    speaker: 1
+    picture: 👩‍💼
+    help: {en: "Then the manager says: “Enough talking. Cook something for me!”", de: "Jonas soll zeigen, was er kann."}
+  - text: "In der Küche vom Hotel backt Jonas den Kuchen von Oma Hilde."
+    picture: 🍰
+    help: {en: "In the hotel kitchen Jonas bakes Grandma Hilde's cake.", de: "Jonas macht das Rezept von Oma."}
+  - text: "Die Chefin probiert den Kuchen und sagt lange nichts."
+    picture: 😶
+    help: {en: "The manager tries the cake and says nothing for a long time.", de: "Die Chefin isst und ist ganz still."}
+  - text: "„So einen Kuchen hat meine Oma früher auch gebacken!“"
+    speaker: 1
+    picture: 👵
+    help: {en: "“My grandma used to bake a cake like this too!”", de: "Der Kuchen erinnert sie an ihre Oma."}
+  - text: "Am Abend ruft das Hotel an: Jonas hat den Job!"
+    picture: 🎉
+    help: {en: "In the evening the hotel calls: Jonas has got the job!", de: "Jonas wird Küchenchef."}
+  - text: "Jonas ruft sofort Oma an: „Dein Rezept hat mein Vorstellungsgespräch gerettet!“"
+    speaker: 2
+    picture: 📞
+    help: {en: "Jonas calls Grandma straight away: “Your recipe saved my job interview!”", de: "Jonas dankt Oma für ihr Rezept."}

@@ -1,0 +1,43 @@
+lang: fr
+level: A1
+title: Les nombres
+names: [Léa, Théo, Emma, Sam, Noé]
+new_words: [il, an, deux, trois, quatre, cinq]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Voici Théo, mon frère."
+    picture: 👦
+    help: {en: "This is Théo, my brother.", de: "Das ist Théo, mein Bruder."}
+  - text: "Il a cinq ans."
+    picture: 🖐️
+    help: {en: "He is five years old.", de: "Er ist fünf Jahre alt."}
+  - text: "Un, deux, trois, quatre, cinq ! J'ai cinq ans !"
+    speaker: 1
+    picture: 🎂
+    help: {en: "One, two, three, four, five! I'm five years old!", de: "Eins, zwei, drei, vier, fünf! Ich bin fünf Jahre alt!"}
+  - text: "Mon père, ma mère, Léa et Emma : un, deux, trois, quatre !"
+    speaker: 1
+    picture: 👨‍👩‍👧‍👧
+    help: {en: "My father, my mother, Léa and Emma: one, two, three, four!", de: "Mein Vater, meine Mutter, Léa und Emma: eins, zwei, drei, vier!"}
+  - text: "Et toi, Théo ?"
+    picture: 🤔
+    help: {en: "And you, Théo?", de: "Und du, Théo?"}
+  - text: "Et Théo… cinq !"
+    speaker: 1
+    picture: 🙌
+    help: {en: "And Théo… five!", de: "Und Théo… fünf!"}
+  - text: "Il a deux amis, Sam et Noé."
+    picture: 👦
+    help: {en: "He has two friends, Sam and Noé.", de: "Er hat zwei Freunde, Sam und Noé."}
+  - text: "Bonjour ! J'ai cinq ans."
+    speaker: 1
+    picture: 🖐️
+    help: {en: "Hello! I'm five.", de: "Hallo! Ich bin fünf."}
+  - text: "Et j'ai quatre ans."
+    speaker: 1
+    picture: ✋
+    help: {en: "And I'm four.", de: "Und ich bin vier."}
+  - text: "Sam, Noé et Théo : un, deux, trois amis !"
+    speaker: 1
+    picture: 👬
+    help: {en: "Sam, Noé and Théo: one, two, three friends!", de: "Sam, Noé und Théo: eins, zwei, drei Freunde!"}

@@ -1,0 +1,41 @@
+lang: it
+level: A1
+title: Il tempo
+names: [Marco, Anna]
+new_words: [oggi, fare, freddo, caldo, sole, piovere]
+lemma_overrides: {anch': anche}
+sentences:
+- text: Oggi Marco è a casa.
+  picture: 🏠
+  help: {en: Today Marco is at home., de: Heute ist Marco zu Hause.}
+- text: Fa freddo e piove.
+  picture: 🌧️
+  help: {en: It's cold and it's raining., de: Es ist kalt und es regnet.}
+- text: Marco ha un caffè caldo.
+  picture: ☕
+  help: {en: Marco has a hot coffee., de: Marco hat einen heißen Kaffee.}
+- text: Ciao, Marco! Come stai?
+  speaker: 1
+  picture: 📱
+  help: {en: 'Hi, Marco! How are you?', de: 'Hallo, Marco! Wie geht''s?'}
+- text: Bene, grazie. Ma qui fa freddo e piove.
+  picture: 🥶
+  help: {en: 'Fine, thanks. But here it''s cold and raining.', de: 'Gut, danke. Aber hier ist es kalt und es regnet.'}
+- text: Piove? Qui c'è il sole!
+  speaker: 1
+  picture: ☀️
+  help: {en: 'It''s raining? Here it''s sunny!', de: 'Es regnet? Hier scheint die Sonne!'}
+- text: E fa caldo!
+  speaker: 1
+  picture: 🥵
+  help: {en: And it's hot!, de: Und es ist warm!}
+- text: Il sole? Oggi?
+  picture: 😮
+  help: {en: 'Sun? Today?', de: 'Sonne? Heute?'}
+- text: Sì! Io non sono a casa.
+  speaker: 1
+  picture: 🏖️
+  help: {en: Yes! I'm not at home., de: Ja! Ich bin nicht zu Hause.}
+- text: Anch'io voglio il sole!
+  picture: 😩
+  help: {en: I want sun too!, de: Ich will auch Sonne!}

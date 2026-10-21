@@ -1,0 +1,42 @@
+lang: de
+level: B1
+title: "Rückblick auf das Jahr"
+names: [Lena, Jonas, Hilde, Mia, Tim, Emil, Gerda]
+new_words: [Silvester, Mitternacht, Feuerwerk]
+sentences:
+  - text: "An Silvester saßen alle Freunde bei Lena und Jonas auf dem Balkon."
+    picture: 🎆
+    help: {en: "On New Year's Eve all their friends were sitting on Lena and Jonas's balcony.", de: "Am letzten Abend im Jahr feierten alle zusammen."}
+  - text: "Kurz vor Mitternacht schlug Oma Hilde vor, dass jeder erzählen sollte, was ihm in diesem Jahr am wichtigsten gewesen war."
+    picture: 🕚
+    help: {en: "Shortly before midnight Grandma Hilde suggested that everyone should say what had mattered most to them this year.", de: "Oma hatte eine Idee: Jeder erzählt etwas über sein Jahr."}
+  - text: "Lena fing an: „Vor einem Jahr ist ein Mann mit schweren Kisten in unser Haus gezogen.“"
+    picture: 📦
+    help: {en: "Lena began: “A year ago a man with heavy boxes moved into our building.”", de: "Lena dachte an den Tag, an dem sie Jonas kennengelernt hat."}
+  - text: "„Hätte ich ihm damals nicht mit seinen Büchern geholfen, säße ich heute vielleicht allein hier.“"
+    picture: 📚
+    help: {en: "“If I hadn't helped him with his books back then, I might be sitting here alone today.”", de: "Ohne diesen Tag wäre Lena heute nicht mit Jonas zusammen."}
+  - text: "Mia erzählte, wie sie Lena dank eines verpassten Zugs nach vielen Jahren wiedergesehen hatte."
+    picture: 🚆
+    help: {en: "Mia told how she had met Lena again after many years thanks to a missed train.", de: "Mia dachte an den Tag am Bahnhof."}
+  - text: "Tim sagte nur, dass er jetzt verheiratet sei und hoffentlich nie wieder Zwiebeln schneiden müsse."
+    picture: 🧅
+    help: {en: "Tim just said that he was married now and hopefully would never have to chop onions again.", de: "Tim machte einen Witz über den Kochabend."}
+  - text: "Emil war besonders stolz auf den Ball, den er im Verein im Tor gehalten hatte."
+    picture: ⚽
+    help: {en: "Emil was especially proud of the ball he had saved in goal at his club.", de: "Emil dachte an sein großes Spiel."}
+  - text: "Dann nahm Oma Hilde ihr Glas: „Und ich habe endlich Freundschaft mit Gerda geschlossen.“"
+    picture: 🥂
+    help: {en: "Then Grandma Hilde raised her glass: “And I've finally made friends with Gerda.”", de: "Oma freute sich über die neue Freundin."}
+  - text: "Alle lachten, und draußen war schon das erste Feuerwerk zu sehen."
+    picture: 🎇
+    help: {en: "Everyone laughed, and outside the first fireworks could already be seen.", de: "Draußen begann das Feiern."}
+  - text: "Jonas nahm Lena in den Arm und sagte: „Ich hoffe, das nächste Jahr wird genauso schön.“"
+    picture: 🤗
+    help: {en: "Jonas put his arm around Lena and said: “I hope next year will be just as lovely.”", de: "Jonas wünschte sich noch so ein gutes Jahr."}
+  - text: "Um Mitternacht tranken alle aus ihren Gläsern, und über der Stadt begann das große Feuerwerk."
+    picture: 🎆
+    help: {en: "At midnight everyone drank from their glasses, and the big fireworks display began over the city.", de: "Das neue Jahr fing an."}
+  - text: "Lena dachte, dass sie an diesem Silvester nichts in ihrem Leben ändern würde."
+    picture: ❤️
+    help: {en: "Lena thought that on this New Year's Eve she wouldn't change anything in her life.", de: "Lena war mit ihrem Leben sehr zufrieden."}

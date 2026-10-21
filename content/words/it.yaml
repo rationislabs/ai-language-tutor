@@ -1,0 +1,408 @@
+a:
+  de: zu; in; an
+  en: to; at
+  rank: 7
+acqua:
+  de: Wasser
+  en: water
+  rank: 308
+amico:
+  de: Freund; Freundin
+  en: friend
+  rank: 117
+anche:
+  de: auch
+  en: also; too
+  rank: 50
+andare:
+  de: gehen; fahren
+  en: to go
+  rank: 44
+anno:
+  de: Jahr
+  en: year
+  rank: 101
+autobus:
+  de: Bus
+  en: bus
+  rank: 1291
+avere:
+  de: haben
+  en: to have
+  rank: 12
+bar:
+  de: Café; Bar
+  en: café; bar
+  rank: 617
+bello:
+  de: schön
+  en: beautiful; lovely; nice
+  rank: 203
+bene:
+  de: gut
+  en: well; fine
+  rank: 25
+bere:
+  de: trinken
+  en: to drink
+  rank: 415
+buongiorno:
+  de: guten Morgen; guten Tag
+  en: good morning; hello
+  rank: 388
+buono:
+  de: gut
+  en: good
+  rank: 205
+caffè:
+  de: Kaffee
+  en: coffee
+  rank: 848
+caldo:
+  de: heiß; warm; Hitze
+  en: hot; warm
+  rank: 830
+cameriere:
+  de: Kellner
+  en: waiter
+  rank: 2618
+casa:
+  de: Haus; Wohnung; Zuhause
+  en: house; home
+  rank: 75
+chilo:
+  de: Kilo
+  en: kilo
+  rank: 1772
+ci:
+  de: da (c'è = es gibt)
+  en: there (c'è = there is)
+  rank: 23
+ciao:
+  de: hallo; tschüss
+  en: hi; bye
+  rank: 108
+città:
+  de: Stadt
+  en: city; town
+  rank: 409
+come:
+  de: wie
+  en: how; like
+  rank: 21
+compleanno:
+  de: Geburtstag
+  en: birthday
+  rank: 648
+cosa:
+  de: was; Sache
+  en: what; thing
+  rank: 15
+costare:
+  de: kosten
+  en: to cost
+  rank: 3974
+cucina:
+  de: Küche
+  en: kitchen
+  rank: 743
+cuoco:
+  de: Koch
+  en: cook
+  rank: 4102
+da:
+  de: von; bei; zu; seit
+  en: from; at (someone's place); since
+  rank: 20
+di:
+  de: von; aus
+  en: of; from
+  rank: 4
+domenica:
+  de: Sonntag
+  en: Sunday
+  rank: 1376
+dormire:
+  de: schlafen
+  en: to sleep
+  rank: 453
+dove:
+  de: wo
+  en: where
+  rank: 76
+due:
+  de: zwei
+  en: two
+  rank: 80
+e:
+  de: und
+  en: and
+  rank: 1
+essere:
+  de: sein
+  en: to be
+  rank: 9
+estate:
+  de: Sommer
+  en: summer
+  rank: 1144
+euro:
+  de: Euro
+  en: euro
+  rank: 2818
+famiglia:
+  de: Familie
+  en: family
+  rank: 189
+fare:
+  de: machen; tun (fa freddo = es ist kalt)
+  en: to do; to make (fa freddo = it's cold)
+  rank: 35
+festa:
+  de: Party; Fest
+  en: party; celebration
+  rank: 328
+fine:
+  de: Ende (fine settimana = Wochenende)
+  en: end (fine settimana = weekend)
+  rank: 221
+freddo:
+  de: kalt; Kälte
+  en: cold
+  rank: 717
+gatto:
+  de: Katze
+  en: cat
+  rank: 1141
+giorno:
+  de: Tag
+  en: day
+  rank: 126
+giovane:
+  de: jung
+  en: young
+  rank: 470
+grazie:
+  de: danke
+  en: thank you
+  rank: 51
+il:
+  de: der; die; das
+  en: the
+  rank: 5
+in:
+  de: in; mit (in autobus = mit dem Bus)
+  en: in; into; by (in autobus)
+  rank: 10
+io:
+  de: ich
+  en: I
+  rank: 22
+lavorare:
+  de: arbeiten
+  en: to work
+  rank: 359
+letto:
+  de: Bett
+  en: bed
+  rank: 3896
+lontano:
+  de: weit; weit weg
+  en: far; far away
+  rank: 472
+ma:
+  de: aber
+  en: but
+  rank: 14
+madre:
+  de: Mutter
+  en: mother
+  rank: 143
+male:
+  de: schlecht; Schmerz (mal di testa = Kopfschmerzen)
+  en: bad; badly; pain (mal di testa = headache)
+  rank: 142
+mangiare:
+  de: essen
+  en: to eat
+  rank: 375
+mare:
+  de: Meer
+  en: sea; seaside
+  rank: 792
+medico:
+  de: Arzt; Ärztin
+  en: doctor
+  rank: 587
+mela:
+  de: Apfel
+  en: apple
+  rank: 3190
+mercato:
+  de: Markt
+  en: market
+  rank: 1186
+mi:
+  de: mich; mir (mi piace = mir gefällt)
+  en: me; to me (mi piace = I like)
+  rank: 11
+mio:
+  de: mein
+  en: my; mine
+  rank: 30
+museo:
+  de: Museum
+  en: museum
+  rank: 2307
+nero:
+  de: schwarz
+  en: black
+  rank: 662
+'no':
+  de: nein
+  en: 'no'
+  rank: 17
+non:
+  de: nicht; kein
+  en: not
+  rank: 2
+o:
+  de: oder
+  en: or
+  rank: 49
+oggi:
+  de: heute
+  en: today
+  rank: 163
+ogni:
+  de: jeder; jede; jedes
+  en: every; each
+  rank: 127
+pasta:
+  de: Nudeln; Pasta
+  en: pasta
+  rank: 3103
+per:
+  de: für
+  en: for
+  rank: 8
+piacere:
+  de: Vergnügen; freut mich; gefallen (mi piace = mir gefällt)
+  en: pleasure; nice to meet you; to please (mi piace = I like)
+  rank: 164
+piccolo:
+  de: klein
+  en: small; little
+  rank: 288
+piovere:
+  de: regnen
+  en: to rain
+  rank: 4505
+pizza:
+  de: Pizza
+  en: pizza
+  rank: 1515
+quanto:
+  de: wie viel; wie viele
+  en: how much; how many
+  rank: 99
+quattro:
+  de: vier
+  en: four
+  rank: 331
+questo:
+  de: dieser; das
+  en: this
+  rank: 24
+qui:
+  de: hier
+  en: here
+  rank: 26
+regalo:
+  de: Geschenk
+  en: present; gift
+  rank: 702
+ristorante:
+  de: Restaurant
+  en: restaurant
+  rank: 953
+rosso:
+  de: rot
+  en: red
+  rank: 879
+sabato:
+  de: Samstag
+  en: Saturday
+  rank: 1297
+settimana:
+  de: Woche
+  en: week
+  rank: 270
+sole:
+  de: Sonne
+  en: sun
+  rank: 566
+sorella:
+  de: Schwester
+  en: sister
+  rank: 333
+stanco:
+  de: müde
+  en: tired
+  rank: 1168
+stare:
+  de: sich fühlen; bleiben
+  en: to be (feeling); to stay
+  rank: 53
+sì:
+  de: ja
+  en: 'yes'
+  rank: 37
+testa:
+  de: Kopf
+  en: head
+  rank: 196
+ti:
+  de: dich; dir (ti piace? = gefällt dir?)
+  en: you; to you (ti piace? = do you like?)
+  rank: 18
+torta:
+  de: Torte; Kuchen
+  en: cake
+  rank: 3805
+tre:
+  de: drei
+  en: three
+  rank: 162
+treno:
+  de: Zug
+  en: train
+  rank: 862
+troppo:
+  de: zu viel; zu
+  en: too much; too
+  rank: 139
+tu:
+  de: du
+  en: you (singular)
+  rank: 28
+tuo:
+  de: dein
+  en: your; yours (singular)
+  rank: 58
+uno:
+  de: ein; eine; eins
+  en: a; an; one
+  rank: 6
+vacanza:
+  de: Urlaub; Ferien
+  en: holiday; vacation
+  rank: 1396
+vestito:
+  de: Kleid; Kleidung (vestiti)
+  en: dress; clothes (vestiti)
+  rank: 598
+volere:
+  de: wollen; möchten
+  en: to want
+  rank: 56

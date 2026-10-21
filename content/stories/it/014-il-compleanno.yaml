@@ -1,0 +1,43 @@
+lang: it
+level: A1
+title: Il compleanno
+names: [Marco, Anna, Luca, Sofia]
+new_words: [compleanno, quattro, festa, regalo, torta]
+lemma_overrides: {alla: a, torta: torta}
+sentences:
+- text: Oggi è il compleanno di Sofia.
+  picture: 🎂
+  help: {en: Today is Sofia's birthday., de: Heute hat Sofia Geburtstag.}
+- text: Sofia ha quattro anni.
+  picture: 👧
+  help: {en: Sofia is four years old., de: Sofia ist vier Jahre alt.}
+- text: C'è una festa a casa di Sofia.
+  picture: 🎉
+  help: {en: There's a party at Sofia's house., de: Bei Sofia zu Hause gibt es eine Party.}
+- text: Alla festa ci sono Marco, Anna e Luca.
+  picture: 👨‍👩‍👧
+  help: {en: 'Marco, Anna and Luca are at the party.', de: 'Marco, Anna und Luca sind auf der Party.'}
+- text: Buon compleanno, Sofia! Questo è il mio regalo.
+  picture: 🎁
+  help: {en: 'Happy birthday, Sofia! This is my present.', de: 'Alles Gute zum Geburtstag, Sofia! Das ist mein Geschenk.'}
+- text: Un regalo? Grazie!
+  speaker: 1
+  picture: 😊
+  help: {en: 'A present? Thank you!', de: 'Ein Geschenk? Danke!'}
+- text: Il regalo è un gatto piccolo e nero.
+  picture: 🐈‍⬛
+  help: {en: The present is a little black cat., de: Das Geschenk ist eine kleine schwarze Katze.}
+- text: Un gatto! Ho quattro anni e quattro gatti!
+  speaker: 1
+  picture: 😻
+  help: {en: A cat! I'm four and I have four cats!, de: Eine Katze! Ich bin vier und habe vier Katzen!}
+- text: Alla festa c'è anche una torta.
+  picture: 🍰
+  help: {en: There's a cake at the party too., de: Auf der Party gibt es auch eine Torte.}
+- text: Ma dov'è la torta?
+  speaker: 1
+  picture: ❓
+  help: {en: 'But where''s the cake?', de: 'Aber wo ist die Torte?'}
+- text: Il gatto piccolo mangia la torta!
+  picture: 😹
+  help: {en: The little cat is eating the cake!, de: Die kleine Katze frisst die Torte!}

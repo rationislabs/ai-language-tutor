@@ -1,0 +1,416 @@
+acheter:
+  de: kaufen
+  en: to buy
+  rank: 511
+aimer:
+  de: mögen, lieben
+  en: to like, to love
+  rank: 101
+aller:
+  de: gehen
+  en: to go (ça va = how are things)
+  rank: 38
+ami:
+  de: Freund
+  en: friend
+  rank: 179
+an:
+  de: Jahr
+  en: year (j'ai cinq ans = I'm five)
+  rank: 107
+anniversaire:
+  de: Geburtstag
+  en: birthday
+  rank: 564
+au:
+  de: zum, im, beim
+  en: to the, at the (à + le)
+  rank: 34
+aussi:
+  de: auch
+  en: also, too
+  rank: 65
+aux:
+  de: zu den, mit (à + les; aux pommes = mit Äpfeln)
+  en: to the, with (à + les; aux pommes = with apples)
+  rank: 97
+avec:
+  de: mit
+  en: with
+  rank: 30
+avoir:
+  de: haben
+  en: to have
+  rank: 14
+beau:
+  de: schön
+  en: beautiful, nice
+  rank: 271
+bien:
+  de: gut
+  en: well, fine
+  rank: 25
+bleu:
+  de: blau
+  en: blue
+  rank: 1148
+bonjour:
+  de: hallo, guten Tag
+  en: hello
+  rank: 132
+bus:
+  de: Bus
+  en: bus
+  rank: 1041
+cadeau:
+  de: Geschenk
+  en: present, gift
+  rank: 611
+café:
+  de: Kaffee; Café
+  en: coffee; café
+  rank: 409
+ce:
+  de: das, dies
+  en: this, that, it (c'est = it is)
+  rank: 10
+chambre:
+  de: Zimmer, Schlafzimmer
+  en: bedroom, room
+  rank: 265
+chat:
+  de: Katze
+  en: cat
+  rank: 1050
+chaud:
+  de: warm, heiß
+  en: warm, hot
+  rank: 653
+chez:
+  de: bei, zu (chez le médecin = beim Arzt)
+  en: at (someone's place) (chez le médecin = at the doctor's)
+  rank: 110
+cinq:
+  de: fünf
+  en: five
+  rank: 345
+combien:
+  de: wie viel, wie viele
+  en: how much, how many
+  rank: 188
+dans:
+  de: in
+  en: in
+  rank: 22
+de:
+  de: von
+  en: of, from
+  rank: 1
+deux:
+  de: zwei
+  en: two
+  rank: 71
+dimanche:
+  de: Sonntag
+  en: Sunday
+  rank: 1380
+eau:
+  de: Wasser
+  en: water
+  rank: 268
+elle:
+  de: sie (er/es for things)
+  en: she, it (elles = they)
+  rank: 24
+en:
+  de: in
+  en: in, to (en ville = in town)
+  rank: 16
+et:
+  de: und
+  en: and
+  rank: 12
+euro:
+  de: Euro
+  en: euro
+  rank: 3562
+faire:
+  de: machen, tun (il fait beau = es ist schön)
+  en: to do, to make (il fait beau = the weather is nice)
+  rank: 35
+froid:
+  de: kalt
+  en: cold
+  rank: 674
+frère:
+  de: Bruder
+  en: brother
+  rank: 220
+gâteau:
+  de: Kuchen
+  en: cake
+  rank: 1224
+heure:
+  de: Stunde; Uhr
+  en: hour; o'clock
+  rank: 194
+huit:
+  de: acht
+  en: eight
+  rank: 900
+il:
+  de: er, es (ils = sie)
+  en: he, it (il, ils = they)
+  rank: 13
+je:
+  de: ich
+  en: I
+  rank: 708
+joyeux:
+  de: fröhlich (joyeux anniversaire = alles Gute zum Geburtstag)
+  en: happy (joyeux anniversaire = happy birthday)
+  rank: 1080
+le:
+  de: der, die, das
+  en: the (le, la, l', les)
+  rank: 5
+mais:
+  de: aber
+  en: but
+  rank: 21
+maison:
+  de: Haus
+  en: house, home
+  rank: 123
+mal:
+  de: Schmerz (avoir mal = weh tun)
+  en: pain (avoir mal = to hurt)
+  rank: 109
+malade:
+  de: krank
+  en: ill, sick
+  rank: 437
+manger:
+  de: essen
+  en: to eat
+  rank: 314
+marché:
+  de: Markt
+  en: market
+  rank: 433
+matin:
+  de: Morgen (le matin = am Morgen)
+  en: morning (le matin = in the morning)
+  rank: 254
+mer:
+  de: Meer
+  en: sea, seaside
+  rank: 805
+merci:
+  de: danke
+  en: thank you
+  rank: 61
+mon:
+  de: mein
+  en: my (mon, ma, mes)
+  rank: null
+mère:
+  de: Mutter
+  en: mother
+  rank: 116
+médecin:
+  de: Arzt, Ärztin
+  en: doctor
+  rank: 590
+ne:
+  de: nicht (ne … pas)
+  en: not (ne … pas)
+  rank: 15
+non:
+  de: nein
+  en: 'no'
+  rank: 29
+nous:
+  de: wir, uns
+  en: we, us
+  rank: 23
+ou:
+  de: oder
+  en: or
+  rank: 58
+oui:
+  de: ja
+  en: 'yes'
+  rank: 37
+où:
+  de: wo, wohin
+  en: where
+  rank: 49
+partir:
+  de: wegfahren, abfahren
+  en: to leave, to go away
+  rank: 165
+pas:
+  de: nicht (ne … pas); pas de = kein
+  en: not (ne … pas); pas de = no
+  rank: 4
+petit:
+  de: klein
+  en: small, little
+  rank: 122
+plage:
+  de: Strand
+  en: beach
+  rank: 1296
+plaire:
+  de: gefallen (s'il vous plaît = bitte)
+  en: to please (s'il vous plaît = please)
+  rank: 159
+pleuvoir:
+  de: regnen
+  en: to rain (il pleut = it's raining)
+  rank: 3735
+poisson:
+  de: Fisch
+  en: fish
+  rank: 1159
+pomme:
+  de: Apfel
+  en: apple
+  rank: 2491
+poulet:
+  de: Hähnchen
+  en: chicken
+  rank: 1360
+pour:
+  de: für; um zu
+  en: for; to (pour manger = to eat)
+  rank: 19
+prendre:
+  de: nehmen
+  en: to take
+  rank: 127
+pull:
+  de: Pullover
+  en: sweater, jumper
+  rank: 3845
+père:
+  de: Vater
+  en: father
+  rank: 94
+quatre:
+  de: vier
+  en: four
+  rank: 360
+restaurant:
+  de: Restaurant
+  en: restaurant
+  rank: 1086
+revoir:
+  de: au revoir = auf Wiedersehen
+  en: au revoir = goodbye
+  rank: 230
+robe:
+  de: Kleid
+  en: dress
+  rank: 809
+rouge:
+  de: rot
+  en: red
+  rank: 588
+samedi:
+  de: Samstag
+  en: Saturday
+  rank: 1329
+si:
+  de: wenn (s'il vous plaît = bitte)
+  en: if (s'il vous plaît = please)
+  rank: 26
+six:
+  de: sechs
+  en: six
+  rank: 439
+soir:
+  de: Abend (le soir = am Abend)
+  en: evening (le soir = in the evening)
+  rank: 125
+sœur:
+  de: Schwester
+  en: sister
+  rank: 552
+thé:
+  de: Tee
+  en: tea
+  rank: 869
+toi:
+  de: dich, dir, du
+  en: you (stressed; also te, t')
+  rank: 8
+travailler:
+  de: arbeiten
+  en: to work
+  rank: 359
+trois:
+  de: drei
+  en: three
+  rank: 155
+trop:
+  de: zu viel
+  en: too much, too many
+  rank: 91
+très:
+  de: sehr
+  en: very
+  rank: 63
+tu:
+  de: du
+  en: you (one friend)
+  rank: 27963
+un:
+  de: ein
+  en: a, an (un, une; des = some)
+  rank: 9
+vacances:
+  de: Ferien, Urlaub
+  en: holidays, vacation
+  rank: null
+ventre:
+  de: Bauch
+  en: belly, stomach
+  rank: 1481
+ville:
+  de: Stadt
+  en: town, city (en ville = in town)
+  rank: 225
+voici:
+  de: hier ist, das ist
+  en: here is, this is
+  rank: 240
+vouloir:
+  de: wollen (je voudrais = ich möchte)
+  en: to want (je voudrais = I'd like)
+  rank: 44
+vous:
+  de: Sie, ihr
+  en: you (polite, or more than one)
+  rank: 7
+week-end:
+  de: Wochenende
+  en: weekend
+  rank: 1101
+y:
+  de: da (il y a = es gibt)
+  en: there (il y a = there is)
+  rank: 28
+à:
+  de: an, nach, um (à huit heures = um acht)
+  en: at, to, in (à huit heures = at eight)
+  rank: 11
+ça:
+  de: das, es
+  en: it, that
+  rank: 18
+être:
+  de: sein
+  en: to be
+  rank: 3

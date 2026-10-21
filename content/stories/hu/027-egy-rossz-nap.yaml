@@ -1,0 +1,43 @@
+lang: hu
+level: A1
+title: Egy rossz nap
+names: [Anna, Annának, Péter]
+new_words: [rossz, késik, esernyő, mérges, mert]
+lemma_overrides: {eső: eső, főnök: főnök, napja: nap, vagy: van}
+sentences:
+  - text: "Annának ma rossz napja van."
+    picture: "☹️"
+    help: {en: "Anna is having a bad day today.", de: "Anna hat heute einen schlechten Tag."}
+  - text: "Reggel Anna sokat alszik, és késik."
+    picture: "⏰"
+    help: {en: "In the morning Anna sleeps too long and is late.", de: "Am Morgen schläft Anna lange und kommt zu spät."}
+  - text: "A busz is késik."
+    picture: "🚌"
+    help: {en: "The bus is late too.", de: "Der Bus hat auch Verspätung."}
+  - text: "Esik az eső, de Anna esernyője otthon van."
+    picture: "☔"
+    help: {en: "It's raining, but Anna's umbrella is at home.", de: "Es regnet, aber Annas Regenschirm ist zu Hause."}
+  - text: "Anna mérges, mert nincs esernyője."
+    picture: "😤"
+    help: {en: "Anna is cross because she has no umbrella.", de: "Anna ist sauer, weil sie keinen Regenschirm hat."}
+  - text: "Az irodában a főnök is mérges, mert Anna késik."
+    picture: "😠"
+    help: {en: "At the office the boss is cross too, because Anna is late.", de: "Im Büro ist die Chefin auch sauer, weil Anna zu spät kommt."}
+  - text: "Anna kávét kér, de a kávé hideg."
+    picture: "☕"
+    help: {en: "Anna asks for coffee, but the coffee is cold.", de: "Anna will einen Kaffee, aber der Kaffee ist kalt."}
+  - text: "Ez nagyon rossz nap!"
+    speaker: 2
+    picture: "😩"
+    help: {en: "This is a really bad day!", de: "Das ist ein sehr schlechter Tag!"}
+  - text: "Este Péter jön, és süteményt hoz."
+    picture: "🍰"
+    help: {en: "In the evening Péter comes and brings cake.", de: "Am Abend kommt Péter und bringt Kuchen."}
+  - text: "Szia, Anna! Hogy vagy?"
+    speaker: 1
+    picture: "👋"
+    help: {en: "Hi, Anna! How are you?", de: "Hallo, Anna! Wie geht es dir?"}
+  - text: "Rossz nap volt, de az este jó!"
+    speaker: 2
+    picture: "😊"
+    help: {en: "It was a bad day, but the evening is good!", de: "Es war ein schlechter Tag, aber der Abend ist schön!"}

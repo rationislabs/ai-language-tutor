@@ -1,0 +1,47 @@
+lang: hu
+level: A1
+title: Nyár a Balatonon
+names: [Anna, Péter, Balaton, Balatonon]
+new_words: [nyár, tó, víz, úszik, strand, fagyi]
+lemma_overrides: {igen: igen, úszni: úszik, eszem: eszik}
+sentences:
+  - text: "Nyár van. Anna és Péter a Balatonon vannak."
+    picture: "☀️"
+    help: {en: "It's summer. Anna and Péter are at Lake Balaton.", de: "Es ist Sommer. Anna und Péter sind am Balaton."}
+  - text: "A Balaton egy nagy tó."
+    picture: "🏞️"
+    help: {en: "Balaton is a big lake.", de: "Der Balaton ist ein großer See."}
+  - text: "Anna és Péter a strandon ülnek."
+    picture: "🏖️"
+    help: {en: "Anna and Péter are sitting on the beach.", de: "Anna und Péter sitzen am Strand."}
+  - text: "Péter, jössz úszni?"
+    speaker: 2
+    picture: "🏊‍♀️"
+    help: {en: "Péter, are you coming for a swim?", de: "Péter, kommst du schwimmen?"}
+  - text: "A víz hideg?"
+    speaker: 1
+    picture: "💧"
+    help: {en: "Is the water cold?", de: "Ist das Wasser kalt?"}
+  - text: "Nem, a víz meleg! Nagyon jó!"
+    speaker: 2
+    picture: "🌊"
+    help: {en: "No, the water is warm! It's really nice!", de: "Nein, das Wasser ist warm! Sehr schön!"}
+  - text: "Anna úszik. Péter nem úszik, Péter fagyit eszik."
+    picture: "🍦"
+    help: {en: "Anna swims. Péter doesn't swim, Péter eats ice cream.", de: "Anna schwimmt. Péter schwimmt nicht, Péter isst ein Eis."}
+  - text: "Péter, te nem úszol?"
+    speaker: 2
+    picture: "🤨"
+    help: {en: "Péter, aren't you swimming?", de: "Péter, schwimmst du nicht?"}
+  - text: "Nem. Én a strandon fagyit eszem. Ez a nyár!"
+    speaker: 1
+    picture: "😎"
+    help: {en: "No. I eat ice cream on the beach. That's summer!", de: "Nein. Ich esse am Strand Eis. Das ist Sommer!"}
+  - text: "De a tó nagyon szép!"
+    speaker: 2
+    picture: "😍"
+    help: {en: "But the lake is so beautiful!", de: "Aber der See ist sehr schön!"}
+  - text: "Igen, a tó szép. De a fagyi is!"
+    speaker: 1
+    picture: "😄"
+    help: {en: "Yes, the lake is beautiful. But so is the ice cream!", de: "Ja, der See ist schön. Aber das Eis auch!"}

@@ -1,0 +1,41 @@
+lang: hu
+level: A1
+title: A piacon
+names: [Anna]
+new_words: [piac, alma, kiló, mennyi, száz, forint]
+lemma_overrides: {alma: alma, háromszáz: száz, kétszáz: száz, kenyeret: kenyér}
+sentences:
+  - text: "Anna a piacon van."
+    picture: "🧺"
+    help: {en: "Anna is at the market.", de: "Anna ist auf dem Markt."}
+  - text: "A piacon alma és kenyér is van."
+    picture: "🍎"
+    help: {en: "There are apples and bread at the market too.", de: "Auf dem Markt gibt es Äpfel und auch Brot."}
+  - text: "Mennyi egy kiló alma?"
+    speaker: 2
+    picture: "⚖️"
+    help: {en: "How much is a kilo of apples?", de: "Wie viel kostet ein Kilo Äpfel?"}
+  - text: "Egy kiló alma háromszáz forint."
+    speaker: 1
+    picture: "🪙"
+    help: {en: "A kilo of apples is three hundred forints.", de: "Ein Kilo Äpfel kostet dreihundert Forint."}
+  - text: "És mennyi a kenyér?"
+    speaker: 2
+    picture: "🍞"
+    help: {en: "And how much is the bread?", de: "Und wie viel kostet das Brot?"}
+  - text: "A kenyér kétszáz forint."
+    speaker: 1
+    picture: "💰"
+    help: {en: "The bread is two hundred forints.", de: "Das Brot kostet zweihundert Forint."}
+  - text: "Két kiló almát és egy kenyeret kérek."
+    speaker: 2
+    picture: "🛒"
+    help: {en: "I'd like two kilos of apples and a loaf of bread.", de: "Ich möchte zwei Kilo Äpfel und ein Brot."}
+  - text: "Itt van az alma és a kenyér. Köszönöm!"
+    speaker: 1
+    picture: "🛍️"
+    help: {en: "Here are the apples and the bread. Thank you!", de: "Hier sind die Äpfel und das Brot. Danke!"}
+  - text: "Köszönöm! Jó ez a piac!"
+    speaker: 2
+    picture: "😊"
+    help: {en: "Thank you! This market is good!", de: "Danke! Dieser Markt ist gut!"}

@@ -1,0 +1,46 @@
+lang: de
+level: A2
+title: "Der Handwerker"
+names: [Lena]
+new_words: [Heizung, Handwerker, Termin, Pullover]
+sentences:
+  - text: "In der Wohnung von Lena ist es kalt, denn die Heizung ist kaputt."
+    picture: 🥶
+    help: {en: "It's cold in Lena's flat because the heating is broken.", de: "Die Heizung geht nicht. Lena friert."}
+  - text: "Sie ruft einen Handwerker an."
+    picture: 📞
+    help: {en: "She calls a repairman.", de: "Lena telefoniert mit einem Fachmann."}
+  - text: "Er hat erst in drei Tagen einen Termin frei."
+    picture: 📅
+    help: {en: "He doesn't have a free appointment for three days.", de: "Der Handwerker kann erst in drei Tagen kommen."}
+  - text: "Drei Tage lang trägt Lena zu Hause zwei Pullover."
+    picture: 🧶
+    help: {en: "For three days Lena wears two jumpers at home.", de: "Lena zieht viel warme Kleidung an."}
+  - text: "Endlich kommt der Handwerker und schaut sich die Heizung an."
+    picture: 🔧
+    help: {en: "Finally the repairman comes and looks at the heating.", de: "Der Handwerker sucht das Problem."}
+  - text: "„Da fehlt ein kleines Teil. Das bringe ich morgen.“"
+    speaker: 1
+    picture: 🔩
+    help: {en: "“There's a small part missing. I'll bring it tomorrow.”", de: "Ein Stück fehlt. Er kommt morgen wieder."}
+  - text: "Am nächsten Tag bringt er das Teil, aber es ist das falsche."
+    picture: 🤦
+    help: {en: "The next day he brings the part, but it's the wrong one.", de: "Das Teil passt nicht."}
+  - text: "„Tut mir leid. Ich komme morgen wieder.“"
+    speaker: 1
+    picture: 😅
+    help: {en: "“Sorry. I'll come back tomorrow.”", de: "Er muss noch einmal kommen."}
+  - text: "Einen Tag später funktioniert die Heizung endlich wieder."
+    picture: 🔥
+    help: {en: "A day later the heating finally works again.", de: "Jetzt ist es in der Wohnung wieder warm."}
+  - text: "Lena braucht keinen Pullover mehr und kocht dem Handwerker einen Kaffee."
+    picture: ☕
+    help: {en: "Lena doesn't need a jumper any more and makes the repairman a coffee.", de: "Lena sagt mit einem Kaffee Danke."}
+  - text: "„Bis zum nächsten Termin!“, sagt er und lacht."
+    speaker: 1
+    picture: 👋
+    help: {en: "“Until the next appointment!” he says, laughing.", de: "Der Handwerker macht einen Witz."}
+  - text: "Lena lacht auch: „Hoffentlich nicht so bald!“"
+    speaker: 2
+    picture: 😄
+    help: {en: "Lena laughs too: “Hopefully not too soon!”", de: "Lena möchte nicht wieder eine kaputte Heizung haben."}

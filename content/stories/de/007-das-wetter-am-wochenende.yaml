@@ -1,0 +1,42 @@
+lang: de
+level: A2
+title: "Das Wetter am Wochenende"
+names: [Lena, Jonas, Mia, Emil]
+new_words: [Wetter, Picknick, regnen, Wohnzimmer, warm]
+sentences:
+  - text: "Lena schaut auf ihr Handy: Das Wetter am Wochenende soll schön werden."
+    picture: 📱
+    help: {en: "Lena checks her phone: the weather at the weekend is supposed to be nice.", de: "Laut Handy wird es am Wochenende schön."}
+  - text: "Sie plant mit Jonas, Mia und Emil ein Picknick am Wasser."
+    picture: 🧺
+    help: {en: "She plans a picnic by the water with Jonas, Mia and Emil.", de: "Die Freunde wollen draußen am Wasser essen."}
+  - text: "Jonas kocht das Essen, und Mia backt einen Kuchen."
+    picture: 🍰
+    help: {en: "Jonas cooks the food and Mia bakes a cake.", de: "Jonas und Mia machen das Essen für das Picknick."}
+  - text: "Doch am Wochenende ist es dunkel, und es regnet."
+    picture: 🌧️
+    help: {en: "But when the weekend comes, it is dark and raining.", de: "Am Wochenende ist das Wetter schlecht."}
+  - text: "Emil steht am Fenster und fragt traurig: „Kein Picknick?“"
+    speaker: 1
+    picture: 😢
+    help: {en: "Emil stands at the window and asks sadly: “No picnic?”", de: "Emil ist traurig, weil das Picknick vielleicht ausfällt."}
+  - text: "Da hat Mia eine Idee: „Wir machen das Picknick im Wohnzimmer!“"
+    speaker: 2
+    picture: 💡
+    help: {en: "Then Mia has an idea: “We'll have the picnic in the living room!”", de: "Mia will das Picknick in der Wohnung machen."}
+  - text: "Sie setzen sich im Wohnzimmer auf den Boden und essen."
+    picture: 🍽️
+    help: {en: "They sit down on the living-room floor and eat.", de: "Alle sitzen auf dem Boden und essen."}
+  - text: "Draußen regnet es weiter, aber drinnen ist es warm."
+    picture: ☔
+    help: {en: "Outside it keeps raining, but inside it's warm.", de: "Draußen ist es nass, aber in der Wohnung nicht."}
+  - text: "Emil findet, dass es das beste Picknick der Welt ist."
+    picture: 🌍
+    help: {en: "Emil thinks it's the best picnic in the world.", de: "Emil gefällt das Picknick sehr."}
+  - text: "Am Abend kommt endlich die Sonne."
+    picture: 🌇
+    help: {en: "In the evening the sun finally comes out.", de: "Am Abend wird das Wetter besser."}
+  - text: "Jonas lacht: „Morgen gibt es Sonne und warmes Wetter. Picknick Nummer zwei?“"
+    speaker: 1
+    picture: 😄
+    help: {en: "Jonas laughs: “Tomorrow there'll be sun and warm weather. Picnic number two?”", de: "Jonas will morgen noch ein Picknick machen, diesmal draußen."}

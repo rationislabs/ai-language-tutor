@@ -1,0 +1,50 @@
+lang: hu
+level: A2
+title: A fodrásznál
+names: [Anna, Péter, Péternek]
+new_words: [fodrász, haj, rövid, hosszú, vág, tükör]
+lemma_overrides: {nekem: én, hajam: haj, rövidebbet: rövid, haja: haj}
+sentences:
+  - text: "Anna haja nagyon hosszú. Ma Anna a fodrászhoz megy."
+    picture: "💇‍♀️"
+    help: {en: "Anna's hair is very long. Today Anna is going to the hairdresser's.", de: "Annas Haare sind sehr lang. Heute geht Anna zum Friseur."}
+  - text: "Jó napot! Mit csinálunk ma?"
+    speaker: 1
+    picture: "✂️"
+    help: {en: "Good afternoon! What are we doing today?", de: "Guten Tag! Was machen wir heute?"}
+  - text: "A hajam hosszú. Csak egy kicsit rövidebbet kérek."
+    speaker: 2
+    picture: "🤏"
+    help: {en: "My hair is long. I'd just like it a little shorter.", de: "Meine Haare sind lang. Ich möchte sie nur ein bisschen kürzer."}
+  - text: "Jó. Egy kicsit rövidebbet."
+    speaker: 1
+    picture: "👌"
+    help: {en: "All right. A little shorter.", de: "Gut. Ein bisschen kürzer."}
+  - text: "A fodrász vág, vág és vág..."
+    picture: "💈"
+    help: {en: "The hairdresser cuts and cuts and cuts...", de: "Die Friseurin schneidet und schneidet und schneidet..."}
+  - text: "Anna nem látja a haját, mert nincs ott tükör."
+    picture: "🙈"
+    help: {en: "Anna can't see her hair, because there's no mirror there.", de: "Anna sieht ihre Haare nicht, weil dort kein Spiegel ist."}
+  - text: "Most itt van a tükör. Tetszik?"
+    speaker: 1
+    picture: "🪞"
+    help: {en: "Here's the mirror now. Do you like it?", de: "Jetzt ist hier der Spiegel. Gefällt es Ihnen?"}
+  - text: "A hajam! Nagyon rövid!"
+    speaker: 2
+    picture: "😱"
+    help: {en: "My hair! It's very short!", de: "Meine Haare! Sehr kurz!"}
+  - text: "Rövid, de nagyon szép, nem?"
+    speaker: 1
+    picture: "😊"
+    help: {en: "It's short, but very pretty, isn't it?", de: "Kurz, aber sehr schön, oder?"}
+  - text: "Anna haja hosszú volt, most rövid. Anna nem boldog."
+    picture: "😟"
+    help: {en: "Anna's hair was long, now it's short. Anna isn't happy.", de: "Annas Haare waren lang, jetzt sind sie kurz. Anna ist nicht glücklich."}
+  - text: "Este Péter jön. Péternek nagyon tetszik Anna új haja."
+    picture: "😍"
+    help: {en: "In the evening Péter comes. Péter really likes Anna's new hair.", de: "Am Abend kommt Péter. Péter gefällt Annas neue Frisur sehr."}
+  - text: "Most nekem is tetszik!"
+    speaker: 2
+    picture: "😄"
+    help: {en: "Now I like it too!", de: "Jetzt gefällt sie mir auch!"}

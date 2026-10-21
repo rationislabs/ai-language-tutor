@@ -1,0 +1,44 @@
+lang: fr
+level: A1
+title: Ma famille
+names: [Léa, Hugo, Emma, Théo, Tom, Zoé]
+new_words: [avoir, frère, sœur, père, mère, le]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Hugo, voici mon père et ma mère."
+    picture: 👨‍👩‍👧
+    help: {en: "Hugo, this is my father and my mother.", de: "Hugo, das sind mein Vater und meine Mutter."}
+  - text: "Bonjour, Hugo ! Je suis le père de Léa."
+    speaker: 1
+    picture: 👨
+    help: {en: "Hello, Hugo! I'm Léa's father.", de: "Hallo, Hugo! Ich bin der Vater von Léa."}
+  - text: "Et je suis la mère de Léa. Bonjour !"
+    picture: 👩
+    help: {en: "And I'm Léa's mother. Hello!", de: "Und ich bin die Mutter von Léa. Hallo!"}
+  - text: "Bonjour ! Léa, tu as un frère ?"
+    speaker: 1
+    picture: 🤔
+    help: {en: "Hello! Léa, do you have a brother?", de: "Hallo! Léa, hast du einen Bruder?"}
+  - text: "Oui, j'ai un frère et une sœur."
+    picture: 👧
+    help: {en: "Yes, I have a brother and a sister.", de: "Ja, ich habe einen Bruder und eine Schwester."}
+  - text: "Mon frère, c'est Théo. Et ma sœur, c'est Emma."
+    picture: 👦
+    help: {en: "My brother is Théo. And my sister is Emma.", de: "Mein Bruder heißt Théo. Und meine Schwester heißt Emma."}
+  - text: "Emma ? Emma, c'est mon amie !"
+    speaker: 1
+    picture: 😲
+    help: {en: "Emma? Emma is my friend!", de: "Emma? Emma ist meine Freundin!"}
+  - text: "Bonjour, Hugo ! Oui, Léa, c'est ma sœur."
+    picture: 👋
+    help: {en: "Hello, Hugo! Yes, Léa is my sister.", de: "Hallo, Hugo! Ja, Léa ist meine Schwester."}
+  - text: "Et toi, Hugo, tu as un frère ?"
+    picture: 🙂
+    help: {en: "And you, Hugo, do you have a brother?", de: "Und du, Hugo, hast du einen Bruder?"}
+  - text: "Oui, j'ai un frère, Tom. Et j'ai une sœur, Zoé."
+    speaker: 1
+    picture: 👨‍👩‍👦‍👦
+    help: {en: "Yes, I have a brother, Tom. And I have a sister, Zoé.", de: "Ja, ich habe einen Bruder, Tom. Und ich habe eine Schwester, Zoé."}
+  - text: "Hugo, c'est mon ami, et c'est l'ami de ma sœur !"
+    picture: 🥰
+    help: {en: "Hugo is my friend, and he's my sister's friend too!", de: "Hugo ist mein Freund, und er ist auch ein Freund von meiner Schwester!"}

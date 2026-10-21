@@ -1,0 +1,46 @@
+lang: hu
+level: A1
+title: A postán
+names: [Anna, Németországba]
+new_words: [posta, csomag, levél, küld, bélyeg, nap]
+lemma_overrides: {levelet: levél, anyámnak: anya, háromezer: ezer}
+sentences:
+  - text: "Ma Anna a postára megy."
+    picture: "📮"
+    help: {en: "Today Anna goes to the post office.", de: "Heute geht Anna zur Post."}
+  - text: "A postán egy csomagot és egy levelet küld."
+    picture: "📦"
+    help: {en: "At the post office she sends a parcel and a letter.", de: "Bei der Post schickt sie ein Paket und einen Brief."}
+  - text: "Jó napot! Mit küld?"
+    speaker: 1
+    picture: "🧑‍💼"
+    help: {en: "Good afternoon! What are you sending?", de: "Guten Tag! Was schicken Sie?"}
+  - text: "Jó napot! Ez a csomag és ez a levél Németországba megy."
+    speaker: 2
+    picture: "🇩🇪"
+    help: {en: "Good afternoon! This parcel and this letter go to Germany.", de: "Guten Tag! Dieses Paket und dieser Brief gehen nach Deutschland."}
+  - text: "Mi van a csomagban?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "What's in the parcel?", de: "Was ist in dem Paket?"}
+  - text: "Egy ajándék. Anyámnak vasárnap születésnapja van."
+    speaker: 2
+    picture: "🎁"
+    help: {en: "A present. My mother's birthday is on Sunday.", de: "Ein Geschenk. Meine Mutter hat am Sonntag Geburtstag."}
+  - text: "A csomag háromezer forint. A levélre bélyeg kell."
+    speaker: 1
+    picture: "✉️"
+    help: {en: "The parcel is three thousand forints. The letter needs a stamp.", de: "Das Paket kostet dreitausend Forint. Auf den Brief gehört eine Briefmarke."}
+  - text: "Jó, kérek egy bélyeget is."
+    speaker: 2
+    picture: "🏷️"
+    help: {en: "OK, I'd like a stamp too.", de: "Gut, ich möchte auch eine Briefmarke."}
+  - text: "Anna fizet."
+    picture: "💳"
+    help: {en: "Anna pays.", de: "Anna bezahlt."}
+  - text: "Vasárnap szól a telefon. Anna anyja az."
+    picture: "📞"
+    help: {en: "On Sunday the phone rings. It's Anna's mother.", de: "Am Sonntag klingelt das Telefon. Es ist Annas Mutter."}
+  - text: "Az anyja nagyon boldog."
+    picture: "😊"
+    help: {en: "Her mother is very happy.", de: "Ihre Mutter ist sehr glücklich."}

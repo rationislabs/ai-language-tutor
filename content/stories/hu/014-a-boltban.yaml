@@ -1,0 +1,45 @@
+lang: hu
+level: A1
+title: A boltban
+names: [Anna, Péter]
+new_words: [bolt, vesz, tojás, pénz, nincs, ezer]
+lemma_overrides: {veszek: vesz, pénzed: pénz, kenyeret: kenyér, legjobb: jó, vagy: van}
+sentences:
+  - text: "Anna és Péter egy boltban vannak. A bolt nem nagy."
+    picture: "🏪"
+    help: {en: "Anna and Péter are in a shop. The shop isn't big.", de: "Anna und Péter sind in einem Laden. Der Laden ist nicht groß."}
+  - text: "Péter, tejet és tojást veszek. És te?"
+    speaker: 2
+    picture: "🥚"
+    help: {en: "Péter, I'm buying milk and eggs. And you?", de: "Péter, ich kaufe Milch und Eier. Und du?"}
+  - text: "Én kenyeret veszek."
+    speaker: 1
+    picture: "🍞"
+    help: {en: "I'm buying bread.", de: "Ich kaufe Brot."}
+  - text: "A tej, a tojás és a kenyér ezer forint."
+    picture: "🧾"
+    help: {en: "The milk, the eggs and the bread are a thousand forints.", de: "Milch, Eier und Brot kosten tausend Forint."}
+  - text: "Ezer forint? Itt van a pénzem..."
+    speaker: 2
+    picture: "👛"
+    help: {en: "A thousand forints? Here's my money...", de: "Tausend Forint? Hier ist mein Geld..."}
+  - text: "Nem! Nincs itt a pénzem!"
+    speaker: 2
+    picture: "😱"
+    help: {en: "No! My money isn't here!", de: "Nein! Mein Geld ist nicht da!"}
+  - text: "Nincs pénzed?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "You have no money?", de: "Du hast kein Geld?"}
+  - text: "Nincs. A pénzem otthon van."
+    speaker: 2
+    picture: "🏠"
+    help: {en: "No. My money is at home.", de: "Nein. Mein Geld ist zu Hause."}
+  - text: "Itt van ezer forint."
+    speaker: 1
+    picture: "💵"
+    help: {en: "Here's a thousand forints.", de: "Hier sind tausend Forint."}
+  - text: "Köszönöm, Péter! Te vagy a legjobb!"
+    speaker: 2
+    picture: "🤗"
+    help: {en: "Thank you, Péter! You're the best!", de: "Danke, Péter! Du bist der Beste!"}

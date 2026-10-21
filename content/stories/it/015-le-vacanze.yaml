@@ -1,0 +1,43 @@
+lang: it
+level: A1
+title: Le vacanze
+names: [Marco, Anna]
+new_words: [estate, vacanza, treno, acqua, bello]
+lemma_overrides: {al: a}
+sentences:
+- text: È estate. Marco e Anna vanno in vacanza.
+  picture: 🧳
+  help: {en: It's summer. Marco and Anna are going on holiday., de: Es ist Sommer. Marco und Anna fahren in den Urlaub.}
+- text: Vanno al mare in treno.
+  picture: 🚆
+  help: {en: They're going to the seaside by train., de: Sie fahren mit dem Zug ans Meer.}
+- text: In treno Marco dorme e Anna mangia una mela.
+  picture: 🍎
+  help: {en: On the train Marco sleeps and Anna eats an apple., de: Im Zug schläft Marco und Anna isst einen Apfel.}
+- text: Al mare fa caldo e c'è il sole.
+  picture: ☀️
+  help: {en: At the seaside it's hot and sunny., de: Am Meer ist es warm und die Sonne scheint.}
+- text: Marco, andiamo in acqua!
+  speaker: 1
+  picture: 🏊‍♀️
+  help: {en: 'Marco, let''s go in the water!', de: 'Marco, wir gehen ins Wasser!'}
+- text: No, l'acqua è fredda!
+  picture: 🥶
+  help: {en: 'No, the water is cold!', de: 'Nein, das Wasser ist kalt!'}
+- text: Non è fredda! È bella!
+  speaker: 1
+  picture: 🌊
+  help: {en: It's not cold! It's lovely!, de: Es ist nicht kalt! Es ist schön!}
+- text: Marco va in acqua. L'acqua è bella!
+  picture: 😄
+  help: {en: Marco goes into the water. The water is lovely!, de: Marco geht ins Wasser. Das Wasser ist schön!}
+- text: Ti piace questa vacanza?
+  speaker: 1
+  picture: 🏖️
+  help: {en: 'Do you like this holiday?', de: 'Gefällt dir dieser Urlaub?'}
+- text: Sì, mi piace! L'estate al mare è bella.
+  picture: 😎
+  help: {en: 'Yes, I like it! Summer at the seaside is lovely.', de: 'Ja, er gefällt mir! Der Sommer am Meer ist schön.'}
+- text: Io non voglio andare a casa!
+  picture: 🙅
+  help: {en: I don't want to go home!, de: Ich will nicht nach Hause!}

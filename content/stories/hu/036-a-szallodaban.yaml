@@ -1,0 +1,45 @@
+lang: hu
+level: A2
+title: A szállodában
+names: [Anna, Pécsen]
+new_words: [szálloda, kulcs, éjszaka, hangos, csendes, zene]
+lemma_overrides: {fent: fent, igen: igen, éjszaka: éjszaka, szobám: szoba, jól: jó}
+sentences:
+  - text: "Anna Pécsen van, egy szállodában."
+    picture: "🏨"
+    help: {en: "Anna is in Pécs, at a hotel.", de: "Anna ist in Pécs, in einem Hotel."}
+  - text: "Jó estét! Itt van a kulcs. A szoba fent van."
+    speaker: 1
+    picture: "🔑"
+    help: {en: "Good evening! Here's the key. The room is upstairs.", de: "Guten Abend! Hier ist der Schlüssel. Das Zimmer ist oben."}
+  - text: "A szoba szép, de nagyon hangos."
+    picture: "🛏️"
+    help: {en: "The room is nice, but very noisy.", de: "Das Zimmer ist schön, aber sehr laut."}
+  - text: "A szálloda éttermében hangos zene szól."
+    picture: "🎶"
+    help: {en: "Loud music is playing in the hotel restaurant.", de: "Im Hotelrestaurant läuft laute Musik."}
+  - text: "Éjszaka is szól a zene, és Anna nem alszik."
+    picture: "🌙"
+    help: {en: "The music plays at night too, and Anna can't sleep.", de: "Auch in der Nacht läuft die Musik, und Anna schläft nicht."}
+  - text: "Jó estét! A szobám nagyon hangos. Van egy csendes szoba?"
+    speaker: 2
+    picture: "😫"
+    help: {en: "Good evening! My room is very noisy. Is there a quiet room?", de: "Guten Abend! Mein Zimmer ist sehr laut. Gibt es ein ruhiges Zimmer?"}
+  - text: "Igen, van. Itt van egy új kulcs."
+    speaker: 1
+    picture: "🗝️"
+    help: {en: "Yes, there is. Here's a new key.", de: "Ja, gibt es. Hier ist ein neuer Schlüssel."}
+  - text: "Az új szoba csendes. Éjszaka Anna jól alszik."
+    picture: "😴"
+    help: {en: "The new room is quiet. At night Anna sleeps well.", de: "Das neue Zimmer ist ruhig. In der Nacht schläft Anna gut."}
+  - text: "Reggel nagyon jó reggeli van a szállodában."
+    picture: "🥐"
+    help: {en: "In the morning there's a very good breakfast at the hotel.", de: "Am Morgen gibt es im Hotel ein sehr gutes Frühstück."}
+  - text: "Jó reggelt! Hogy aludt?"
+    speaker: 1
+    picture: "🙂"
+    help: {en: "Good morning! How did you sleep?", de: "Guten Morgen! Wie haben Sie geschlafen?"}
+  - text: "Köszönöm, nagyon jól! A csendes szoba nagyon jó volt."
+    speaker: 2
+    picture: "😊"
+    help: {en: "Thank you, very well! The quiet room was very good.", de: "Danke, sehr gut! Das ruhige Zimmer war sehr gut."}

@@ -1,0 +1,45 @@
+lang: hu
+level: A1
+title: Az étteremben
+names: [Anna, Péter]
+new_words: [étterem, pincér, hús, vagy, számla, fizet]
+lemma_overrides: {étterem: étterem}
+sentences:
+  - text: "Este Anna és Péter egy étteremben vannak."
+    picture: "🍽️"
+    help: {en: "In the evening Anna and Péter are at a restaurant.", de: "Am Abend sind Anna und Péter in einem Restaurant."}
+  - text: "Itt van a pincér."
+    picture: "🤵"
+    help: {en: "Here is the waiter.", de: "Hier ist der Kellner."}
+  - text: "Jó estét! Levest vagy húst kérnek?"
+    speaker: 1
+    picture: "📋"
+    help: {en: "Good evening! Would you like soup or meat?", de: "Guten Abend! Möchten Sie Suppe oder Fleisch?"}
+  - text: "Én levest kérek. És te, Péter? Levest vagy húst?"
+    speaker: 2
+    picture: "🍲"
+    help: {en: "I'd like soup. And you, Péter? Soup or meat?", de: "Ich möchte Suppe. Und du, Péter? Suppe oder Fleisch?"}
+  - text: "Péter húst és krumplit kér."
+    picture: "🥩"
+    help: {en: "Péter orders meat and potatoes.", de: "Péter bestellt Fleisch und Kartoffeln."}
+  - text: "A leves és a hús is nagyon finom."
+    picture: "😋"
+    help: {en: "The soup and the meat are both very tasty.", de: "Die Suppe und das Fleisch sind beide sehr lecker."}
+  - text: "A számlát kérem!"
+    speaker: 2
+    picture: "✋"
+    help: {en: "The bill, please!", de: "Die Rechnung, bitte!"}
+  - text: "A pincér hozza a számlát."
+    picture: "🧾"
+    help: {en: "The waiter brings the bill.", de: "Der Kellner bringt die Rechnung."}
+  - text: "Most én fizetek, Péter!"
+    speaker: 2
+    picture: "💳"
+    help: {en: "This time I'm paying, Péter!", de: "Diesmal zahle ich, Péter!"}
+  - text: "Anna fizet. Péter boldog."
+    picture: "😊"
+    help: {en: "Anna pays. Péter is happy.", de: "Anna bezahlt. Péter ist glücklich."}
+  - text: "Jó ez az étterem!"
+    speaker: 1
+    picture: "👍"
+    help: {en: "This restaurant is good!", de: "Dieses Restaurant ist gut!"}

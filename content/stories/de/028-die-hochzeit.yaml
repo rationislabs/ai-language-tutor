@@ -1,0 +1,45 @@
+lang: de
+level: A2
+title: "Die Hochzeit"
+names: [Mia, Tim, Emil, Hilde]
+new_words: [Ring, Gast, Braut]
+sentences:
+  - text: "Heute heiraten Mia und Tim, und alle Freunde sind da."
+    picture: 💒
+    help: {en: "Today Mia and Tim are getting married, and all their friends are there.", de: "Mia und Tim feiern heute Hochzeit."}
+  - text: "Mia trägt ein wunderschönes Kleid, und Tim ist sehr nervös."
+    picture: 👰
+    help: {en: "Mia is wearing a beautiful dress, and Tim is very nervous.", de: "Mia sieht toll aus. Tim hat ein bisschen Angst."}
+  - text: "Emil hat eine wichtige Aufgabe: Er trägt die Ringe."
+    picture: 💍
+    help: {en: "Emil has an important job: he's carrying the rings.", de: "Emil bringt die Ringe in die Kirche."}
+  - text: "Vor der Kirche sagt er stolz: „Ich passe gut auf die Ringe auf!“"
+    speaker: 1
+    picture: ⛪
+    help: {en: "In front of the church he says proudly: “I'll take good care of the rings!”", de: "Emil ist stolz auf seine Aufgabe."}
+  - text: "Doch in der Kirche sucht Emil plötzlich in allen Taschen."
+    picture: 😰
+    help: {en: "But in the church Emil suddenly searches all his pockets.", de: "Emil findet etwas nicht."}
+  - text: "Die Ringe sind weg!"
+    picture: 😱
+    help: {en: "The rings are gone!", de: "Emil hat die Ringe nicht mehr."}
+  - text: "Alle Gäste suchen auf dem Boden."
+    picture: 🔍
+    help: {en: "All the guests search the floor.", de: "Alle helfen beim Suchen."}
+  - text: "Dann lacht Oma Hilde: „Emil, was ist denn in deinem Schuh?“"
+    speaker: 2
+    picture: 👟
+    help: {en: "Then Grandma Hilde laughs: “Emil, what's in your shoe?”", de: "Oma sieht etwas in Emils Schuh."}
+  - text: "Emil hat die Ringe in seinen Schuh gesteckt, damit sie sicher sind."
+    picture: 😅
+    help: {en: "Emil put the rings in his shoe to keep them safe.", de: "Emil wollte die Ringe gut verstecken."}
+  - text: "Alle Gäste lachen, und die Braut lacht am lautesten."
+    picture: 😂
+    help: {en: "All the guests laugh, and the bride laughs loudest.", de: "Mia lacht sehr laut."}
+  - text: "Am Abend tanzen alle, und die Braut tanzt in ihrem Kleid mit Emil."
+    picture: 💃
+    help: {en: "In the evening everyone dances, and the bride dances with Emil in her dress.", de: "Mia tanzt mit ihrem Sohn."}
+  - text: "„Das ist die beste Hochzeit der Welt“, sagt Emil."
+    speaker: 1
+    picture: 🥳
+    help: {en: "“This is the best wedding in the world,” says Emil.", de: "Emil findet die Hochzeit super."}

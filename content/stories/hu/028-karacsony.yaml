@@ -1,0 +1,42 @@
+lang: hu
+level: A1
+title: Karácsony
+names: [Anna, Péter]
+new_words: [karácsony, hó, fa, ad, alatt]
+lemma_overrides: {családjánál: család, karácsonyt: karácsony}
+sentences:
+  - text: "Hideg van, és esik a hó."
+    picture: "❄️"
+    help: {en: "It's cold, and it's snowing.", de: "Es ist kalt, und es schneit."}
+  - text: "Ma karácsony van. Anna Péter családjánál van."
+    picture: "🏠"
+    help: {en: "Today is Christmas. Anna is with Péter's family.", de: "Heute ist Weihnachten. Anna ist bei Péters Familie."}
+  - text: "A szobában van egy nagy fa. A fa nagyon szép."
+    picture: "🎄"
+    help: {en: "There is a big tree in the room. The tree is very beautiful.", de: "Im Zimmer steht ein großer Baum. Der Baum ist sehr schön."}
+  - text: "A fa alatt sok ajándék van."
+    picture: "🎁"
+    help: {en: "There are lots of presents under the tree.", de: "Unter dem Baum liegen viele Geschenke."}
+  - text: "Anna, a fa alatt van egy ajándék. Ezt neked adom!"
+    speaker: 1
+    picture: "🤲"
+    help: {en: "Anna, there is a present under the tree. I'm giving it to you!", de: "Anna, unter dem Baum liegt ein Geschenk. Das gebe ich dir!"}
+  - text: "Köszönöm! Mi ez? Egy magyar könyv!"
+    speaker: 2
+    picture: "📖"
+    help: {en: "Thank you! What is it? A Hungarian book!", de: "Danke! Was ist das? Ein ungarisches Buch!"}
+  - text: "Én is adok neked egy ajándékot, Péter."
+    speaker: 2
+    picture: "🎀"
+    help: {en: "I'm giving you a present too, Péter.", de: "Ich gebe dir auch ein Geschenk, Péter."}
+  - text: "Egy német könyv! Köszönöm!"
+    speaker: 1
+    picture: "😄"
+    help: {en: "A German book! Thank you!", de: "Ein deutsches Buch! Danke!"}
+  - text: "Esik a hó, de a szobában meleg van."
+    picture: "🔥"
+    help: {en: "It's snowing, but it's warm in the room.", de: "Es schneit, aber im Zimmer ist es warm."}
+  - text: "Boldog karácsonyt!"
+    speaker: 2
+    picture: "🎅"
+    help: {en: "Merry Christmas!", de: "Frohe Weihnachten!"}

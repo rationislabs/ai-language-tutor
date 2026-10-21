@@ -1,0 +1,41 @@
+lang: fr
+level: A1
+title: En ville
+names: [Hugo]
+new_words: [ville, en, où, bus, prendre, elle]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Hugo est en ville."
+    picture: 🏙️
+    help: {en: "Hugo is in town.", de: "Hugo ist in der Stadt."}
+  - text: "Bonjour ! Où est le marché, s'il vous plaît ?"
+    picture: 🗺️
+    help: {en: "Hello! Where is the market, please?", de: "Guten Tag! Wo ist der Markt, bitte?"}
+  - text: "Le marché ? Il n'est pas en ville."
+    speaker: 1
+    picture: 🤔
+    help: {en: "The market? It isn't in town.", de: "Der Markt? Der ist nicht in der Stadt."}
+  - text: "Vous prenez le bus trois."
+    speaker: 1
+    picture: 🚌
+    help: {en: "You take the number three bus.", de: "Sie nehmen den Bus Nummer drei."}
+  - text: "Le bus trois ? Et où est le bus ?"
+    picture: 🚏
+    help: {en: "The number three bus? And where is the bus?", de: "Den Bus drei? Und wo ist der Bus?"}
+  - text: "Voici le bus !"
+    speaker: 1
+    picture: 🚍
+    help: {en: "Here comes the bus!", de: "Da kommt der Bus!"}
+  - text: "Merci ! Et vous, vous prenez le bus ?"
+    picture: 🙂
+    help: {en: "Thank you! And you, are you taking the bus?", de: "Danke! Und Sie, nehmen Sie den Bus?"}
+  - text: "Non, je ne prends pas le bus. Je vais au café."
+    speaker: 1
+    picture: ☕
+    help: {en: "No, I'm not taking the bus. I'm going to the café.", de: "Nein, ich nehme nicht den Bus. Ich gehe ins Café."}
+  - text: "Elle prend le bus trois."
+    picture: 🚌
+    help: {en: "She takes the number three bus.", de: "Sie nimmt den Bus drei."}
+  - text: "Elle va au marché, et Hugo va au café."
+    picture: 👋
+    help: {en: "She goes to the market, and Hugo goes to the café.", de: "Sie fährt zum Markt, und Hugo geht ins Café."}

@@ -1,0 +1,47 @@
+lang: hu
+level: A1
+title: Reggeli
+names: [Anna, Péter]
+new_words: [reggeli, kávé, tea, kér, kenyér, eszik]
+lemma_overrides: {igen: igen, kenyeret: kenyér, eszel: eszik, eszem: eszik}
+sentences:
+  - text: "Péter, itt van a reggeli!"
+    speaker: 2
+    picture: "🍽️"
+    help: {en: "Péter, here is breakfast!", de: "Péter, hier ist das Frühstück!"}
+  - text: "Kérsz kávét?"
+    speaker: 2
+    picture: "☕"
+    help: {en: "Would you like coffee?", de: "Möchtest du Kaffee?"}
+  - text: "Igen, kérek. Köszönöm!"
+    speaker: 1
+    picture: "🙂"
+    help: {en: "Yes, please. Thank you!", de: "Ja, bitte. Danke!"}
+  - text: "És teát is kérsz?"
+    speaker: 2
+    picture: "🍵"
+    help: {en: "And would you like tea too?", de: "Und möchtest du auch Tee?"}
+  - text: "Nem, köszönöm, teát nem kérek."
+    speaker: 1
+    picture: "🙅‍♂️"
+    help: {en: "No, thanks, I don't want tea.", de: "Nein, danke, Tee möchte ich nicht."}
+  - text: "Kenyeret kérsz?"
+    speaker: 2
+    picture: "🍞"
+    help: {en: "Would you like bread?", de: "Möchtest du Brot?"}
+  - text: "Igen, kérek. Mit eszel te, Anna?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "Yes, please. What are you eating, Anna?", de: "Ja, bitte. Was isst du, Anna?"}
+  - text: "Én is kenyeret eszem."
+    speaker: 2
+    picture: "🥪"
+    help: {en: "I'm eating bread too.", de: "Ich esse auch Brot."}
+  - text: "A reggeli kicsi, de jó!"
+    speaker: 1
+    picture: "😋"
+    help: {en: "The breakfast is small, but good!", de: "Das Frühstück ist klein, aber gut!"}
+  - text: "És a kávé is jó!"
+    speaker: 1
+    picture: "☕"
+    help: {en: "And the coffee is good too!", de: "Und der Kaffee ist auch gut!"}

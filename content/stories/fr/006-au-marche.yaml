@@ -1,0 +1,44 @@
+lang: fr
+level: A1
+title: Au marché
+names: [Léa, Théo]
+new_words: [marché, pomme, combien, euro, ne, pas]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Léa et Théo vont au marché."
+    picture: 🧺
+    help: {en: "Léa and Théo go to the market.", de: "Léa und Théo gehen auf den Markt."}
+  - text: "Au marché, il y a des pommes."
+    picture: 🍎
+    help: {en: "At the market, there are apples.", de: "Auf dem Markt gibt es Äpfel."}
+  - text: "Bonjour ! Je voudrais des pommes, s'il vous plaît."
+    picture: 🛒
+    help: {en: "Hello! I'd like some apples, please.", de: "Guten Tag! Ich möchte Äpfel, bitte."}
+  - text: "Bonjour ! Combien de pommes ?"
+    speaker: 1
+    picture: 🧑‍🌾
+    help: {en: "Hello! How many apples?", de: "Guten Tag! Wie viele Äpfel?"}
+  - text: "Cinq pommes. C'est combien ?"
+    picture: 🖐️
+    help: {en: "Five apples. How much is it?", de: "Fünf Äpfel. Was kostet das?"}
+  - text: "C'est deux euros."
+    speaker: 1
+    picture: 💶
+    help: {en: "That's two euros.", de: "Das macht zwei Euro."}
+  - text: "Voici deux euros. Merci !"
+    picture: 🪙
+    help: {en: "Here are two euros. Thank you!", de: "Hier sind zwei Euro. Danke!"}
+  - text: "Et toi, Théo ? Tu ne veux pas de pomme ?"
+    picture: 🍏
+    help: {en: "And you, Théo? Don't you want an apple?", de: "Und du, Théo? Willst du keinen Apfel?"}
+  - text: "Je ne veux pas de pomme ! Je voudrais un café !"
+    speaker: 1
+    picture: 😤
+    help: {en: "I don't want an apple! I'd like a coffee!", de: "Ich will keinen Apfel! Ich möchte einen Kaffee!"}
+  - text: "Un café ? Tu as cinq ans, Théo ! Pas de café !"
+    picture: 🙅‍♀️
+    help: {en: "A coffee? You're five, Théo! No coffee!", de: "Einen Kaffee? Du bist fünf, Théo! Kein Kaffee!"}
+  - text: "Une pomme, s'il vous plaît !"
+    speaker: 1
+    picture: 🍎
+    help: {en: "An apple, please!", de: "Einen Apfel, bitte!"}

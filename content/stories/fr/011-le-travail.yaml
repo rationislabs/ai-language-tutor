@@ -1,0 +1,41 @@
+lang: fr
+level: A1
+title: Le travail
+names: [Hugo, Léa]
+new_words: [travailler, matin, à, heure, huit, soir]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Hugo travaille au café."
+    picture: ☕
+    help: {en: "Hugo works at the café.", de: "Hugo arbeitet im Café."}
+  - text: "Le matin, je prends le bus à huit heures."
+    speaker: 1
+    picture: 🚌
+    help: {en: "In the morning, I take the bus at eight o'clock.", de: "Am Morgen nehme ich um acht Uhr den Bus."}
+  - text: "À huit heures, il est au café."
+    picture: 🕗
+    help: {en: "At eight o'clock, he is at the café.", de: "Um acht Uhr ist er im Café."}
+  - text: "Bonjour, Hugo ! Un café, s'il te plaît."
+    picture: 🙋‍♀️
+    help: {en: "Hello, Hugo! A coffee, please.", de: "Hallo, Hugo! Einen Kaffee, bitte."}
+  - text: "Léa ! Tu ne travailles pas le matin ?"
+    speaker: 1
+    picture: 🤔
+    help: {en: "Léa! Don't you work in the morning?", de: "Léa! Arbeitest du am Morgen nicht?"}
+  - text: "Non, je travaille le soir, au restaurant."
+    picture: 🍽️
+    help: {en: "No, I work in the evening, at the restaurant.", de: "Nein, ich arbeite am Abend, im Restaurant."}
+  - text: "Le soir ? À cinq heures ?"
+    speaker: 1
+    picture: 🕔
+    help: {en: "In the evening? At five o'clock?", de: "Am Abend? Um fünf Uhr?"}
+  - text: "Oui, à cinq heures."
+    picture: 👍
+    help: {en: "Yes, at five.", de: "Ja, um fünf."}
+  - text: "Le soir, je ne travaille pas. Je mange au restaurant !"
+    speaker: 1
+    picture: 😋
+    help: {en: "In the evening, I don't work. I eat at the restaurant!", de: "Am Abend arbeite ich nicht. Ich esse im Restaurant!"}
+  - text: "Très bien ! À ce soir, Hugo !"
+    picture: 👋
+    help: {en: "Great! See you tonight, Hugo!", de: "Super! Bis heute Abend, Hugo!"}

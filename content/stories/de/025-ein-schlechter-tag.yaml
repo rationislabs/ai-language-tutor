@@ -1,0 +1,44 @@
+lang: de
+level: A2
+title: "Ein schlechter Tag"
+names: [Lena, Jonas]
+new_words: [Wecker, klingeln, Regenschirm, Bus, nass]
+lemma_overrides: {fällt: fallen}
+sentences:
+  - text: "Heute klingelt der Wecker von Lena nicht."
+    picture: ⏰
+    help: {en: "Today Lena's alarm clock doesn't go off.", de: "Lenas Wecker ist still."}
+  - text: "Sie steht zu spät auf und hat keine Zeit für Kaffee."
+    picture: 😫
+    help: {en: "She gets up too late and has no time for coffee.", de: "Lena muss sich beeilen. Es gibt kein Frühstück."}
+  - text: "Draußen regnet es, und ihr Regenschirm liegt noch in der Wohnung."
+    picture: 🌧️
+    help: {en: "It's raining outside, and her umbrella is still in the flat.", de: "Lena hat den Schirm vergessen."}
+  - text: "Der Bus kommt nicht, und ohne Regenschirm wird Lena ganz nass."
+    picture: 🚌
+    help: {en: "The bus doesn't come, and without an umbrella Lena gets soaked.", de: "Lena wartet lange im Regen."}
+  - text: "Im Büro ist der Chef böse, weil sie zu spät kommt."
+    picture: 😠
+    help: {en: "At the office the boss is angry because she's late.", de: "Der Chef ärgert sich über Lena."}
+  - text: "Dann fällt ihr Handy auf den Boden, und der Bildschirm ist kaputt."
+    picture: 📱
+    help: {en: "Then her phone falls on the floor and the screen breaks.", de: "Auch das Handy geht kaputt."}
+  - text: "Am Abend fährt sie mit dem Bus nach Hause – natürlich mit Verspätung."
+    picture: 🕖
+    help: {en: "In the evening she takes the bus home – late, of course.", de: "Auch am Abend ist der Bus zu spät."}
+  - text: "Sie ist müde, und ihre Sachen sind immer noch nass."
+    picture: 😩
+    help: {en: "She is tired, and her clothes are still wet.", de: "Lena geht es nicht gut."}
+  - text: "Doch als sie die Tür öffnet, steht schon das Essen auf dem Tisch."
+    picture: 🍲
+    help: {en: "But when she opens the door, dinner is already on the table.", de: "Zu Hause wartet schon ein Abendessen."}
+  - text: "Jonas hat gekocht und sagt: „Ich habe gehört, du hattest einen schlechten Tag.“"
+    speaker: 2
+    picture: 👨‍🍳
+    help: {en: "Jonas has cooked and says: “I heard you had a bad day.”", de: "Jonas weiß von Lenas Problemen und hat für sie gekocht."}
+  - text: "Lena lacht zum ersten Mal an diesem Tag: Der Abend ist viel besser als der Morgen."
+    picture: 😊
+    help: {en: "Lena laughs for the first time that day: the evening is much better than the morning.", de: "Am Ende ist der Tag doch noch gut."}
+  - text: "Und morgen kauft sie einen neuen Wecker, der wirklich klingelt."
+    picture: 🛒
+    help: {en: "And tomorrow she'll buy a new alarm clock that actually rings.", de: "Lena will einen besseren Wecker."}

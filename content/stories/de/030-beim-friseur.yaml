@@ -1,0 +1,42 @@
+lang: de
+level: A2
+title: "Beim Friseur"
+names: [Jonas, Lena, Hilde]
+new_words: [Friseur, Spiegel, Frisur]
+lemma_overrides: {Gefällt: gefallen, Schneiden: schneiden}
+sentences:
+  - text: "Die Haare von Jonas sind zu lang, also geht er zum Friseur."
+    picture: 💇‍♂️
+    help: {en: "Jonas's hair is too long, so he goes to the hairdresser's.", de: "Jonas braucht einen neuen Haarschnitt."}
+  - text: "„Nur ein bisschen kürzer, bitte“, sagt er."
+    speaker: 2
+    picture: ✂️
+    help: {en: "“Just a little shorter, please,” he says.", de: "Jonas will nur ein wenig kürzere Haare."}
+  - text: "Der Friseur ist sehr nett und erzählt viel."
+    picture: 💬
+    help: {en: "The hairdresser is very nice and talks a lot.", de: "Der Friseur spricht gern."}
+  - text: "Er redet über seinen Urlaub, seinen Hund und seine Nachbarn."
+    picture: 🐶
+    help: {en: "He talks about his holiday, his dog and his neighbours.", de: "Der Friseur erzählt viele Geschichten."}
+  - text: "Und dabei schneidet er und schneidet und schneidet."
+    picture: ✂️
+    help: {en: "And all the while he cuts and cuts and cuts.", de: "Beim Reden schneidet er immer weiter."}
+  - text: "Jonas hört zu und schaut nicht in den Spiegel."
+    picture: 🙈
+    help: {en: "Jonas listens and doesn't look in the mirror.", de: "Jonas passt nicht auf."}
+  - text: "Am Ende sagt der Friseur: „Fertig! Gefällt Ihnen die neue Frisur?“"
+    speaker: 1
+    picture: 💈
+    help: {en: "At the end the hairdresser says: “Done! Do you like your new haircut?”", de: "Der Friseur ist fertig."}
+  - text: "Jonas schaut in den Spiegel und sagt erst einmal nichts: Seine Haare sind ganz kurz!"
+    picture: 😶
+    help: {en: "Jonas looks in the mirror and at first says nothing: his hair is really short!", de: "Jonas ist geschockt. Die Haare sind fast weg."}
+  - text: "Zu Hause lacht Lena so laut, dass die Nachbarn es hören."
+    picture: 🤣
+    help: {en: "At home Lena laughs so loudly that the neighbours can hear.", de: "Lena findet die Frisur sehr lustig."}
+  - text: "Nur Oma Hilde findet die neue Frisur toll: „Endlich sieht man dein schönes Gesicht!“"
+    picture: 👵
+    help: {en: "Only Grandma Hilde loves the new haircut: “At last we can see your handsome face!”", de: "Oma gefällt die kurze Frisur."}
+  - text: "Jonas denkt: Beim nächsten Mal redet er selbst, dann hat der Friseur keine Zeit zum Schneiden."
+    picture: 😏
+    help: {en: "Jonas thinks: next time he'll do the talking, and then the hairdresser won't have time to cut.", de: "Jonas hat einen Plan für das nächste Mal."}

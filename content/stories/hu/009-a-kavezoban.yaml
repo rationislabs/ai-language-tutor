@@ -1,0 +1,53 @@
+lang: hu
+level: A1
+title: A kávézóban
+names: [Anna, Péter]
+new_words: [kávézó, tej, cukor, sütemény, szeret, csak]
+lemma_overrides: {igen: igen, kávézó: kávézó, eszi: eszik}
+sentences:
+  - text: "Anna és Péter egy kávézóban vannak."
+    picture: "☕"
+    help: {en: "Anna and Péter are in a café.", de: "Anna und Péter sind in einem Café."}
+  - text: "Ez egy jó kávézó. Mit kérsz, Anna?"
+    speaker: 1
+    picture: "🏪"
+    help: {en: "This is a good café. What would you like, Anna?", de: "Das ist ein gutes Café. Was möchtest du, Anna?"}
+  - text: "Egy kávét kérek, tejjel."
+    speaker: 2
+    picture: "🥛"
+    help: {en: "I'd like a coffee, with milk.", de: "Ich möchte einen Kaffee, mit Milch."}
+  - text: "Tejjel és cukorral?"
+    speaker: 1
+    picture: "🍬"
+    help: {en: "With milk and sugar?", de: "Mit Milch und Zucker?"}
+  - text: "Nem, csak tejjel. Cukrot nem kérek."
+    speaker: 2
+    picture: "🙅‍♀️"
+    help: {en: "No, just with milk. I don't want sugar.", de: "Nein, nur mit Milch. Zucker möchte ich nicht."}
+  - text: "És süteményt? Itt a sütemény is jó."
+    speaker: 1
+    picture: "🍰"
+    help: {en: "And cake? The cake is good here too.", de: "Und Kuchen? Der Kuchen ist hier auch gut."}
+  - text: "Szeretem a süteményt! Igen, kérek."
+    speaker: 2
+    picture: "😋"
+    help: {en: "I love cake! Yes, please.", de: "Ich mag Kuchen! Ja, bitte."}
+  - text: "Én csak egy teát kérek."
+    speaker: 1
+    picture: "🍵"
+    help: {en: "I'll just have a tea.", de: "Ich nehme nur einen Tee."}
+  - text: "Csak teát? Nem szereted a süteményt?"
+    speaker: 2
+    picture: "🤨"
+    help: {en: "Just tea? Don't you like cake?", de: "Nur Tee? Magst du keinen Kuchen?"}
+  - text: "De, szeretem!"
+    speaker: 1
+    picture: "😏"
+    help: {en: "Oh yes, I do like it!", de: "Doch, ich mag ihn!"}
+  - text: "És Péter Anna süteményét eszi."
+    picture: "🍴"
+    help: {en: "And Péter eats Anna's cake.", de: "Und Péter isst Annas Kuchen."}
+  - text: "Péter! Ez az én süteményem!"
+    speaker: 2
+    picture: "😄"
+    help: {en: "Péter! That's my cake!", de: "Péter! Das ist mein Kuchen!"}

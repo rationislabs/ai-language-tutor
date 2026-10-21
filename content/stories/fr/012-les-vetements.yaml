@@ -1,0 +1,47 @@
+lang: fr
+level: A1
+title: Les vêtements
+names: [Nina, Hugo]
+new_words: [acheter, robe, pull, rouge, bleu, ou]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Nina et Hugo sont en ville."
+    picture: 🏙️
+    help: {en: "Nina and Hugo are in town.", de: "Nina und Hugo sind in der Stadt."}
+  - text: "Hugo, je voudrais acheter une robe."
+    picture: 👗
+    help: {en: "Hugo, I'd like to buy a dress.", de: "Hugo, ich möchte ein Kleid kaufen."}
+  - text: "Une robe ? Mais il fait froid, Nina !"
+    speaker: 1
+    picture: 🥶
+    help: {en: "A dress? But it's cold, Nina!", de: "Ein Kleid? Aber es ist kalt, Nina!"}
+  - text: "Mais j'aime les robes !"
+    picture: 😍
+    help: {en: "But I love dresses!", de: "Aber ich liebe Kleider!"}
+  - text: "Une robe rouge ou une robe bleue ?"
+    speaker: 1
+    picture: 🤔
+    help: {en: "A red dress or a blue dress?", de: "Ein rotes Kleid oder ein blaues Kleid?"}
+  - text: "Une robe rouge ! Et toi, Hugo ?"
+    picture: ❤️
+    help: {en: "A red dress! And you, Hugo?", de: "Ein rotes Kleid! Und du, Hugo?"}
+  - text: "Je voudrais acheter un pull."
+    speaker: 1
+    picture: 🧶
+    help: {en: "I'd like to buy a sweater.", de: "Ich möchte einen Pullover kaufen."}
+  - text: "Un pull bleu ou un pull rouge ?"
+    picture: 🛍️
+    help: {en: "A blue sweater or a red sweater?", de: "Einen blauen Pullover oder einen roten Pullover?"}
+  - text: "Un pull bleu. Il fait froid !"
+    speaker: 1
+    picture: 💙
+    help: {en: "A blue sweater. It's cold!", de: "Einen blauen Pullover. Es ist kalt!"}
+  - text: "Nina achète une robe rouge, et Hugo achète un pull bleu."
+    picture: 🛍️
+    help: {en: "Nina buys a red dress, and Hugo buys a blue sweater.", de: "Nina kauft ein rotes Kleid, und Hugo kauft einen blauen Pullover."}
+  - text: "Dimanche, il fait très froid."
+    picture: 🌬️
+    help: {en: "On Sunday, it's very cold.", de: "Am Sonntag ist es sehr kalt."}
+  - text: "Et Nina prend le pull de Hugo !"
+    picture: 😄
+    help: {en: "And Nina takes Hugo's sweater!", de: "Und Nina nimmt den Pullover von Hugo!"}

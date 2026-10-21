@@ -1,0 +1,44 @@
+lang: de
+level: A2
+title: "Wandern in den Bergen"
+names: [Lena, Jonas]
+new_words: [Rucksack, Nebel, verlaufen, Gipfel]
+sentences:
+  - text: "Im Urlaub auf der Insel wollen Lena und Jonas auf einen Berg wandern."
+    picture: ⛰️
+    help: {en: "On holiday on the island, Lena and Jonas want to hike up a mountain.", de: "Lena und Jonas machen im Urlaub eine Wanderung."}
+  - text: "Sie nehmen Wasser und Brot im Rucksack mit."
+    picture: 🎒
+    help: {en: "They take water and bread with them in the rucksack.", de: "Sie haben Essen und Trinken dabei."}
+  - text: "Am Anfang ist der Weg leicht, und die Sonne scheint."
+    picture: ☀️
+    help: {en: "At first the path is easy and the sun is shining.", de: "Zuerst ist alles einfach und schön."}
+  - text: "Doch dann kommt Nebel, und sie sehen den Weg nicht mehr."
+    picture: 🌫️
+    help: {en: "But then fog comes in and they can't see the path any more.", de: "Plötzlich sehen sie fast nichts."}
+  - text: "„Ich glaube, wir haben uns verlaufen“, sagt Lena."
+    speaker: 1
+    picture: 😟
+    help: {en: "“I think we've got lost,” says Lena.", de: "Lena weiß nicht mehr, wo sie sind."}
+  - text: "Jonas schaut auf sein Handy, aber das hilft hier nicht."
+    picture: 📵
+    help: {en: "Jonas looks at his phone, but it's no help here.", de: "Das Handy funktioniert in den Bergen nicht."}
+  - text: "Sie gehen langsam weiter, immer nach oben."
+    picture: 🥾
+    help: {en: "They walk on slowly, always uphill.", de: "Sie laufen langsam bergauf."}
+  - text: "Plötzlich ist der Nebel weg, und sie stehen ganz oben auf dem Gipfel."
+    picture: 🏔️
+    help: {en: "Suddenly the fog is gone and they're standing right at the top of the summit.", de: "Sie sind ganz oben auf dem Berg."}
+  - text: "Unter ihnen liegt die ganze Insel, und überall ist Meer."
+    picture: 🌊
+    help: {en: "The whole island lies below them, with sea all around.", de: "Von oben sieht man die ganze Insel."}
+  - text: "Jonas lacht: „Wie schön! Gut, dass wir uns verlaufen haben.“"
+    speaker: 2
+    picture: 😍
+    help: {en: "Jonas laughs: “How beautiful! Good thing we got lost.”", de: "Jonas ist froh über den falschen Weg."}
+  - text: "Sie essen ihr Brot auf dem Gipfel und bleiben lange dort."
+    picture: 🥪
+    help: {en: "They eat their bread on the summit and stay there a long time.", de: "Sie machen oben eine lange Pause."}
+  - text: "Am Abend ist der Rucksack leicht, und die zwei sind glücklich."
+    picture: 😊
+    help: {en: "In the evening the rucksack is light and the two of them are happy.", de: "Das Essen ist weg, aber Lena und Jonas sind froh."}

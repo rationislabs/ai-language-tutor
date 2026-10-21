@@ -1,0 +1,45 @@
+lang: it
+level: A1
+title: La mia casa
+names: [Marco, Anna]
+new_words: [casa, piccolo, dove, ci, cucina, letto]
+lemma_overrides: {letto: letto}
+sentences:
+- text: Marco è a casa di Anna.
+  picture: 🏠
+  help: {en: Marco is at Anna's place., de: Marco ist bei Anna zu Hause.}
+- text: La casa di Anna è piccola.
+  picture: 🏠
+  help: {en: Anna's house is small., de: Annas Wohnung ist klein.}
+- text: Dov'è la cucina?
+  picture: ❓
+  help: {en: 'Where''s the kitchen?', de: 'Wo ist die Küche?'}
+- text: La cucina è qui!
+  speaker: 1
+  picture: 🍳
+  help: {en: The kitchen is here!, de: Die Küche ist hier!}
+- text: E dov'è il letto?
+  picture: 🛏️
+  help: {en: 'And where''s the bed?', de: 'Und wo ist das Bett?'}
+- text: Il letto è qui!
+  speaker: 1
+  picture: 🛏️
+  help: {en: The bed is here!, de: Das Bett ist hier!}
+- text: La cucina è qui e il letto è qui?
+  picture: 😮
+  help: {en: 'The kitchen is here and the bed is here?', de: 'Die Küche ist hier und das Bett ist auch hier?'}
+- text: Sì! C'è una cucina, c'è un letto e c'è un gatto.
+  speaker: 1
+  picture: 🐈
+  help: {en: 'Yes! There''s a kitchen, there''s a bed and there''s a cat.', de: 'Ja! Es gibt eine Küche, ein Bett und eine Katze.'}
+- text: Dov'è il gatto?
+  picture: 🔍
+  help: {en: 'Where''s the cat?', de: 'Wo ist die Katze?'}
+- text: Il gatto? È qui!
+  speaker: 1
+  picture: 😺
+  help: {en: 'The cat? It''s here!', de: 'Die Katze? Sie ist hier!'}
+- text: È piccola, ma è la mia casa!
+  speaker: 1
+  picture: ❤️
+  help: {en: 'It''s small, but it''s my home!', de: 'Sie ist klein, aber sie ist mein Zuhause!'}

@@ -1,0 +1,41 @@
+lang: de
+level: A2
+title: "Ein Tag im Büro"
+names: [Lena, Tim]
+new_words: [Besprechung, Bildschirm, Kollege, Kabel, Schreibtisch]
+sentences:
+  - text: "Lena kommt wie jeden Morgen um acht Uhr ins Büro."
+    picture: 🏢
+    help: {en: "Lena gets to the office at eight, like every morning.", de: "Lena beginnt ihre Arbeit um acht."}
+  - text: "Um neun hat sie eine wichtige Besprechung mit dem Chef."
+    picture: 📅
+    help: {en: "At nine she has an important meeting with the boss.", de: "Um neun spricht sie mit dem Chef über ein wichtiges Thema."}
+  - text: "Aber ihr Computer funktioniert nicht, und der Bildschirm bleibt dunkel."
+    picture: 🖥️
+    help: {en: "But her computer isn't working, and the screen stays dark.", de: "Der Computer geht nicht an."}
+  - text: "Lena wird nervös und ruft ihren Kollegen Tim."
+    picture: 😰
+    help: {en: "Lena gets nervous and calls her colleague Tim.", de: "Lena hat Angst und holt Hilfe."}
+  - text: "Tim kommt sofort und schaut unter den Schreibtisch."
+    picture: 🔍
+    help: {en: "Tim comes straight away and looks under the desk.", de: "Tim sucht das Problem unter dem Tisch."}
+  - text: "„Ich sehe das Problem: Das Kabel liegt auf dem Boden.“"
+    speaker: 1
+    picture: 🔌
+    help: {en: "“I can see the problem: the cable is lying on the floor.”", de: "Der Computer hat keinen Strom."}
+  - text: "Tim steckt das Kabel wieder ein, und der Bildschirm wird hell."
+    picture: 💡
+    help: {en: "Tim plugs the cable back in, and the screen lights up.", de: "Jetzt funktioniert der Computer wieder."}
+  - text: "Um fünf vor neun ist Lena bereit für die Besprechung."
+    picture: ✅
+    help: {en: "At five to nine Lena is ready for the meeting.", de: "Lena ist pünktlich fertig."}
+  - text: "Die Besprechung läuft gut, und der Chef ist zufrieden."
+    picture: 👍
+    help: {en: "The meeting goes well and the boss is happy.", de: "Der Chef findet Lenas Arbeit gut."}
+  - text: "Danach bringt Lena ihrem Kollegen einen Kaffee an den Schreibtisch."
+    picture: ☕
+    help: {en: "Afterwards Lena brings her colleague a coffee at his desk.", de: "Lena sagt Danke mit einem Kaffee."}
+  - text: "„Danke, Tim! Du hast meinen Tag gerettet.“"
+    speaker: 2
+    picture: 🦸
+    help: {en: "“Thanks, Tim! You've saved my day.”", de: "Ohne Tim wäre der Tag schlecht gewesen."}

@@ -1,0 +1,45 @@
+lang: hu
+level: A1
+title: Színek és ruhák
+names: [Anna, Kati]
+new_words: [ruha, piros, kék, fekete, szép, tetszik]
+lemma_overrides: {igen: igen, nekem: én}
+sentences:
+  - text: "Anna és Kati a városban vannak. Itt sok ruha van."
+    picture: "🛍️"
+    help: {en: "Anna and Kati are in town. There are lots of clothes here.", de: "Anna und Kati sind in der Stadt. Hier gibt es viele Kleider."}
+  - text: "Kati, ez a piros ruha szép!"
+    speaker: 2
+    picture: "👗"
+    help: {en: "Kati, this red dress is pretty!", de: "Kati, dieses rote Kleid ist schön!"}
+  - text: "Igen, szép. De a fekete ruha is szép."
+    speaker: 1
+    picture: "🖤"
+    help: {en: "Yes, it's pretty. But the black dress is pretty too.", de: "Ja, es ist schön. Aber das schwarze Kleid ist auch schön."}
+  - text: "A fekete? Az nekem nem tetszik."
+    speaker: 2
+    picture: "🙅‍♀️"
+    help: {en: "The black one? I don't like it.", de: "Das schwarze? Das gefällt mir nicht."}
+  - text: "És a kék ruha?"
+    speaker: 1
+    picture: "💙"
+    help: {en: "And the blue dress?", de: "Und das blaue Kleid?"}
+  - text: "A kék ruha tetszik! De a piros is."
+    speaker: 2
+    picture: "🤔"
+    help: {en: "I like the blue dress! But the red one too.", de: "Das blaue Kleid gefällt mir! Aber das rote auch."}
+  - text: "Anna a piros ruhát kéri."
+    picture: "❤️"
+    help: {en: "Anna takes the red dress.", de: "Anna nimmt das rote Kleid."}
+  - text: "És én a kék ruhát kérem!"
+    speaker: 1
+    picture: "😄"
+    help: {en: "And I'll take the blue dress!", de: "Und ich nehme das blaue Kleid!"}
+  - text: "Kati, a kék ruha neked is tetszik?"
+    speaker: 2
+    picture: "😮"
+    help: {en: "Kati, do you like the blue dress too?", de: "Kati, gefällt dir das blaue Kleid auch?"}
+  - text: "Igen, nekem a kék tetszik!"
+    speaker: 1
+    picture: "👍"
+    help: {en: "Yes, I like the blue one!", de: "Ja, mir gefällt das blaue!"}

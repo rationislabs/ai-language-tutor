@@ -1,0 +1,42 @@
+lang: de
+level: A2
+title: "Im Kino"
+names: [Lena, Jonas]
+new_words: [Kino, Popcorn, schnarchen]
+lemma_overrides: {gegessen: essen, weißt: wissen}
+sentences:
+  - text: "Am Abend gehen Lena und Jonas ins Kino."
+    picture: 🎬
+    help: {en: "In the evening Lena and Jonas go to the cinema.", de: "Lena und Jonas sehen heute einen Film."}
+  - text: "Sie sehen sich einen lustigen Film an, denn beide wollen lachen."
+    picture: 😂
+    help: {en: "They watch a funny film because they both want to laugh.", de: "Sie möchten eine Komödie sehen."}
+  - text: "Jonas kauft viel Popcorn."
+    picture: 🍿
+    help: {en: "Jonas buys lots of popcorn.", de: "Jonas holt etwas zu essen."}
+  - text: "Das Kino ist voll, und der Film beginnt."
+    picture: 🎞️
+    help: {en: "The cinema is full and the film starts.", de: "Alle Plätze sind besetzt. Der Film fängt an."}
+  - text: "Aber Jonas hat heute lange gearbeitet und ist sehr müde."
+    picture: 🥱
+    help: {en: "But Jonas worked late today and is very tired.", de: "Jonas hatte einen langen Tag."}
+  - text: "Nach zehn Minuten schläft er ein."
+    picture: 😴
+    help: {en: "After ten minutes he falls asleep.", de: "Jonas schläft schnell ein."}
+  - text: "Dann fängt er an, laut zu schnarchen."
+    picture: 💤
+    help: {en: "Then he starts snoring loudly.", de: "Jonas macht im Schlaf laute Geräusche."}
+  - text: "Die Leute vor ihnen drehen sich um und lachen."
+    picture: 👀
+    help: {en: "The people in front of them turn round and laugh.", de: "Die anderen hören Jonas und lachen."}
+  - text: "Jonas schnarcht weiter, und am Ende lachen die Leute mehr über ihn als über den Film."
+    picture: 🤣
+    help: {en: "Jonas keeps snoring, and in the end people laugh more at him than at the film.", de: "Jonas ist lustiger als der Film."}
+  - text: "Draußen sagt Jonas: „Der Film war wirklich lustig!“"
+    speaker: 1
+    picture: 🚶
+    help: {en: "Outside Jonas says: “The film was really funny!”", de: "Jonas tut so, als ob er alles gesehen hat."}
+  - text: "Lena lacht: „Woher weißt du das? Du hast geschlafen – und ich habe das ganze Popcorn gegessen!“"
+    speaker: 2
+    picture: 😄
+    help: {en: "Lena laughs: “How would you know? You were asleep – and I ate all the popcorn!”", de: "Jonas hat nichts gesehen. Lena hat das Popcorn allein gegessen."}

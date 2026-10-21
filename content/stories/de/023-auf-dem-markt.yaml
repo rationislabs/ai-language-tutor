@@ -1,0 +1,39 @@
+lang: de
+level: A2
+title: "Auf dem Markt"
+names: [Hilde, Jonas]
+new_words: [Tomate, reif, Gemüse, frisch]
+sentences:
+  - text: "Am Morgen geht Oma Hilde mit Jonas auf den Markt."
+    picture: 🧺
+    help: {en: "In the morning Grandma Hilde goes to the market with Jonas.", de: "Oma und Jonas kaufen auf dem Markt ein."}
+  - text: "Jonas ist jetzt Küchenchef, aber auf dem Markt ist Oma die Chefin."
+    picture: 😄
+    help: {en: "Jonas is head chef now, but at the market Grandma is the boss.", de: "Oma weiß auf dem Markt mehr als Jonas."}
+  - text: "Sie kennt hier alle Leute, und alle kennen sie."
+    picture: 👋
+    help: {en: "She knows everyone here, and everyone knows her.", de: "Oma ist auf dem Markt sehr bekannt."}
+  - text: "Jonas will schöne große Tomaten kaufen."
+    picture: 🍅
+    help: {en: "Jonas wants to buy nice big tomatoes.", de: "Jonas sucht Tomaten aus."}
+  - text: "Oma probiert eine und sagt: „Die sind noch nicht reif. Die kleinen hier sind reif.“"
+    speaker: 1
+    picture: 👵
+    help: {en: "Grandma tries one and says: “They're not ripe yet. These small ones are ripe.”", de: "Oma findet die kleinen Tomaten besser."}
+  - text: "Beim Gemüse ist es genauso: Oma schaut, fühlt und probiert."
+    picture: 🥕
+    help: {en: "It's the same with the vegetables: Grandma looks, feels and tastes.", de: "Oma testet alles genau."}
+  - text: "„Frisches Gemüse muss man fühlen“, sagt sie zu Jonas."
+    speaker: 1
+    picture: 🤲
+    help: {en: "“You have to feel fresh vegetables,” she tells Jonas.", de: "Oma erklärt Jonas, wie man gutes Gemüse findet."}
+  - text: "Am Ende trägt Jonas zwei schwere Taschen voller frischer Tomaten."
+    picture: 🛍️
+    help: {en: "In the end Jonas is carrying two heavy bags full of fresh tomatoes.", de: "Jonas hat viel gekauft."}
+  - text: "Der Mann am letzten Stand gibt Oma ein Brot und will kein Geld."
+    picture: 🍞
+    help: {en: "The man at the last stall gives Grandma a loaf of bread and doesn't want any money.", de: "Oma bekommt ein Brot geschenkt."}
+  - text: "Jonas lacht: „Ich bin Küchenchef, aber du bist die Königin vom Markt.“"
+    speaker: 2
+    picture: 👑
+    help: {en: "Jonas laughs: “I'm a head chef, but you're the queen of the market.”", de: "Jonas findet, Oma ist auf dem Markt die Nummer eins."}

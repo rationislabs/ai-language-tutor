@@ -1,0 +1,47 @@
+lang: fr
+level: A1
+title: Au restaurant
+names: [Léa, Hugo]
+new_words: [restaurant, eau, pour, manger, poulet, poisson]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Léa et Hugo vont au restaurant."
+    picture: 🍽️
+    help: {en: "Léa and Hugo go to the restaurant.", de: "Léa und Hugo gehen ins Restaurant."}
+  - text: "Bonjour ! Vous voulez de l'eau ?"
+    picture: 💧
+    help: {en: "Hello! Would you like some water?", de: "Guten Tag! Möchten Sie Wasser?"}
+  - text: "Oui, de l'eau, s'il vous plaît."
+    speaker: 1
+    picture: 🥛
+    help: {en: "Yes, some water, please.", de: "Ja, Wasser, bitte."}
+  - text: "Et pour manger ?"
+    picture: 🍴
+    help: {en: "And to eat?", de: "Und zum Essen?"}
+  - text: "Je prends le poulet."
+    speaker: 1
+    picture: 🍗
+    help: {en: "I'll have the chicken.", de: "Ich nehme das Hähnchen."}
+  - text: "Et je voudrais le poisson, s'il vous plaît."
+    picture: 🐟
+    help: {en: "And I'd like the fish, please.", de: "Und ich möchte den Fisch, bitte."}
+  - text: "Le poisson ? Je ne mange pas de poisson."
+    speaker: 1
+    picture: 🙅‍♂️
+    help: {en: "The fish? I don't eat fish.", de: "Den Fisch? Ich esse keinen Fisch."}
+  - text: "Le poulet pour vous, et le poisson pour vous."
+    picture: 🍽️
+    help: {en: "The chicken for you, and the fish for you.", de: "Das Hähnchen für Sie, und der Fisch für Sie."}
+  - text: "Au restaurant, Hugo mange le poulet, et Léa mange le poisson."
+    picture: 😋
+    help: {en: "At the restaurant, Hugo eats the chicken, and Léa eats the fish.", de: "Im Restaurant isst Hugo das Hähnchen, und Léa isst den Fisch."}
+  - text: "Mais… Hugo mange le poisson de Léa !"
+    picture: 😲
+    help: {en: "But… Hugo is eating Léa's fish!", de: "Aber… Hugo isst den Fisch von Léa!"}
+  - text: "Hugo ! Tu ne manges pas de poisson ?"
+    picture: 🤨
+    help: {en: "Hugo! Don't you eat fish?", de: "Hugo! Du isst doch keinen Fisch?"}
+  - text: "Ce poisson, oui !"
+    speaker: 1
+    picture: 😋
+    help: {en: "This fish, yes!", de: "Diesen Fisch schon!"}

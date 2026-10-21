@@ -1,0 +1,43 @@
+lang: de
+level: A2
+title: "Der verpasste Zug"
+names: [Lena, Mia]
+new_words: [Oma, Bahnhof, Bahnsteig, verpassen]
+lemma_overrides: {verpasster: verpassen}
+sentences:
+  - text: "Lena will heute ihre Oma besuchen, und ihr Zug fährt um neun Uhr."
+    picture: 🚆
+    help: {en: "Lena wants to visit her grandma today, and her train leaves at nine.", de: "Lena fährt heute zu ihrer Großmutter. Der Zug geht um neun."}
+  - text: "Aber sie verlässt das Haus zu spät."
+    picture: ⏰
+    help: {en: "But she leaves the house too late.", de: "Lena geht zu spät los."}
+  - text: "Am Bahnhof läuft sie zum Bahnsteig, so schnell sie kann."
+    picture: 🏃‍♀️
+    help: {en: "At the station she runs to the platform as fast as she can.", de: "Lena läuft sehr schnell zum Gleis."}
+  - text: "Sie sieht den Zug noch, aber die Türen sind schon zu."
+    picture: 🚪
+    help: {en: "She can still see the train, but the doors are already closed.", de: "Der Zug ist noch da, doch man kann nicht mehr einsteigen."}
+  - text: "Der Zug fährt ohne sie los – sie hat ihn verpasst!"
+    picture: 😩
+    help: {en: "The train leaves without her – she has missed it!", de: "Der Zug ist weg. Lena ist zu spät gekommen."}
+  - text: "Der nächste Zug fährt erst um zehn Uhr."
+    picture: 🕙
+    help: {en: "The next train doesn't leave until ten.", de: "Lena muss eine Stunde warten."}
+  - text: "Lena ruft ihre Oma an und sagt, dass sie später kommt."
+    picture: 📱
+    help: {en: "Lena calls her grandma and says she'll be late.", de: "Lena telefoniert mit der Großmutter. Sie kommt eine Stunde später."}
+  - text: "Dann kauft sie sich am Bahnhof einen Kaffee."
+    picture: ☕
+    help: {en: "Then she buys herself a coffee at the station.", de: "Lena holt sich etwas zu trinken."}
+  - text: "Neben ihr steht eine Frau und fragt: „Lena? Bist du das?“"
+    picture: 😮
+    help: {en: "A woman standing next to her asks: “Lena? Is that you?”", de: "Eine Frau erkennt Lena."}
+  - text: "Es ist Mia – als Kinder waren die zwei beste Freundinnen."
+    picture: 👭
+    help: {en: "It's Mia – the two of them were best friends as children.", de: "Mia und Lena kennen sich von früher. Sie waren sehr gute Freundinnen."}
+  - text: "Sie trinken zusammen Kaffee am Bahnsteig und haben viel zu erzählen."
+    picture: 💬
+    help: {en: "They drink coffee together on the platform and have lots to talk about.", de: "Die zwei reden viel. Die Zeit geht schnell vorbei."}
+  - text: "Im Zug denkt Lena: Ein verpasster Zug ist manchmal gar nicht so schlecht."
+    picture: 😊
+    help: {en: "On the train Lena thinks: missing a train is sometimes not so bad after all.", de: "Lena ist froh. Sie hat den Zug verpasst, aber Mia getroffen."}

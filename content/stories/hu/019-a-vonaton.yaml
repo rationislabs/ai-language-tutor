@@ -1,0 +1,52 @@
+lang: hu
+level: A1
+title: A vonaton
+names: [Anna, Péter, Budapestre, Budapesten]
+new_words: [vonat, ül, hely, szabad, néni, unoka]
+lemma_overrides: {megyek: megy, igen: igen, unokám: unoka, nagymamája: nagymama, vagy: van}
+sentences:
+  - text: "Anna a vonaton ül."
+    picture: "🚆"
+    help: {en: "Anna is sitting on the train.", de: "Anna sitzt im Zug."}
+  - text: "Itt van egy néni."
+    picture: "👵"
+    help: {en: "Here is an old lady.", de: "Hier ist eine ältere Dame."}
+  - text: "Szabad ez a hely?"
+    speaker: 1
+    picture: "💺"
+    help: {en: "Is this seat free?", de: "Ist dieser Platz frei?"}
+  - text: "Igen, szabad. Itt sok hely van."
+    speaker: 2
+    picture: "🙂"
+    help: {en: "Yes, it's free. There's lots of room here.", de: "Ja, er ist frei. Hier ist viel Platz."}
+  - text: "A néni is ül. A vonat megy."
+    picture: "🚄"
+    help: {en: "The lady sits down too. The train is moving.", de: "Die Dame setzt sich auch. Der Zug fährt."}
+  - text: "Hova megy?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "Where are you going?", de: "Wohin fahren Sie?"}
+  - text: "Budapestre megyek."
+    speaker: 2
+    picture: "🏙️"
+    help: {en: "I'm going to Budapest.", de: "Ich fahre nach Budapest."}
+  - text: "Én is. Az unokám Budapesten van."
+    speaker: 1
+    picture: "👨"
+    help: {en: "Me too. My grandson is in Budapest.", de: "Ich auch. Mein Enkel ist in Budapest."}
+  - text: "Az unokája? Mi a neve?"
+    speaker: 2
+    picture: "❓"
+    help: {en: "Your grandson? What's his name?", de: "Ihr Enkel? Wie heißt er?"}
+  - text: "Péter."
+    speaker: 1
+    picture: "😊"
+    help: {en: "Péter.", de: "Péter."}
+  - text: "Péter? Péter nagymamája? A száz éves nagymama?"
+    speaker: 2
+    picture: "😮"
+    help: {en: "Péter? Péter's grandma? The grandma who is a hundred?", de: "Péter? Péters Oma? Die hundertjährige Oma?"}
+  - text: "Igen, én vagyok! És te Anna vagy!"
+    speaker: 1
+    picture: "😄"
+    help: {en: "Yes, it's me! And you're Anna!", de: "Ja, das bin ich! Und du bist Anna!"}

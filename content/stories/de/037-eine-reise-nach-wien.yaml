@@ -1,0 +1,43 @@
+lang: de
+level: B1
+title: "Eine Reise nach Wien"
+names: [Lena, Jonas, Hilde]
+new_words: [Wien, Kaffeehaus, Strudel]
+lemma_overrides: {Kellner: Kellner}
+sentences:
+  - text: "Ein paar Monate nach dem Urlaub fuhren Lena und Jonas mit dem Zug nach Wien."
+    picture: 🚆
+    help: {en: "A few months after their holiday, Lena and Jonas took the train to Vienna.", de: "Lena und Jonas machten eine Reise nach Österreich."}
+  - text: "Jonas wollte unbedingt die alten Kaffeehäuser von Wien sehen, von denen er so viel gehört hatte."
+    picture: ☕
+    help: {en: "Jonas was determined to see the old Viennese coffee houses he had heard so much about.", de: "Jonas interessierte sich sehr für die berühmten Cafés."}
+  - text: "Im ersten Kaffeehaus bestellten sie Kaffee und Strudel."
+    picture: 🥧
+    help: {en: "In the first coffee house they ordered coffee and strudel.", de: "Sie aßen dort etwas Süßes."}
+  - text: "Der Strudel war so gut, dass Jonas sofort nach dem Rezept fragte."
+    picture: 😋
+    help: {en: "The strudel was so good that Jonas immediately asked for the recipe.", de: "Jonas wollte wissen, wie man ihn macht."}
+  - text: "Der Kellner schaute ihn ernst an: „Das Rezept verrät unser Koch niemandem.“"
+    picture: 🤵
+    help: {en: "The waiter gave him a serious look: “Our cook doesn't give that recipe away to anyone.”", de: "Das Rezept ist geheim."}
+  - text: "Doch am nächsten Tag kam der alte Koch selbst an ihren Tisch."
+    picture: 👨‍🍳
+    help: {en: "But the next day the old cook himself came to their table.", de: "Der Koch wollte Jonas kennenlernen."}
+  - text: "„Ich habe gehört, Sie sind auch Koch. Ich gebe Ihnen mein Rezept, wenn Sie mir eins von Ihren geben.“"
+    picture: 🤝
+    help: {en: "“I hear you're a cook too. I'll give you my recipe if you give me one of yours.”", de: "Der Koch wollte Rezepte tauschen."}
+  - text: "Jonas dachte an Oma Hilde und ihr Rezept, das nur die Familie bekommen durfte."
+    picture: 👵
+    help: {en: "Jonas thought of Grandma Hilde and her recipe that only the family was allowed to have.", de: "Jonas erinnerte sich an Omas Regel."}
+  - text: "„Es tut mir leid, aber mein bestes Rezept ist ein Geheimnis meiner Familie“, antwortete er."
+    picture: 🤐
+    help: {en: "“I'm sorry, but my best recipe is a family secret,” he replied.", de: "Jonas wollte das Rezept nicht weitergeben."}
+  - text: "Der alte Koch lachte und schrieb sein Rezept trotzdem für ihn auf."
+    picture: ✍️
+    help: {en: "The old cook laughed and wrote down his recipe for him anyway.", de: "Jonas bekam das Rezept doch."}
+  - text: "„Wer ein Geheimnis halten kann, bekommt meins.“"
+    picture: 🔐
+    help: {en: "“Anyone who can keep a secret gets mine.”", de: "Der Koch fand Jonas ehrlich und gut."}
+  - text: "Zu Hause backte Jonas den Strudel für Oma, und Oma fragte sofort nach dem Rezept."
+    picture: 😄
+    help: {en: "Back home Jonas baked the strudel for Grandma, and Grandma immediately asked for the recipe.", de: "Jetzt wollte Oma das Rezept haben."}

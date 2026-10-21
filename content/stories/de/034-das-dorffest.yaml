@@ -1,0 +1,43 @@
+lang: de
+level: B1
+title: "Das Dorffest"
+names: [Hilde, Gerda, Lena, Jonas]
+new_words: [Dorf, Wettbewerb, Freundschaft]
+lemma_overrides: {Wollen: wollen}
+sentences:
+  - text: "Jedes Jahr feiert das Dorf von Oma Hilde ein großes Fest."
+    picture: 🎪
+    help: {en: "Every year Grandma Hilde's village holds a big festival.", de: "Im Dorf von Oma gibt es jedes Jahr eine Feier."}
+  - text: "Der wichtigste Teil des Festes ist der Wettbewerb um den besten Kuchen."
+    picture: 🍰
+    help: {en: "The most important part of the festival is the competition for the best cake.", de: "Beim Fest sucht man den besten Kuchen."}
+  - text: "Seit vielen Jahren gewinnt Oma dort nur den zweiten Platz, weil Gerda aus dem Haus gegenüber immer besser ist."
+    picture: 🥈
+    help: {en: "For many years Grandma has only ever come second, because Gerda from across the road is always better.", de: "Gerda gewinnt immer, Oma ist immer Nummer zwei."}
+  - text: "In diesem Jahr kamen Lena und Jonas mit, um Oma zu helfen."
+    picture: 🚗
+    help: {en: "This year Lena and Jonas came along to help Grandma.", de: "Lena und Jonas besuchten das Fest."}
+  - text: "Jonas wollte ihr beim Backen helfen, aber Oma sagte: „Nein, das mache ich allein.“"
+    picture: 🙅‍♀️
+    help: {en: "Jonas wanted to help her with the baking, but Grandma said: “No, I'll do it on my own.”", de: "Oma wollte keine Hilfe."}
+  - text: "Als die Kuchen probiert wurden, war es im ganzen Dorf plötzlich still."
+    picture: 🤫
+    help: {en: "When the cakes were tasted, the whole village suddenly went quiet.", de: "Alle warteten gespannt."}
+  - text: "Dann kam die große Nachricht: Zum ersten Mal hatte Oma den Wettbewerb gewonnen!"
+    picture: 🏆
+    help: {en: "Then came the big news: for the first time Grandma had won the competition!", de: "Oma war endlich die Nummer eins."}
+  - text: "Alle freuten sich, nur Gerda saß allein an ihrem Tisch und sah traurig aus."
+    picture: 😞
+    help: {en: "Everyone was happy, only Gerda sat alone at her table looking sad.", de: "Gerda war enttäuscht."}
+  - text: "Da nahm Oma ihren Preis, ging zu Gerda und setzte sich neben sie."
+    picture: 🚶‍♀️
+    help: {en: "Then Grandma took her prize, went over to Gerda and sat down next to her.", de: "Oma ging zu Gerda."}
+  - text: "„Ohne dich wäre ich nie so eine gute Köchin geworden. Wollen wir nicht endlich Freundschaft schließen?“"
+    picture: 🤝
+    help: {en: "“Without you I would never have become such a good cook. Shall we finally be friends?”", de: "Oma wollte mit Gerda befreundet sein."}
+  - text: "Den Rest vom Abend saßen die beiden zusammen und aßen gemeinsam den Kuchen, der gewonnen hatte."
+    picture: 🍰
+    help: {en: "The two of them spent the rest of the evening together, eating the winning cake.", de: "Oma und Gerda verbrachten den Abend zusammen."}
+  - text: "Jonas meinte später, dass er an diesem Tag mehr über Freundschaft gelernt habe als über Kuchen."
+    picture: 💡
+    help: {en: "Jonas said later that he had learned more about friendship than about cake that day.", de: "Jonas hat an diesem Tag etwas Wichtiges verstanden."}

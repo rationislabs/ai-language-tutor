@@ -1,0 +1,48 @@
+lang: de
+level: A2
+title: "Der erste Arbeitstag"
+names: [Mia]
+new_words: [Arbeitstag, Krankenschwester, Station, Flur, Patient]
+lemma_overrides: {Suchen: suchen}
+sentences:
+  - text: "Heute hat Mia ihren ersten Arbeitstag als Krankenschwester."
+    picture: 👩‍⚕️
+    help: {en: "Today is Mia's first day at work as a nurse.", de: "Mia beginnt heute ihre neue Arbeit im Krankenhaus."}
+  - text: "Sie steht früh auf und ist sehr nervös."
+    picture: ⏰
+    help: {en: "She gets up early and is very nervous.", de: "Mia ist früh wach und ein bisschen aufgeregt."}
+  - text: "Das Krankenhaus ist groß, und Mia findet ihre Station nicht."
+    picture: 🏥
+    help: {en: "The hospital is big, and Mia can't find her ward.", de: "Mia weiß nicht, wo sie hin muss."}
+  - text: "Überall gibt es lange Flure und viele Türen."
+    picture: 🚪
+    help: {en: "There are long corridors and lots of doors everywhere.", de: "Alles sieht gleich aus."}
+  - text: "Ein alter Mann im Flur fragt: „Suchen Sie etwas?“"
+    speaker: 2
+    picture: 👴
+    help: {en: "An old man in the corridor asks: “Are you looking for something?”", de: "Ein alter Mann will Mia helfen."}
+  - text: "„Ja, die Station drei. Heute ist mein erster Arbeitstag.“"
+    speaker: 1
+    picture: 🙋‍♀️
+    help: {en: "“Yes, ward three. It's my first day at work today.”", de: "Mia sagt, wohin sie muss."}
+  - text: "Der Mann lacht: „Kommen Sie mit. Hier kenne ich jeden Weg.“"
+    speaker: 2
+    picture: 🚶
+    help: {en: "The man laughs: “Come with me. I know every way around here.”", de: "Der Mann kennt das Krankenhaus sehr gut."}
+  - text: "Er bringt sie bis zur Tür, und Mia kommt nicht zu spät."
+    picture: ✅
+    help: {en: "He takes her right to the door, and Mia isn't late.", de: "Dank dem Mann ist Mia pünktlich."}
+  - text: "Später sieht sie den Mann wieder: Er ist ein Patient auf ihrer Station."
+    picture: 🛏️
+    help: {en: "Later she sees the man again: he is a patient on her ward.", de: "Der Mann ist krank und liegt auf Mias Station."}
+  - text: "„Ich bin hier schon seit drei Wochen Patient“, sagt er."
+    speaker: 2
+    picture: 📅
+    help: {en: "“I've been a patient here for three weeks,” he says.", de: "Der Mann ist schon lange im Krankenhaus."}
+  - text: "Mia bringt ihm einen Tee und sagt: „Jetzt helfe ich Ihnen.“"
+    speaker: 1
+    picture: 🍵
+    help: {en: "Mia brings him a tea and says: “Now I'll help you.”", de: "Jetzt hilft Mia dem Mann."}
+  - text: "Am Abend ist Mia müde, aber glücklich: Als Krankenschwester ist sie hier richtig."
+    picture: 😊
+    help: {en: "In the evening Mia is tired but happy: as a nurse, she's in the right place here.", de: "Mia mag ihre neue Arbeit."}

@@ -1,0 +1,41 @@
+lang: it
+level: A1
+title: Al mercato
+names: [Anna]
+new_words: [buongiorno, mela, costare, euro, chilo, mercato]
+lemma_overrides: {al: a}
+sentences:
+- text: Anna è al mercato.
+  picture: 🧺
+  help: {en: Anna is at the market., de: Anna ist auf dem Markt.}
+- text: Al mercato ci sono le mele.
+  picture: 🍎
+  help: {en: There are apples at the market., de: Auf dem Markt gibt es Äpfel.}
+- text: Buongiorno! Quanto costano le mele?
+  picture: 🙋‍♀️
+  help: {en: 'Good morning! How much are the apples?', de: 'Guten Tag! Was kosten die Äpfel?'}
+- text: Buongiorno! Tre euro al chilo.
+  speaker: 1
+  picture: 🏷️
+  help: {en: Good morning! Three euros a kilo., de: Guten Tag! Drei Euro das Kilo.}
+- text: Tre euro? E le mele piccole?
+  picture: 🤔
+  help: {en: 'Three euros? And the small apples?', de: 'Drei Euro? Und die kleinen Äpfel?'}
+- text: Le mele piccole costano un euro al chilo.
+  speaker: 1
+  picture: 🍏
+  help: {en: The small apples are one euro a kilo., de: Die kleinen Äpfel kosten einen Euro das Kilo.}
+- text: Sono buone?
+  picture: ❓
+  help: {en: 'Are they good?', de: 'Sind sie gut?'}
+- text: Sì, sono buone!
+  speaker: 1
+  picture: 😋
+  help: {en: 'Yes, they''re good!', de: 'Ja, sie sind gut!'}
+- text: Voglio due chili di mele piccole, grazie.
+  picture: 🛍️
+  help: {en: 'I''d like two kilos of small apples, please.', de: 'Ich möchte zwei Kilo kleine Äpfel, bitte.'}
+- text: Due chili, due euro. Grazie!
+  speaker: 1
+  picture: 💶
+  help: {en: 'Two kilos, two euros. Thank you!', de: 'Zwei Kilo, zwei Euro. Danke!'}

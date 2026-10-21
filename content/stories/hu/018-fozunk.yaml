@@ -1,0 +1,48 @@
+lang: hu
+level: A1
+title: Főzünk
+names: [Anna, Péter]
+new_words: [főz, leves, krumpli, finom, kell, paprika]
+lemma_overrides: {igen: igen}
+sentences:
+  - text: "Ma Anna és Péter levest főznek."
+    picture: "🍲"
+    help: {en: "Today Anna and Péter are making soup.", de: "Heute kochen Anna und Péter Suppe."}
+  - text: "Péter, mi kell a leveshez?"
+    speaker: 2
+    picture: "🤔"
+    help: {en: "Péter, what do we need for the soup?", de: "Péter, was brauchen wir für die Suppe?"}
+  - text: "Krumpli kell. Sok krumpli!"
+    speaker: 1
+    picture: "🥔"
+    help: {en: "We need potatoes. Lots of potatoes!", de: "Wir brauchen Kartoffeln. Viele Kartoffeln!"}
+  - text: "Itt van a krumpli. Anna és Péter főznek."
+    picture: "👩‍🍳"
+    help: {en: "Here are the potatoes. Anna and Péter cook.", de: "Hier sind die Kartoffeln. Anna und Péter kochen."}
+  - text: "Itt a leves! Finom?"
+    speaker: 2
+    picture: "🥄"
+    help: {en: "Here's the soup! Is it tasty?", de: "Hier ist die Suppe! Schmeckt sie?"}
+  - text: "Jó, de nem finom."
+    speaker: 1
+    picture: "😕"
+    help: {en: "It's OK, but it's not tasty.", de: "Sie ist okay, aber nicht lecker."}
+  - text: "Nem finom? Mi kell?"
+    speaker: 2
+    picture: "❓"
+    help: {en: "Not tasty? What does it need?", de: "Nicht lecker? Was fehlt?"}
+  - text: "Paprika! A magyar levesbe paprika kell!"
+    speaker: 1
+    picture: "🌶️"
+    help: {en: "Paprika! Hungarian soup needs paprika!", de: "Paprika! In eine ungarische Suppe gehört Paprika!"}
+  - text: "Anna paprikát hoz."
+    picture: "🫙"
+    help: {en: "Anna brings paprika.", de: "Anna bringt Paprikapulver."}
+  - text: "Most nagyon finom a leves!"
+    speaker: 1
+    picture: "😋"
+    help: {en: "Now the soup is really tasty!", de: "Jetzt ist die Suppe sehr lecker!"}
+  - text: "Igen, nagyon finom!"
+    speaker: 2
+    picture: "👍"
+    help: {en: "Yes, very tasty!", de: "Ja, sehr lecker!"}

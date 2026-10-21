@@ -1,0 +1,54 @@
+lang: hu
+level: A1
+title: Budapest
+names: [Anna, Péter, Budapest, Duna, Lánchíd, Parlament]
+new_words: [nagyon, ott, lát, híd, régi, folyó]
+lemma_overrides: {igen: igen, folyó: folyó, városom: város}
+sentences:
+  - text: "Szombat van. Anna és Péter a városban vannak."
+    picture: "☀️"
+    help: {en: "It's Saturday. Anna and Péter are in town.", de: "Es ist Samstag. Anna und Péter sind in der Stadt."}
+  - text: "Anna, látod? Ott van a Duna."
+    speaker: 1
+    picture: "🌊"
+    help: {en: "Anna, can you see? There is the Danube.", de: "Anna, siehst du? Da ist die Donau."}
+  - text: "A Duna egy folyó? Nagyon nagy folyó!"
+    speaker: 2
+    picture: "😮"
+    help: {en: "The Danube is a river? It's a very big river!", de: "Die Donau ist ein Fluss? Ein sehr großer Fluss!"}
+  - text: "Igen. És látod ott a hidat?"
+    speaker: 1
+    picture: "🌉"
+    help: {en: "Yes. And do you see the bridge over there?", de: "Ja. Und siehst du dort die Brücke?"}
+  - text: "Az a híd nagyon szép."
+    speaker: 2
+    picture: "😍"
+    help: {en: "That bridge is very beautiful.", de: "Diese Brücke ist sehr schön."}
+  - text: "Ez a Lánchíd. Nagyon régi híd."
+    speaker: 1
+    picture: "⛓️"
+    help: {en: "This is the Chain Bridge. It's a very old bridge.", de: "Das ist die Kettenbrücke. Eine sehr alte Brücke."}
+  - text: "És ott? Mi az?"
+    speaker: 2
+    picture: "🏛️"
+    help: {en: "And over there? What is that?", de: "Und dort? Was ist das?"}
+  - text: "Az a Parlament."
+    speaker: 1
+    picture: "🇭🇺"
+    help: {en: "That's the Parliament.", de: "Das ist das Parlament."}
+  - text: "A Parlament is régi?"
+    speaker: 2
+    picture: "🤔"
+    help: {en: "Is the Parliament old too?", de: "Ist das Parlament auch alt?"}
+  - text: "Igen, az is régi, és nagyon nagy."
+    speaker: 1
+    picture: "🏰"
+    help: {en: "Yes, it's old too, and very big.", de: "Ja, es ist auch alt und sehr groß."}
+  - text: "Budapest nagyon szép város!"
+    speaker: 2
+    picture: "✨"
+    help: {en: "Budapest is a very beautiful city!", de: "Budapest ist eine sehr schöne Stadt!"}
+  - text: "Igen. Ez az én városom!"
+    speaker: 1
+    picture: "😊"
+    help: {en: "Yes. This is my city!", de: "Ja. Das ist meine Stadt!"}

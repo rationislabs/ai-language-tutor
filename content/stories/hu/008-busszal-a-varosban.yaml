@@ -1,0 +1,44 @@
+lang: hu
+level: A1
+title: Busszal a városban
+names: [Anna, Péter]
+new_words: [busz, város, megy, hova, jegy, nagy]
+lemma_overrides: {háromszáz: száz, megyek: megy, mész: megy, jegyet: jegy}
+sentences:
+  - text: "Anna a városban van."
+    picture: "🏙️"
+    help: {en: "Anna is in town.", de: "Anna ist in der Stadt."}
+  - text: "A város nagy. Itt van egy busz."
+    picture: "🚌"
+    help: {en: "The city is big. Here is a bus.", de: "Die Stadt ist groß. Hier ist ein Bus."}
+  - text: "Hova megy ez a busz?"
+    speaker: 2
+    picture: "🤔"
+    help: {en: "Where does this bus go?", de: "Wohin fährt dieser Bus?"}
+  - text: "A piacra megy."
+    speaker: 1
+    picture: "🧺"
+    help: {en: "It goes to the market.", de: "Er fährt zum Markt."}
+  - text: "Jó! Én is a piacra megyek. Kérek egy jegyet."
+    speaker: 2
+    picture: "🎫"
+    help: {en: "Good! I'm going to the market too. A ticket, please.", de: "Gut! Ich fahre auch zum Markt. Eine Fahrkarte, bitte."}
+  - text: "Egy jegy háromszáz forint."
+    speaker: 1
+    picture: "🪙"
+    help: {en: "A ticket is three hundred forints.", de: "Eine Fahrkarte kostet dreihundert Forint."}
+  - text: "Anna a buszon van. A busz nagy."
+    picture: "🚍"
+    help: {en: "Anna is on the bus. The bus is big.", de: "Anna ist im Bus. Der Bus ist groß."}
+  - text: "Szia, Anna! Hova mész?"
+    speaker: 1
+    picture: "👋"
+    help: {en: "Hi, Anna! Where are you going?", de: "Hallo, Anna! Wohin fährst du?"}
+  - text: "Péter! Szia! A piacra megyek. És te?"
+    speaker: 2
+    picture: "😮"
+    help: {en: "Péter! Hi! I'm going to the market. And you?", de: "Péter! Hallo! Ich fahre zum Markt. Und du?"}
+  - text: "Én is a piacra megyek!"
+    speaker: 1
+    picture: "😄"
+    help: {en: "I'm going to the market too!", de: "Ich fahre auch zum Markt!"}

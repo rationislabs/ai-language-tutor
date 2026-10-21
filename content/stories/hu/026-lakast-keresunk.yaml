@@ -1,0 +1,50 @@
+lang: hu
+level: A1
+title: Lakást keresünk
+names: [Anna, Péter, Duna, Dunát]
+new_words: [keres, új, drága, olcsó, ablak]
+lemma_overrides: {igen: igen, lakásom: lakás}
+sentences:
+  - text: "Anna lakása kicsi. Anna új lakást keres."
+    picture: "🔎"
+    help: {en: "Anna's flat is small. Anna is looking for a new flat.", de: "Annas Wohnung ist klein. Anna sucht eine neue Wohnung."}
+  - text: "Péter is jön, és ő is keres."
+    picture: "🚶"
+    help: {en: "Péter comes too, and he looks as well.", de: "Péter kommt mit und sucht auch."}
+  - text: "Itt van egy lakás. Ez nagy és szép."
+    picture: "🏢"
+    help: {en: "Here is a flat. It's big and nice.", de: "Hier ist eine Wohnung. Sie ist groß und schön."}
+  - text: "Ez a lakás nagyon szép!"
+    speaker: 1
+    picture: "😍"
+    help: {en: "This flat is very nice!", de: "Diese Wohnung ist sehr schön!"}
+  - text: "Igen, de nagyon drága."
+    speaker: 2
+    picture: "💸"
+    help: {en: "Yes, but it's very expensive.", de: "Ja, aber sie ist sehr teuer."}
+  - text: "Itt van egy lakás. Ez olcsó!"
+    speaker: 2
+    picture: "🏚️"
+    help: {en: "Here's a flat. This one is cheap!", de: "Hier ist eine Wohnung. Die ist billig!"}
+  - text: "Olcsó, de nagyon kicsi. És nincs konyha!"
+    speaker: 1
+    picture: "🙅‍♂️"
+    help: {en: "It's cheap, but very small. And there's no kitchen!", de: "Sie ist billig, aber sehr klein. Und es gibt keine Küche!"}
+  - text: "És itt van egy új lakás. Nem drága, és nem is kicsi."
+    picture: "🏠"
+    help: {en: "And here is a new flat. It isn't expensive, and it isn't small either.", de: "Und hier ist eine neue Wohnung. Sie ist nicht teuer und auch nicht klein."}
+  - text: "Két szoba van, és két nagy ablak."
+    picture: "🪟"
+    help: {en: "There are two rooms and two big windows.", de: "Es gibt zwei Zimmer und zwei große Fenster."}
+  - text: "Péter, az ablakból látom a Dunát!"
+    speaker: 2
+    picture: "🌊"
+    help: {en: "Péter, I can see the Danube from the window!", de: "Péter, vom Fenster aus sehe ich die Donau!"}
+  - text: "Ez az! Ez az én új lakásom!"
+    speaker: 2
+    picture: "🔑"
+    help: {en: "That's it! This is my new flat!", de: "Das ist es! Das ist meine neue Wohnung!"}
+  - text: "Jó lakás, Anna!"
+    speaker: 1
+    picture: "😊"
+    help: {en: "It's a good flat, Anna!", de: "Eine gute Wohnung, Anna!"}

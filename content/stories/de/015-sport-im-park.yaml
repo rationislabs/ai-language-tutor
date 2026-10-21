@@ -1,0 +1,43 @@
+lang: de
+level: A2
+title: "Sport im Park"
+names: [Mia, Lena]
+new_words: [Sport, joggen, Park, Runde]
+sentences:
+  - text: "Mia will mehr Sport machen und fragt Lena: „Gehst du mit mir joggen?“"
+    speaker: 1
+    picture: 👟
+    help: {en: "Mia wants to do more sport and asks Lena: “Will you go jogging with me?”", de: "Mia möchte zusammen mit Lena laufen."}
+  - text: "Am nächsten Morgen um sieben treffen sie sich im Park."
+    picture: 🌳
+    help: {en: "The next morning at seven they meet in the park.", de: "Früh am Morgen sind die zwei im Park."}
+  - text: "Mia läuft schnell, aber Lena ist schon nach einer Runde müde."
+    picture: 🥵
+    help: {en: "Mia runs fast, but Lena is tired after just one lap.", de: "Lena hat schnell keine Kraft mehr."}
+  - text: "Sie setzt sich auf eine Bank, denn sie kann nicht mehr."
+    picture: 🪑
+    help: {en: "She sits down on a bench because she can't go on.", de: "Lena muss sich ausruhen."}
+  - text: "Da läuft ein alter Mann an ihr vorbei – schon zum zweiten Mal."
+    picture: 👴
+    help: {en: "Just then an old man jogs past her – for the second time already.", de: "Ein alter Mann ist schneller als Lena."}
+  - text: "Mia erkennt ihn sofort: Er war ihr Patient im Krankenhaus!"
+    picture: 🏥
+    help: {en: "Mia recognises him at once: he was her patient in the hospital!", de: "Mia kennt den Mann von ihrer Arbeit."}
+  - text: "Der Mann lacht: „Ja, und jetzt mache ich jeden Tag Sport.“"
+    speaker: 2
+    picture: 💪
+    help: {en: "The man laughs: “Yes, and now I do sport every day.”", de: "Der Mann ist wieder gesund und sehr fit."}
+  - text: "„Heute laufe ich zehn Runden im Park.“"
+    speaker: 2
+    picture: 🔟
+    help: {en: "“Today I'm running ten laps of the park.”", de: "Er läuft heute sehr viel."}
+  - text: "Lena schaut ihn an und steht sofort auf."
+    picture: 😤
+    help: {en: "Lena looks at him and gets up at once.", de: "Lena will jetzt auch weiterlaufen."}
+  - text: "„Wenn er das kann, kann ich das auch!“"
+    speaker: 1
+    picture: 🏃‍♀️
+    help: {en: "“If he can do it, so can I!”", de: "Lena will nicht schlechter sein als der alte Mann."}
+  - text: "Am Ende schafft Lena drei Runden – nicht schlecht für den ersten Tag beim Joggen."
+    picture: 🏅
+    help: {en: "In the end Lena manages three laps – not bad for her first day of jogging.", de: "Lena ist zufrieden mit sich."}

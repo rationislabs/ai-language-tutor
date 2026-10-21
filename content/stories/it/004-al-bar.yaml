@@ -1,0 +1,39 @@
+lang: it
+level: A1
+title: Al bar
+names: [Marco, Anna]
+new_words: [a, bar, volere, caffè, sì, buono]
+lemma_overrides: {anch': anche, al: a}
+sentences:
+- text: Marco e Anna sono al bar.
+  picture: ☕
+  help: {en: Marco and Anna are at the café., de: Marco und Anna sind im Café.}
+- text: Ciao! Volete un caffè?
+  speaker: 2
+  picture: 🙋
+  help: {en: 'Hi! Would you like a coffee?', de: 'Hallo! Möchtet ihr einen Kaffee?'}
+- text: Sì, un caffè, grazie!
+  picture: 👍
+  help: {en: 'Yes, a coffee, thanks!', de: 'Ja, einen Kaffee, bitte!'}
+- text: Io no, grazie. Il caffè non è buono.
+  speaker: 1
+  picture: 🙅‍♀️
+  help: {en: 'Not for me, thanks. Coffee isn''t good.', de: 'Ich nicht, danke. Kaffee ist nicht gut.'}
+- text: Marco ha il caffè.
+  picture: ☕
+  help: {en: Marco has his coffee., de: Marco hat seinen Kaffee.}
+- text: Marco, è buono?
+  speaker: 1
+  picture: 🤔
+  help: {en: 'Marco, is it good?', de: 'Marco, ist er gut?'}
+- text: Sì, è buono!
+  picture: 😋
+  help: {en: 'Yes, it''s good!', de: 'Ja, er ist gut!'}
+- text: Anch'io voglio un caffè!
+  speaker: 1
+  picture: ☕
+  help: {en: I want a coffee too!, de: Ich will auch einen Kaffee!}
+- text: Il caffè al bar è buono!
+  speaker: 1
+  picture: 😄
+  help: {en: The coffee at the café is good!, de: Der Kaffee im Café ist gut!}

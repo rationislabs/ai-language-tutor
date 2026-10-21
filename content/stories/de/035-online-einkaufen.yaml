@@ -1,0 +1,42 @@
+lang: de
+level: B1
+title: "Online einkaufen"
+names: [Hilde, Emil]
+new_words: [Internet, online, Mixer, drücken, Knopf]
+sentences:
+  - text: "Oma Hilde hatte noch nie etwas im Internet gekauft."
+    picture: 👵
+    help: {en: "Grandma Hilde had never bought anything on the internet.", de: "Oma kaufte immer nur im Geschäft ein."}
+  - text: "Doch als ihr alter Mixer kaputt war, gab es im Dorf keinen neuen zu kaufen."
+    picture: 🥣
+    help: {en: "But when her old mixer broke, there wasn't a new one to buy in the village.", de: "Im Dorf konnte Oma keinen Mixer kaufen."}
+  - text: "Also bat sie Emil, ihr zu zeigen, wie man online bestellt."
+    picture: 🧒
+    help: {en: "So she asked Emil to show her how to order online.", de: "Emil sollte ihr helfen."}
+  - text: "Emil erklärte ihr alles ganz genau am Computer."
+    picture: 💻
+    help: {en: "Emil explained everything to her very carefully on the computer.", de: "Emil zeigte ihr jeden Schritt."}
+  - text: "Oma fand online einen schönen Mixer, aber die Seite lud sehr langsam."
+    picture: 🐌
+    help: {en: "Grandma found a nice mixer online, but the page was loading very slowly.", de: "Der Computer war langsam."}
+  - text: "Weil nichts passierte, drückte sie immer wieder auf den Knopf zum Bestellen."
+    picture: 👆
+    help: {en: "Because nothing happened, she kept pressing the order button.", de: "Oma klickte viele Male."}
+  - text: "Eine Woche später klingelte der Postbote mit fünf großen Paketen."
+    picture: 📦
+    help: {en: "A week later the postman rang the bell with five big parcels.", de: "Es kamen viele Pakete."}
+  - text: "In jedem Paket war derselbe Mixer."
+    picture: 😲
+    help: {en: "Every parcel contained the same mixer.", de: "Oma hatte fünf Mixer bestellt."}
+  - text: "„Hätte ich nur nicht so oft auf den Knopf gedrückt!“, sagte Oma."
+    picture: 🤦‍♀️
+    help: {en: "“If only I hadn't pressed the button so often!” said Grandma.", de: "Oma ärgerte sich über ihren Fehler."}
+  - text: "Emil erklärte ihr, dass man nicht alle Mixer behalten muss."
+    picture: ↩️
+    help: {en: "Emil explained to her that she didn't have to keep all the mixers.", de: "Man kann die Mixer wieder zurückschicken."}
+  - text: "Aber Oma hatte eine bessere Idee: Zu Weihnachten bekam jeder in der Familie einen Mixer."
+    picture: 🎄
+    help: {en: "But Grandma had a better idea: for Christmas everyone in the family got a mixer.", de: "Oma verschenkte die Mixer an die Familie."}
+  - text: "Heute kauft sie gern im Internet ein, aber nur, wenn Emil neben ihr sitzt."
+    picture: 😄
+    help: {en: "Today she likes shopping online, but only when Emil is sitting next to her.", de: "Oma kauft jetzt online ein, aber immer mit Emil."}

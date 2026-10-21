@@ -1,0 +1,45 @@
+lang: it
+level: A1
+title: Al ristorante
+names: [Marco, Anna]
+new_words: [ristorante, mangiare, pizza, pasta, per, cosa]
+lemma_overrides: {al: a}
+sentences:
+- text: Marco e Anna sono al ristorante.
+  picture: 🍽️
+  help: {en: Marco and Anna are at a restaurant., de: Marco und Anna sind im Restaurant.}
+- text: Buongiorno! Cosa volete mangiare?
+  speaker: 2
+  picture: 🧑‍🍳
+  help: {en: 'Good afternoon! What would you like to eat?', de: 'Guten Tag! Was möchtet ihr essen?'}
+- text: Io voglio una pizza, grazie.
+  picture: 🍕
+  help: {en: 'I''d like a pizza, please.', de: 'Ich möchte eine Pizza, bitte.'}
+- text: E io voglio la pasta.
+  speaker: 1
+  picture: 🍝
+  help: {en: And I'd like the pasta., de: Und ich möchte die Nudeln.}
+- text: La pizza è per Marco e la pasta è per Anna.
+  picture: 🍽️
+  help: {en: The pizza is for Marco and the pasta is for Anna., de: Die Pizza ist für Marco und die Nudeln sind für Anna.}
+- text: Marco, la pizza è buona?
+  speaker: 1
+  picture: 🤔
+  help: {en: 'Marco, is the pizza good?', de: 'Marco, ist die Pizza gut?'}
+- text: Sì, è buona. E la pasta?
+  picture: 😋
+  help: {en: 'Yes, it''s good. And the pasta?', de: 'Ja, sie ist gut. Und die Nudeln?'}
+- text: Anche la pasta è buona.
+  speaker: 1
+  picture: 👌
+  help: {en: The pasta is good too., de: Die Nudeln sind auch gut.}
+- text: Marco, cosa vuoi? La mia pasta?
+  speaker: 1
+  picture: 😏
+  help: {en: 'Marco, what do you want? My pasta?', de: 'Marco, was willst du? Meine Nudeln?'}
+- text: Sì! E tu vuoi la mia pizza?
+  picture: 😄
+  help: {en: 'Yes! And do you want my pizza?', de: 'Ja! Und willst du meine Pizza?'}
+- text: Al ristorante Marco mangia la pasta e Anna mangia la pizza.
+  picture: 🔄
+  help: {en: At the restaurant Marco eats the pasta and Anna eats the pizza., de: Im Restaurant isst Marco die Nudeln und Anna die Pizza.}

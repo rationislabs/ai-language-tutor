@@ -1,0 +1,41 @@
+lang: fr
+level: A1
+title: Le week-end
+names: [Léa, Hugo, Théo, Nina]
+new_words: [week-end, samedi, dimanche, avec, aimer, nous]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "C'est le week-end !"
+    picture: 🎉
+    help: {en: "It's the weekend!", de: "Es ist Wochenende!"}
+  - text: "Léa, tu vas où samedi ?"
+    speaker: 1
+    picture: 📅
+    help: {en: "Léa, where are you going on Saturday?", de: "Léa, wohin gehst du am Samstag?"}
+  - text: "Samedi, je vais au marché avec Théo."
+    picture: 🧺
+    help: {en: "On Saturday, I'm going to the market with Théo.", de: "Am Samstag gehe ich mit Théo auf den Markt."}
+  - text: "Il aime les pommes !"
+    picture: 🍎
+    help: {en: "He loves apples!", de: "Er mag Äpfel!"}
+  - text: "Et dimanche ?"
+    speaker: 1
+    picture: 🤔
+    help: {en: "And on Sunday?", de: "Und am Sonntag?"}
+  - text: "Dimanche, je vais au café avec Nina. Tu veux aller au café avec nous ?"
+    picture: ☕
+    help: {en: "On Sunday, I'm going to the café with Nina. Do you want to come to the café with us?", de: "Am Sonntag gehe ich mit Nina ins Café. Willst du mit uns ins Café gehen?"}
+  - text: "Oui ! J'aime le café."
+    speaker: 1
+    picture: 😊
+    help: {en: "Yes! I love coffee.", de: "Ja! Ich mag Kaffee."}
+  - text: "Dimanche, il pleut."
+    picture: 🌧️
+    help: {en: "On Sunday, it rains.", de: "Am Sonntag regnet es."}
+  - text: "Il pleut, mais nous sommes au café !"
+    speaker: 1
+    picture: ☕
+    help: {en: "It's raining, but we're at the café!", de: "Es regnet, aber wir sind im Café!"}
+  - text: "Oui ! J'aime le week-end."
+    picture: 🥰
+    help: {en: "Yes! I love the weekend.", de: "Ja! Ich liebe das Wochenende."}

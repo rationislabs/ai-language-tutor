@@ -1,0 +1,47 @@
+lang: hu
+level: A1
+title: Az orvosnál
+names: [Péter]
+new_words: [orvos, beteg, fáj, fej, has, gyógyszer]
+lemma_overrides: {hasam: has, hasa: has}
+sentences:
+  - text: "Péter ma beteg."
+    picture: "🤒"
+    help: {en: "Péter is ill today.", de: "Péter ist heute krank."}
+  - text: "Péter az orvosnál van."
+    picture: "🩺"
+    help: {en: "Péter is at the doctor's.", de: "Péter ist beim Arzt."}
+  - text: "Péter, mi fáj?"
+    speaker: 2
+    picture: "👩‍⚕️"
+    help: {en: "Péter, what hurts?", de: "Péter, was tut weh?"}
+  - text: "A fejem fáj."
+    speaker: 1
+    picture: "🤕"
+    help: {en: "My head hurts.", de: "Mein Kopf tut weh."}
+  - text: "Csak a fejed fáj?"
+    speaker: 2
+    picture: "🤔"
+    help: {en: "Only your head hurts?", de: "Tut nur dein Kopf weh?"}
+  - text: "Nem. A hasam is fáj."
+    speaker: 1
+    picture: "😣"
+    help: {en: "No. My stomach hurts too.", de: "Nein. Mein Bauch tut auch weh."}
+  - text: "Itt van egy gyógyszer."
+    speaker: 2
+    picture: "💊"
+    help: {en: "Here is some medicine.", de: "Hier ist ein Medikament."}
+  - text: "És most otthon sokat alszol, jó?"
+    speaker: 2
+    picture: "🛌"
+    help: {en: "And now you sleep a lot at home, OK?", de: "Und jetzt schläfst du zu Hause viel, ja?"}
+  - text: "Péter otthon van, és alszik."
+    picture: "😴"
+    help: {en: "Péter is at home and sleeps.", de: "Péter ist zu Hause und schläft."}
+  - text: "Vasárnap Péter nem beteg. A feje és a hasa nem fáj."
+    picture: "😊"
+    help: {en: "On Sunday Péter isn't ill. His head and stomach don't hurt.", de: "Am Sonntag ist Péter nicht krank. Kopf und Bauch tun nicht weh."}
+  - text: "Jó az orvos, és jó a gyógyszer!"
+    speaker: 1
+    picture: "👍"
+    help: {en: "The doctor is good, and the medicine is good!", de: "Die Ärztin ist gut, und das Medikament ist gut!"}

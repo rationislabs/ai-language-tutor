@@ -1,0 +1,37 @@
+lang: it
+level: A1
+title: In città
+names: [Marco, Anna]
+new_words: [andare, città, in, autobus, museo, lontano]
+lemma_overrides: {al: a}
+sentences:
+- text: Marco e Anna sono in città.
+  picture: 🏙️
+  help: {en: Marco and Anna are in town., de: Marco und Anna sind in der Stadt.}
+- text: In città c'è un museo.
+  picture: 🏛️
+  help: {en: There's a museum in town., de: In der Stadt gibt es ein Museum.}
+- text: Marco e Anna vogliono andare al museo.
+  picture: 🚶
+  help: {en: Marco and Anna want to go to the museum., de: Marco und Anna wollen ins Museum gehen.}
+- text: Dov'è il museo? È lontano?
+  speaker: 1
+  picture: 🗺️
+  help: {en: 'Where''s the museum? Is it far?', de: 'Wo ist das Museum? Ist es weit weg?'}
+- text: Sì, è lontano. Andiamo in autobus!
+  picture: 🚌
+  help: {en: 'Yes, it''s far. Let''s take the bus!', de: 'Ja, es ist weit. Wir fahren mit dem Bus!'}
+- text: Ma l'autobus non c'è.
+  picture: ⏳
+  help: {en: But there's no bus., de: Aber es kommt kein Bus.}
+- text: Marco, ma questo è il museo!
+  speaker: 1
+  picture: 👉
+  help: {en: 'Marco, but this is the museum!', de: 'Marco, das hier ist doch das Museum!'}
+- text: Il museo è qui? Non è lontano!
+  picture: 😳
+  help: {en: 'The museum is here? It isn''t far!', de: 'Das Museum ist hier? Es ist gar nicht weit!'}
+- text: No, non è lontano. Andiamo!
+  speaker: 1
+  picture: 😄
+  help: {en: 'No, it isn''t far. Let''s go!', de: 'Nein, es ist nicht weit. Komm, wir gehen!'}

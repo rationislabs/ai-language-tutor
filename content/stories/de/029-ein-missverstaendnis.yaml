@@ -1,0 +1,43 @@
+lang: de
+level: A2
+title: "Ein Missverständnis"
+names: [Lena, Jonas]
+new_words: [eifersüchtig, Pfanne]
+sentences:
+  - text: "Lena kommt früher als sonst nach Hause."
+    picture: 🏠
+    help: {en: "Lena comes home earlier than usual.", de: "Lena ist heute früh zu Hause."}
+  - text: "Sie hört Jonas in der Küche am Telefon sprechen."
+    picture: 📞
+    help: {en: "She hears Jonas talking on the phone in the kitchen.", de: "Jonas telefoniert in der Küche."}
+  - text: "„Ich liebe sie! Sie ist so schön und wird so heiß!“, sagt Jonas."
+    speaker: 1
+    picture: ❤️
+    help: {en: "“I love her! She's so beautiful and gets so hot!” says Jonas.", de: "Jonas spricht sehr verliebt über eine „sie“."}
+  - text: "Lena bleibt in der Tür stehen. Wer ist „sie“?"
+    picture: 😳
+    help: {en: "Lena stops in the doorway. Who is “she”?", de: "Lena wundert sich und hört weiter zu."}
+  - text: "„Und morgen kommt sie endlich zu mir. Ich kann nicht mehr warten!“"
+    speaker: 1
+    picture: ⏳
+    help: {en: "“And tomorrow she's finally coming to me. I can't wait any longer!”", de: "Jonas freut sich sehr auf morgen."}
+  - text: "Lena ist eifersüchtig und sehr traurig."
+    picture: 💔
+    help: {en: "Lena is jealous and very sad.", de: "Lena denkt, Jonas liebt eine andere Frau."}
+  - text: "Am Abend sagt sie kein Wort, und Jonas fragt: „Was ist los?“"
+    picture: 🤐
+    help: {en: "In the evening she doesn't say a word, and Jonas asks: “What's wrong?”", de: "Lena ist still. Jonas merkt, dass etwas nicht stimmt."}
+  - text: "Lena weint: „Wer ist sie? Ich habe dich am Telefon gehört!“"
+    speaker: 2
+    picture: 😢
+    help: {en: "Lena cries: “Who is she? I heard you on the phone!”", de: "Lena sagt Jonas, was sie gehört hat."}
+  - text: "Jonas lacht laut: „Sie ist eine Pfanne! Eine neue Pfanne für unsere Küche!“"
+    speaker: 1
+    picture: 🍳
+    help: {en: "Jonas laughs out loud: “She's a frying pan! A new pan for our kitchen!”", de: "Jonas hat nur über eine Pfanne gesprochen."}
+  - text: "Am nächsten Tag kommt ein Paket mit einer großen, schönen Pfanne."
+    picture: 📦
+    help: {en: "The next day a parcel arrives with a big, beautiful frying pan.", de: "Die Pfanne ist da."}
+  - text: "Lena lacht: Eifersüchtig auf eine Pfanne – das passiert ihr nie wieder."
+    picture: 😂
+    help: {en: "Lena laughs: jealous of a frying pan – that will never happen to her again.", de: "Lena findet ihren Fehler jetzt lustig."}

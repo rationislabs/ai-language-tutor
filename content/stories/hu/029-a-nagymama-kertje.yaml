@@ -1,0 +1,45 @@
+lang: hu
+level: A1
+title: A nagymama kertje
+names: [Anna, Annának, Péter]
+new_words: [kert, virág, zöld, sárga, falu, lakik]
+lemma_overrides: {alma: alma, igen: igen, kert: kert, kertje: kert, dolgozom: dolgozik, sportom: sport}
+sentences:
+  - text: "Nagymama egy kicsi faluban lakik."
+    picture: "🏡"
+    help: {en: "Grandma lives in a small village.", de: "Oma wohnt in einem kleinen Dorf."}
+  - text: "Ma Anna és Péter is ott vannak."
+    picture: "🚗"
+    help: {en: "Today Anna and Péter are there too.", de: "Heute sind Anna und Péter auch dort."}
+  - text: "Nagymamának nagyon szép kertje van."
+    picture: "🌳"
+    help: {en: "Grandma has a very beautiful garden.", de: "Oma hat einen sehr schönen Garten."}
+  - text: "A kertben sok virág van: piros, sárga és kék."
+    picture: "🌷"
+    help: {en: "There are lots of flowers in the garden: red, yellow and blue.", de: "Im Garten gibt es viele Blumen: rote, gelbe und blaue."}
+  - text: "Itt van egy nagy zöld fa. A fán zöld alma van."
+    picture: "🍏"
+    help: {en: "Here is a big green tree. There are green apples on the tree.", de: "Hier ist ein großer grüner Baum. Am Baum hängen grüne Äpfel."}
+  - text: "Nagymama, a sárga virág nagyon szép!"
+    speaker: 2
+    picture: "🌼"
+    help: {en: "Grandma, the yellow flower is very pretty!", de: "Oma, die gelbe Blume ist sehr schön!"}
+  - text: "Köszönöm! Reggel én itt dolgozom, a kertben."
+    speaker: 1
+    picture: "👵"
+    help: {en: "Thank you! In the mornings I work here, in the garden.", de: "Danke! Morgens arbeite ich hier im Garten."}
+  - text: "Te a kertben dolgozol? Száz évesen?"
+    speaker: 2
+    picture: "😮"
+    help: {en: "You work in the garden? At a hundred?", de: "Du arbeitest im Garten? Mit hundert?"}
+  - text: "Igen! A kert az én sportom!"
+    speaker: 1
+    picture: "💪"
+    help: {en: "Yes! The garden is my sport!", de: "Ja! Der Garten ist mein Sport!"}
+  - text: "Nagymama sok virágot és almát ad Annának."
+    picture: "💐"
+    help: {en: "Grandma gives Anna lots of flowers and apples.", de: "Oma gibt Anna viele Blumen und Äpfel."}
+  - text: "A falu is nagyon szép. Itt jó lakni!"
+    speaker: 2
+    picture: "😊"
+    help: {en: "The village is very nice too. It's good to live here!", de: "Das Dorf ist auch sehr schön. Hier lebt es sich gut!"}

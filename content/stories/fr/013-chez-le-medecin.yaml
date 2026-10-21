@@ -1,0 +1,45 @@
+lang: fr
+level: A1
+title: Chez le médecin
+names: [Théo, Léa]
+new_words: [malade, mal, ventre, chez, médecin, trop]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Théo est malade."
+    picture: 🤒
+    help: {en: "Théo is ill.", de: "Théo ist krank."}
+  - text: "Il a mal au ventre."
+    picture: 🤢
+    help: {en: "He has a stomach ache.", de: "Er hat Bauchschmerzen."}
+  - text: "Léa et Théo vont chez le médecin."
+    picture: 🏥
+    help: {en: "Léa and Théo go to the doctor's.", de: "Léa und Théo gehen zum Arzt."}
+  - text: "Bonjour, Théo ! Tu as mal où ?"
+    picture: 🩺
+    help: {en: "Hello, Théo! Where does it hurt?", de: "Hallo, Théo! Wo tut es weh?"}
+  - text: "J'ai mal au ventre."
+    speaker: 1
+    picture: 😣
+    help: {en: "My tummy hurts.", de: "Mein Bauch tut weh."}
+  - text: "Tu aimes les pommes, Théo ?"
+    picture: 🍎
+    help: {en: "Do you like apples, Théo?", de: "Magst du Äpfel, Théo?"}
+  - text: "Oui ! J'aime les pommes !"
+    speaker: 1
+    picture: 😋
+    help: {en: "Yes! I love apples!", de: "Ja! Ich liebe Äpfel!"}
+  - text: "Chez nous, il mange cinq pommes le matin… et cinq pommes le soir !"
+    picture: 😱
+    help: {en: "At home, he eats five apples in the morning… and five apples in the evening!", de: "Zu Hause isst er fünf Äpfel am Morgen… und fünf Äpfel am Abend!"}
+  - text: "Cinq pommes le matin ? Théo, c'est trop !"
+    picture: 🙅‍♀️
+    help: {en: "Five apples in the morning? Théo, that's too many!", de: "Fünf Äpfel am Morgen? Théo, das ist zu viel!"}
+  - text: "Une pomme le matin, très bien. Cinq pommes, c'est trop !"
+    picture: 🍏
+    help: {en: "One apple in the morning, great. Five apples is too many!", de: "Ein Apfel am Morgen, sehr gut. Fünf Äpfel sind zu viel!"}
+  - text: "Théo n'est pas très malade."
+    picture: 🙂
+    help: {en: "Théo isn't very ill.", de: "Théo ist nicht sehr krank."}
+  - text: "Mais il n'aime pas le médecin !"
+    picture: 😤
+    help: {en: "But he doesn't like the doctor!", de: "Aber er mag den Arzt nicht!"}

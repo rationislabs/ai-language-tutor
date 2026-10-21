@@ -1,0 +1,39 @@
+lang: fr
+level: A1
+title: Ma maison
+names: [Nina, Hugo, Minou]
+new_words: [maison, petit, y, chambre, chat, dans]
+lemma_overrides: {je: je, "j'": je, tu: tu, te: toi, ils: il, elles: elle, sommes: être, mon: mon, ma: mon, mes: mon, ton: ton, ta: ton, tes: ton, notre: notre, nos: notre, votre: votre, vos: votre, "s'": si, amie: ami, amies: ami, vacances: vacances}
+sentences:
+  - text: "Bonjour, Hugo ! Voici ma maison."
+    picture: 🏠
+    help: {en: "Hello, Hugo! This is my house.", de: "Hallo, Hugo! Das ist mein Haus."}
+  - text: "C'est une petite maison."
+    picture: 🏡
+    help: {en: "It's a small house.", de: "Es ist ein kleines Haus."}
+  - text: "Il y a deux chambres."
+    picture: 🛏️
+    help: {en: "There are two bedrooms.", de: "Es gibt zwei Schlafzimmer."}
+  - text: "Voici ma chambre, et voici la chambre de mon frère."
+    picture: 🚪
+    help: {en: "This is my room, and this is my brother's room.", de: "Das ist mein Zimmer, und das ist das Zimmer von meinem Bruder."}
+  - text: "Nina, il y a un chat dans la maison ?"
+    speaker: 1
+    picture: 🐾
+    help: {en: "Nina, is there a cat in the house?", de: "Nina, gibt es eine Katze im Haus?"}
+  - text: "Oui, j'ai un chat. C'est Minou."
+    picture: 🐈
+    help: {en: "Yes, I have a cat. His name is Minou.", de: "Ja, ich habe eine Katze. Das ist Minou."}
+  - text: "Il est très petit."
+    picture: 🐱
+    help: {en: "He's very small.", de: "Minou ist sehr klein."}
+  - text: "Minou ? Minou ?"
+    picture: 🔎
+    help: {en: "Minou? Minou?", de: "Minou? Minou?"}
+  - text: "Voici Minou ! Il est dans ma chambre."
+    picture: 😺
+    help: {en: "Here's Minou! He's in my room.", de: "Da ist Minou! Minou ist in meinem Zimmer."}
+  - text: "Petite maison, petit chat !"
+    speaker: 1
+    picture: 🏠
+    help: {en: "Small house, small cat!", de: "Kleines Haus, kleine Katze!"}

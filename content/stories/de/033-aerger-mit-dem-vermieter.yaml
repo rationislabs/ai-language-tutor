@@ -1,0 +1,43 @@
+lang: de
+level: B1
+title: "Ärger mit dem Vermieter"
+names: [Lena, Jonas, Mia]
+new_words: [Vermieter, Schimmel, Wand, Schlafzimmer]
+lemma_overrides: {joggte: joggen, Reden: reden}
+sentences:
+  - text: "Seit Wochen regnete es durch das Fenster im Schlafzimmer von Lena und Jonas."
+    picture: 🌧️
+    help: {en: "For weeks the rain had been coming in through the bedroom window at Lena and Jonas's place.", de: "Das Fenster im Schlafzimmer war nicht dicht."}
+  - text: "Sie hatten den Vermieter schon oft angerufen, aber er hatte nie Zeit."
+    picture: 📞
+    help: {en: "They had called the landlord many times, but he never had time.", de: "Der Vermieter kam einfach nicht."}
+  - text: "Bald war an der Wand Schimmel, und die Luft im Zimmer war schlecht."
+    picture: 🦠
+    help: {en: "Soon there was mould on the wall, and the air in the room was bad.", de: "Das Zimmer wurde immer schlimmer."}
+  - text: "Lena schrieb ihm einen langen Brief, in dem sie alle Probleme genau erklärte."
+    picture: ✉️
+    help: {en: "Lena wrote him a long letter in which she explained all the problems in detail.", de: "Lena beschrieb alles in einem Brief."}
+  - text: "Doch auch auf den Brief antwortete der Vermieter nicht."
+    picture: 🙄
+    help: {en: "But the landlord didn't answer the letter either.", de: "Es kam keine Antwort."}
+  - text: "Am Wochenende joggte Mia im Park und traf dort den alten Mann, den sie aus dem Krankenhaus kannte."
+    picture: 🏃‍♀️
+    help: {en: "At the weekend Mia was jogging in the park and met the old man she knew from the hospital.", de: "Mia sah ihren früheren Patienten wieder."}
+  - text: "Beim Reden kam heraus, dass ihm das Haus gehörte, in dem Lena und Jonas wohnten."
+    picture: 🏠
+    help: {en: "While they were talking it turned out that he owned the building where Lena and Jonas lived.", de: "Der alte Mann war der Besitzer von Lenas Haus."}
+  - text: "„Sie sind also der Vermieter meiner besten Freundin!“, rief Mia."
+    picture: 😮
+    help: {en: "“So you're my best friend's landlord!” Mia exclaimed.", de: "Mia war überrascht."}
+  - text: "Sie erzählte ihm von dem Fenster und dem Schimmel an der Wand."
+    picture: 🪟
+    help: {en: "She told him about the window and the mould on the wall.", de: "Mia erklärte ihm das Problem."}
+  - text: "„Das tut mir leid! Wenn ich das gewusst hätte, wäre ich sofort gekommen.“"
+    picture: 😔
+    help: {en: "“I'm sorry! If I'd known that, I would have come straight away.”", de: "Der Mann wusste nichts von dem Problem."}
+  - text: "Schon am nächsten Morgen war er mit einem Handwerker im Schlafzimmer."
+    picture: 🔧
+    help: {en: "The very next morning he was standing in the bedroom with a repairman.", de: "Er kam sofort mit einem Handwerker."}
+  - text: "„Ein Brief hilft nicht immer“, sagte Lena später zu Jonas, „aber eine gute Freundin hilft immer.“"
+    picture: 👭
+    help: {en: "“A letter doesn't always help,” Lena said to Jonas later, “but a good friend always does.”", de: "Lena ist froh über Mias Hilfe."}

@@ -1,0 +1,43 @@
+lang: de
+level: A2
+title: "Im Supermarkt"
+names: [Lena, Jonas]
+new_words: [Supermarkt, Milch, Brot, Kasse, kochen]
+sentences:
+  - text: "Lena braucht nur Milch und Brot, also geht sie schnell in den Supermarkt."
+    picture: 🛒
+    help: {en: "Lena only needs milk and bread, so she pops into the supermarket.", de: "Lena will nur zwei Sachen kaufen. Sie geht kurz einkaufen."}
+  - text: "Im Supermarkt trifft sie Jonas mit einem vollen Wagen."
+    picture: 🛍️
+    help: {en: "In the supermarket she runs into Jonas with a full trolley.", de: "Im Laden sieht sie Jonas. Sein Wagen ist sehr voll."}
+  - text: "„Was machst du denn mit so viel Essen?“, fragt Lena."
+    speaker: 2
+    picture: ❓
+    help: {en: "“What are you doing with so much food?” Lena asks.", de: "Lena wundert sich über die vielen Lebensmittel."}
+  - text: "„Heute Abend kommen Freunde, und ich will für sie kochen.“"
+    speaker: 1
+    picture: 🍲
+    help: {en: "“Some friends are coming tonight, and I want to cook for them.”", de: "Jonas bekommt heute Besuch und macht ein Essen."}
+  - text: "Im Wagen liegt alles, was ein Koch braucht."
+    picture: 🥕
+    help: {en: "The trolley holds everything a cook needs.", de: "Im Wagen sind viele Lebensmittel für das Essen."}
+  - text: "An der Kasse sucht Jonas lange in seinen Taschen."
+    picture: 👖
+    help: {en: "At the checkout Jonas spends a long time searching his pockets.", de: "Jonas will bezahlen"}
+  - text: "„Oh nein! Mein Geld ist noch zu Hause!“"
+    speaker: 1
+    picture: 💸
+    help: {en: "“Oh no! My money is still at home!”", de: "Jonas hat sein Geld nicht dabei."}
+  - text: "Die Frau an der Kasse wartet, und hinter ihnen stehen schon viele Leute."
+    picture: 👥
+    help: {en: "The cashier is waiting, and lots of people are already queuing behind them.", de: "Die Kassiererin wartet. Viele Leute wollen auch bezahlen."}
+  - text: "Lena lacht und bezahlt alles – das Essen, die Milch und ihr Brot."
+    picture: 💳
+    help: {en: "Lena laughs and pays for everything – the food, the milk and her bread.", de: "Lena gibt das Geld für alle Sachen."}
+  - text: "„Danke! Dann kommst du heute Abend auch, und ich koche für dich!“"
+    speaker: 1
+    picture: 🍝
+    help: {en: "“Thanks! Then you're coming tonight too, and I'll cook for you!”", de: "Jonas lädt Lena zum Essen ein."}
+  - text: "Lena wollte nur Milch und Brot – jetzt hat sie auch ein Abendessen."
+    picture: 🍽️
+    help: {en: "Lena only wanted milk and bread – now she has dinner too.", de: "Lena kauft wenig ein und bekommt dazu ein gutes Essen."}

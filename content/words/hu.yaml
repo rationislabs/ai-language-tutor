@@ -1,0 +1,241 @@
+# Hungarian glosses: lemma → English and German help. Verbs are listed in the 3rd person
+# singular present (the Hungarian dictionary form).
+szia: {en: "hi; bye (informal)", de: "hallo; tschüss"}
+mi: {en: "what; we", de: "was; wir"}
+a: {en: "the", de: "der, die, das"}
+név: {en: "name", de: "Name"}
+van: {en: "is, there is (to be)", de: "ist, es gibt (sein)"}
+és: {en: "and", de: "und"}
+te: {en: "you (informal)", de: "du"}
+én: {en: "I", de: "ich"}
+magyar: {en: "Hungarian", de: "ungarisch; Ungar(in)"}
+igen: {en: "yes", de: "ja"}
+is: {en: "too, also", de: "auch"}
+nem: {en: "no; not", de: "nein; nicht"}
+német: {en: "German", de: "deutsch; Deutsche(r)"}
+az: {en: "the (before a vowel); that", de: "der, die, das (vor Vokal); jenes"}
+hogy: {en: "how; that (conjunction)", de: "wie; dass"}
+köszön: {en: "to thank (köszönöm: thank you)", de: "danken (köszönöm: danke)"}
+jó: {en: "good (jól: well)", de: "gut"}
+család: {en: "family", de: "Familie"}
+ki: {en: "who", de: "wer"}
+ez: {en: "this", de: "dies, das"}
+anya: {en: "mother", de: "Mutter"}
+apa: {en: "father", de: "Vater"}
+húg: {en: "younger sister", de: "jüngere Schwester"}
+hány: {en: "how many", de: "wie viele"}
+óra: {en: "hour; o'clock; clock, watch", de: "Stunde; Uhr"}
+most: {en: "now", de: "jetzt"}
+egy: {en: "a, an; one", de: "ein, eine; eins"}
+két: {en: "two (before a noun)", de: "zwei"}
+három: {en: "three", de: "drei"}
+lakás: {en: "flat, apartment", de: "Wohnung"}
+szoba: {en: "room", de: "Zimmer"}
+konyha: {en: "kitchen", de: "Küche"}
+kicsi: {en: "small, little", de: "klein"}
+itt: {en: "here", de: "hier"}
+de: {en: "but", de: "aber"}
+reggeli: {en: "breakfast", de: "Frühstück"}
+kávé: {en: "coffee", de: "Kaffee"}
+tea: {en: "tea", de: "Tee"}
+kér: {en: "to ask for, to want (kérek: I'd like)", de: "bitten um, möchten"}
+kenyér: {en: "bread", de: "Brot"}
+eszik: {en: "to eat", de: "essen"}
+piac: {en: "market", de: "Markt"}
+alma: {en: "apple", de: "Apfel"}
+kiló: {en: "kilo", de: "Kilo"}
+mennyi: {en: "how much", de: "wie viel"}
+száz: {en: "hundred", de: "hundert"}
+forint: {en: "forint (Hungarian money)", de: "Forint (ungarisches Geld)"}
+ma: {en: "today", de: "heute"}
+idő: {en: "weather; time", de: "Wetter; Zeit"}
+hideg: {en: "cold", de: "kalt"}
+meleg: {en: "warm", de: "warm"}
+esik: {en: "to fall (esik az eső: it's raining)", de: "fallen (esik az eső: es regnet)"}
+eső: {en: "rain", de: "Regen"}
+busz: {en: "bus", de: "Bus"}
+város: {en: "town, city", de: "Stadt"}
+megy: {en: "to go", de: "gehen, fahren"}
+hova: {en: "where to", de: "wohin"}
+jegy: {en: "ticket", de: "Fahrkarte, Ticket"}
+nagy: {en: "big", de: "groß"}
+kávézó: {en: "café", de: "Café"}
+tej: {en: "milk", de: "Milch"}
+cukor: {en: "sugar", de: "Zucker"}
+sütemény: {en: "cake, pastry", de: "Kuchen, Gebäck"}
+szeret: {en: "to like, to love", de: "mögen, lieben"}
+csak: {en: "only, just", de: "nur"}
+hétvége: {en: "weekend", de: "Wochenende"}
+szombat: {en: "Saturday", de: "Samstag"}
+vasárnap: {en: "Sunday", de: "Sonntag"}
+otthon: {en: "at home", de: "zu Hause"}
+alszik: {en: "to sleep", de: "schlafen"}
+csinál: {en: "to do, to make", de: "machen, tun"}
+iroda: {en: "office", de: "Büro"}
+dolgozik: {en: "to work", de: "arbeiten"}
+munka: {en: "work, job", de: "Arbeit"}
+sok: {en: "a lot, many (sokat: a lot)", de: "viel, viele"}
+főnök: {en: "boss", de: "Chef(in)"}
+hoz: {en: "to bring", de: "bringen"}
+ruha: {en: "dress; clothes", de: "Kleid; Kleidung"}
+piros: {en: "red", de: "rot"}
+kék: {en: "blue", de: "blau"}
+fekete: {en: "black", de: "schwarz"}
+szép: {en: "beautiful, pretty, nice", de: "schön"}
+tetszik: {en: "to be liked (tetszik nekem: I like it)", de: "gefallen"}
+orvos: {en: "doctor", de: "Arzt, Ärztin"}
+beteg: {en: "ill, sick; patient", de: "krank; Patient"}
+fáj: {en: "to hurt", de: "wehtun"}
+fej: {en: "head", de: "Kopf"}
+has: {en: "stomach, belly", de: "Bauch"}
+gyógyszer: {en: "medicine", de: "Medikament"}
+bolt: {en: "shop", de: "Laden, Geschäft"}
+vesz: {en: "to buy; to take", de: "kaufen; nehmen"}
+tojás: {en: "egg", de: "Ei"}
+pénz: {en: "money", de: "Geld"}
+nincs: {en: "is not (there), there is no", de: "ist nicht da, es gibt kein"}
+ezer: {en: "thousand", de: "tausend"}
+születésnap: {en: "birthday", de: "Geburtstag"}
+ajándék: {en: "present, gift", de: "Geschenk"}
+torta: {en: "cake (layer cake)", de: "Torte"}
+boldog: {en: "happy", de: "glücklich"}
+éves: {en: "... years old", de: "... Jahre alt"}
+nagymama: {en: "grandmother", de: "Großmutter, Oma"}
+nagyon: {en: "very", de: "sehr"}
+ott: {en: "there", de: "dort, da"}
+lát: {en: "to see", de: "sehen"}
+híd: {en: "bridge", de: "Brücke"}
+régi: {en: "old (of things)", de: "alt"}
+folyó: {en: "river", de: "Fluss"}
+sport: {en: "sport", de: "Sport"}
+reggel: {en: "morning; in the morning", de: "Morgen; am Morgen"}
+fut: {en: "to run", de: "laufen, rennen"}
+park: {en: "park", de: "Park"}
+foci: {en: "football, soccer", de: "Fußball"}
+játszik: {en: "to play", de: "spielen"}
+főz: {en: "to cook", de: "kochen"}
+leves: {en: "soup", de: "Suppe"}
+krumpli: {en: "potato", de: "Kartoffel"}
+finom: {en: "tasty, delicious", de: "lecker"}
+kell: {en: "to be needed, must", de: "brauchen, müssen"}
+paprika: {en: "paprika; pepper", de: "Paprika"}
+vonat: {en: "train", de: "Zug"}
+ül: {en: "to sit", de: "sitzen"}
+hely: {en: "place, seat; room", de: "Platz, Ort"}
+szabad: {en: "free", de: "frei"}
+néni: {en: "older lady (polite)", de: "ältere Dame, Tante"}
+unoka: {en: "grandchild", de: "Enkel(in)"}
+telefon: {en: "phone", de: "Telefon"}
+szól: {en: "to sound, ring; to say", de: "klingeln, ertönen; sagen"}
+holnap: {en: "tomorrow", de: "morgen"}
+jön: {en: "to come", de: "kommen"}
+este: {en: "evening; in the evening", de: "Abend; am Abend"}
+hét: {en: "seven; week", de: "sieben; Woche"}
+iskola: {en: "school", de: "Schule"}
+tanul: {en: "to learn, to study", de: "lernen"}
+tanár: {en: "teacher", de: "Lehrer(in)"}
+könyv: {en: "book", de: "Buch"}
+ő: {en: "he, she", de: "er, sie"}
+beszél: {en: "to speak", de: "sprechen"}
+nyár: {en: "summer", de: "Sommer"}
+tó: {en: "lake", de: "See"}
+víz: {en: "water", de: "Wasser"}
+úszik: {en: "to swim", de: "schwimmen"}
+strand: {en: "beach, lido", de: "Strand, Freibad"}
+fagyi: {en: "ice cream", de: "Eis"}
+étterem: {en: "restaurant", de: "Restaurant"}
+pincér: {en: "waiter", de: "Kellner"}
+hús: {en: "meat", de: "Fleisch"}
+vagy: {en: "or", de: "oder"}
+számla: {en: "bill", de: "Rechnung"}
+fizet: {en: "to pay", de: "bezahlen"}
+posta: {en: "post office; post", de: "Post"}
+csomag: {en: "parcel", de: "Paket"}
+levél: {en: "letter", de: "Brief"}
+küld: {en: "to send", de: "schicken"}
+bélyeg: {en: "stamp", de: "Briefmarke"}
+nap: {en: "day; sun", de: "Tag; Sonne"}
+állatkert: {en: "zoo", de: "Zoo"}
+állat: {en: "animal", de: "Tier"}
+oroszlán: {en: "lion", de: "Löwe"}
+majom: {en: "monkey", de: "Affe"}
+gyerek: {en: "child", de: "Kind"}
+keres: {en: "to look for, to search", de: "suchen"}
+új: {en: "new", de: "neu"}
+drága: {en: "expensive; dear", de: "teuer; lieb"}
+olcsó: {en: "cheap", de: "billig"}
+ablak: {en: "window", de: "Fenster"}
+rossz: {en: "bad (rosszul: badly)", de: "schlecht"}
+késik: {en: "to be late", de: "sich verspäten"}
+esernyő: {en: "umbrella", de: "Regenschirm"}
+mérges: {en: "angry, cross", de: "wütend, sauer"}
+mert: {en: "because", de: "weil"}
+karácsony: {en: "Christmas", de: "Weihnachten"}
+hó: {en: "snow", de: "Schnee"}
+fa: {en: "tree; wood", de: "Baum; Holz"}
+ad: {en: "to give", de: "geben"}
+alatt: {en: "under; during", de: "unter; während"}
+kert: {en: "garden", de: "Garten"}
+virág: {en: "flower", de: "Blume"}
+zöld: {en: "green", de: "grün"}
+sárga: {en: "yellow", de: "gelb"}
+falu: {en: "village", de: "Dorf"}
+lakik: {en: "to live (somewhere)", de: "wohnen"}
+lista: {en: "list", de: "Liste"}
+sajt: {en: "cheese", de: "Käse"}
+hagyma: {en: "onion", de: "Zwiebel"}
+csoki: {en: "chocolate", de: "Schokolade"}
+fodrász: {en: "hairdresser", de: "Friseur(in)"}
+haj: {en: "hair", de: "Haar, Haare"}
+rövid: {en: "short (rövidebb: shorter)", de: "kurz"}
+hosszú: {en: "long", de: "lang"}
+vág: {en: "to cut", de: "schneiden"}
+tükör: {en: "mirror", de: "Spiegel"}
+kirándulás: {en: "hike, trip", de: "Ausflug, Wanderung"}
+hegy: {en: "mountain, hill", de: "Berg"}
+erdő: {en: "forest", de: "Wald"}
+sétál: {en: "to walk, to stroll", de: "spazieren gehen"}
+fáradt: {en: "tired", de: "müde"}
+fent: {en: "up, up there", de: "oben"}
+kap: {en: "to get, to receive", de: "bekommen"}
+ír: {en: "to write", de: "schreiben"}
+barát: {en: "friend", de: "Freund(in)"}
+olvas: {en: "to read", de: "lesen"}
+kedves: {en: "kind; dear (in letters)", de: "nett; liebe(r) (im Brief)"}
+ért: {en: "to understand", de: "verstehen"}
+mozi: {en: "cinema", de: "Kino"}
+film: {en: "film", de: "Film"}
+néz: {en: "to watch, to look at", de: "ansehen, schauen"}
+amerikai: {en: "American", de: "amerikanisch"}
+unalmas: {en: "boring", de: "langweilig"}
+szomszéd: {en: "neighbour", de: "Nachbar(in)"}
+ajtó: {en: "door", de: "Tür"}
+doboz: {en: "box", de: "Kiste, Schachtel"}
+nehéz: {en: "heavy; difficult", de: "schwer"}
+segít: {en: "to help", de: "helfen"}
+szálloda: {en: "hotel", de: "Hotel"}
+kulcs: {en: "key", de: "Schlüssel"}
+éjszaka: {en: "night; at night", de: "Nacht; nachts"}
+hangos: {en: "loud, noisy", de: "laut"}
+csendes: {en: "quiet", de: "ruhig, still"}
+zene: {en: "music", de: "Musik"}
+hol: {en: "where", de: "wo"}
+táska: {en: "bag", de: "Tasche"}
+zseb: {en: "pocket", de: "Tasche (an der Kleidung)"}
+talál: {en: "to find", de: "finden"}
+kabát: {en: "coat", de: "Mantel"}
+ünnep: {en: "festival, holiday", de: "Fest, Feiertag"}
+ember: {en: "person; people", de: "Mensch; Leute"}
+táncol: {en: "to dance", de: "tanzen"}
+bor: {en: "wine", de: "Wein"}
+iszik: {en: "to drink", de: "trinken"}
+akkor: {en: "then", de: "dann"}
+terv: {en: "plan", de: "Plan"}
+akar: {en: "to want", de: "wollen"}
+jövő: {en: "future; next (jövőre: next year)", de: "Zukunft; nächste(r) (jövőre: nächstes Jahr)"}
+utazik: {en: "to travel", de: "reisen"}
+tud: {en: "to know; can (tud németül: speaks German)", de: "wissen; können"}
+még: {en: "still, yet; even (még jobban: even better)", de: "noch"}
+év: {en: "year", de: "Jahr"}
+első: {en: "first", de: "erste(r)"}
+emlékszik: {en: "to remember", de: "sich erinnern"}

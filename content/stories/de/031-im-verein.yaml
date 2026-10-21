@@ -1,0 +1,42 @@
+lang: de
+level: B1
+title: "Im Verein"
+names: [Emil, Mia, Tim]
+new_words: [Verein, Fußball, Trainer, Mannschaft, Tor]
+sentences:
+  - text: "Seit ein paar Monaten spielt Emil in einem Verein Fußball."
+    picture: ⚽
+    help: {en: "For a few months now Emil has been playing football in a club.", de: "Emil ist in einem Fußballverein."}
+  - text: "Er geht jede Woche hin, obwohl er bei Spielen fast immer nur auf der Bank sitzt."
+    picture: 🪑
+    help: {en: "He goes every week, although in matches he almost always just sits on the bench.", de: "Emil geht oft zum Training, aber er spielt selten mit."}
+  - text: "Der Trainer meinte, dass er für die Mannschaft noch zu klein sei."
+    picture: 📏
+    help: {en: "The coach said he was still too small for the team.", de: "Der Trainer findet Emil zu klein."}
+  - text: "Vor dem letzten Spiel des Jahres wurde aber das Kind, das sonst im Tor steht, krank."
+    picture: 🤒
+    help: {en: "But before the last match of the year, the boy who usually plays in goal got ill.", de: "Der normale Torwart konnte nicht spielen."}
+  - text: "Weil der Trainer niemand anderen hatte, schickte er Emil ins Tor."
+    picture: 🥅
+    help: {en: "Because the coach had nobody else, he sent Emil into goal.", de: "Emil musste ins Tor gehen."}
+  - text: "Emil hatte große Angst, denn er hatte noch nie im Tor gespielt."
+    picture: 😨
+    help: {en: "Emil was very scared, because he had never played in goal before.", de: "Für Emil war das ganz neu."}
+  - text: "Lange ging alles gut, und keine Mannschaft schoss ein Tor."
+    picture: ⏱️
+    help: {en: "For a long time everything went well, and neither team scored a goal.", de: "Es stand lange null zu null."}
+  - text: "Doch in der letzten Minute flog der Ball direkt auf Emil zu."
+    picture: 💨
+    help: {en: "But in the last minute the ball flew straight at Emil.", de: "Am Ende kam der Ball schnell zu Emil."}
+  - text: "Er warf sich nach links und hielt den Ball fest!"
+    picture: 🧤
+    help: {en: "He threw himself to the left and held on to the ball!", de: "Emil fing den Ball."}
+  - text: "Alle Eltern schrien vor Freude, am lautesten Mia und Tim."
+    picture: 🎉
+    help: {en: "All the parents shouted with joy, Mia and Tim loudest of all.", de: "Die Eltern freuten sich sehr."}
+  - text: "Seit diesem Tag sitzt Emil beim Fußball nicht mehr auf der Bank, und im Verein kennt ihn jeder."
+    picture: 🏅
+    help: {en: "Since that day Emil no longer sits on the bench at football, and everyone at the club knows him.", de: "Jetzt darf Emil immer spielen."}
+  - text: "„Wenn der andere nicht krank geworden wäre, hätte niemand gewusst, dass ich so gut im Tor bin“, sagt er stolz."
+    picture: 😎
+    help: {en: "“If the other boy hadn't got ill, nobody would have known I'm so good in goal,” he says proudly.", de: "Emil ist froh, dass er eine Chance bekommen hat."}

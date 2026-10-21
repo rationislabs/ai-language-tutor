@@ -1,0 +1,47 @@
+lang: hu
+level: A1
+title: Születésnap
+names: [Péter, Kati, Anna]
+new_words: [születésnap, ajándék, torta, boldog, éves, nagymama]
+lemma_overrides: {jól: jó, igen: igen, vagy: van}
+sentences:
+  - text: "Ma van a nagymama születésnapja."
+    picture: "🎂"
+    help: {en: "Today is Grandma's birthday.", de: "Heute hat Oma Geburtstag."}
+  - text: "Péter, Kati és Anna is itt vannak."
+    picture: "👨‍👩‍👧"
+    help: {en: "Péter, Kati and Anna are here too.", de: "Péter, Kati und Anna sind auch da."}
+  - text: "Boldog születésnapot, nagymama! Itt van egy ajándék."
+    speaker: 1
+    picture: "🎁"
+    help: {en: "Happy birthday, Grandma! Here's a present.", de: "Alles Gute zum Geburtstag, Oma! Hier ist ein Geschenk."}
+  - text: "Köszönöm! Egy ajándék? Ez szép!"
+    speaker: 2
+    picture: "👵"
+    help: {en: "Thank you! A present? That's lovely!", de: "Danke! Ein Geschenk? Wie schön!"}
+  - text: "Itt van a torta is."
+    picture: "🍰"
+    help: {en: "Here's the cake too.", de: "Hier ist auch die Torte."}
+  - text: "Nagymama, hány éves vagy?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "Grandma, how old are you?", de: "Oma, wie alt bist du?"}
+  - text: "Én? Száz éves vagyok!"
+    speaker: 2
+    picture: "💯"
+    help: {en: "Me? I'm a hundred years old!", de: "Ich? Ich bin hundert Jahre alt!"}
+  - text: "Száz éves?"
+    speaker: 1
+    picture: "😮"
+    help: {en: "A hundred?", de: "Hundert?"}
+  - text: "Igen! Száz éves vagyok, és jól vagyok!"
+    speaker: 2
+    picture: "💪"
+    help: {en: "Yes! I'm a hundred, and I'm doing well!", de: "Ja! Ich bin hundert, und mir geht es gut!"}
+  - text: "Nagymama is eszik a tortából."
+    picture: "🍴"
+    help: {en: "Grandma eats some of the cake too.", de: "Oma isst auch von der Torte."}
+  - text: "Boldog születésnapot!"
+    speaker: 1
+    picture: "🎉"
+    help: {en: "Happy birthday!", de: "Alles Gute zum Geburtstag!"}

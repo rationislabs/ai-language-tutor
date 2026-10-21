@@ -1,0 +1,43 @@
+lang: de
+level: A2
+title: "Ein neuer Nachbar"
+names: [Lena, Jonas]
+new_words: [Treppenhaus, Geräusch, Kiste, Nachbar, Koch, Kuchen, backen]
+lemma_overrides: {laute: laut, gebacken: backen, fällt: fallen, heiße: heißen}
+sentences:
+  - text: "Es ist Wochenende, und Lena will lange schlafen."
+    picture: 😴
+    help: {en: "It's the weekend, and Lena wants to sleep in.", de: "Heute muss Lena nicht arbeiten. Sie möchte lange im Bett bleiben."}
+  - text: "Doch um acht Uhr hört sie laute Geräusche im Treppenhaus."
+    picture: 👂
+    help: {en: "But at eight o'clock she hears loud noises in the stairwell.", de: "Um acht ist es auf der Treppe sehr laut."}
+  - text: "Ein junger Mann trägt schwere Kisten durch das Treppenhaus."
+    picture: 📦
+    help: {en: "A young man is carrying heavy boxes up the stairs.", de: "Ein Mann bringt große Kartons nach oben."}
+  - text: "Plötzlich fällt eine Kiste auf den Boden, und überall liegen Bücher."
+    picture: 📚
+    help: {en: "Suddenly a box falls on the floor and there are books everywhere.", de: "Ein Karton fällt runter. Jetzt liegen die Bücher auf dem Boden."}
+  - text: "Lena hilft ihm, die Bücher wieder in die Kiste zu legen."
+    picture: 🤝
+    help: {en: "Lena helps him put the books back into the box.", de: "Lena packt die Bücher mit ihm zurück in den Karton."}
+  - text: "„Danke! Ich bin Jonas, der neue Nachbar.“"
+    speaker: 1
+    picture: 👋
+    help: {en: "Thanks! I'm Jonas, the new neighbour.", de: "Der Mann sagt seinen Namen. Er wohnt jetzt neben Lena."}
+  - text: "„Ich heiße Lena. Willkommen im Haus!“"
+    speaker: 2
+    picture: 🏠
+    help: {en: "My name is Lena. Welcome to the building!", de: "Lena sagt ihren Namen und begrüßt ihn freundlich."}
+  - text: "Jonas erzählt, dass er Koch ist und gern Kuchen backt."
+    picture: 👨‍🍳
+    help: {en: "Jonas tells her that he is a cook and likes baking cakes.", de: "Jonas kocht in seinem Beruf. In der Freizeit macht er gern Kuchen."}
+  - text: "Am Abend steht er mit einem Kuchen vor ihrer Tür."
+    picture: 🍰
+    help: {en: "In the evening he is standing at her door with a cake.", de: "Am Abend kommt Jonas zu Lena und bringt einen Kuchen mit."}
+  - text: "„Den habe ich für dich gebacken – als Dank für deine Hilfe!“"
+    speaker: 1
+    picture: 🎁
+    help: {en: "I baked this for you – to say thanks for your help!", de: "Der Kuchen ist ein Geschenk. Jonas sagt so Danke."}
+  - text: "Lena lacht. Ein Koch als Nachbar – da sind ihr die Geräusche im Haus egal."
+    picture: 😄
+    help: {en: "Lena laughs. A cook as a neighbour – now she doesn't mind the noise in the building.", de: "Lena ist froh. Der Lärm stört sie jetzt nicht mehr."}

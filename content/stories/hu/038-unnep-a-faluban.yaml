@@ -1,0 +1,45 @@
+lang: hu
+level: A2
+title: Ünnep a faluban
+names: [Anna, Péter]
+new_words: [ünnep, ember, táncol, bor, iszik, akkor]
+lemma_overrides: {jól: jó, igen: igen}
+sentences:
+  - text: "Nyáron ünnep van nagymama falujában."
+    picture: "🎪"
+    help: {en: "In summer there is a festival in Grandma's village.", de: "Im Sommer ist ein Fest in Omas Dorf."}
+  - text: "Anna és Péter is ott vannak."
+    picture: "🚗"
+    help: {en: "Anna and Péter are there too.", de: "Anna und Péter sind auch dort."}
+  - text: "Sok ember van a faluban. Szól a zene, és az emberek táncolnak."
+    picture: "💃"
+    help: {en: "There are lots of people in the village. Music is playing, and people are dancing.", de: "Im Dorf sind viele Leute. Musik spielt, und die Leute tanzen."}
+  - text: "Az emberek bort isznak, és levest esznek."
+    picture: "🍷"
+    help: {en: "People drink wine and eat soup.", de: "Die Leute trinken Wein und essen Suppe."}
+  - text: "Anna, táncolsz?"
+    speaker: 1
+    picture: "🕺"
+    help: {en: "Anna, will you dance?", de: "Anna, tanzt du?"}
+  - text: "Én? Én nem táncolok jól."
+    speaker: 2
+    picture: "😳"
+    help: {en: "Me? I don't dance well.", de: "Ich? Ich tanze nicht gut."}
+  - text: "Akkor nézd nagymamát!"
+    speaker: 1
+    picture: "👉"
+    help: {en: "Then look at Grandma!", de: "Dann schau mal Oma an!"}
+  - text: "Nagymama bort iszik, és táncol!"
+    picture: "👵"
+    help: {en: "Grandma is drinking wine and dancing!", de: "Oma trinkt Wein und tanzt!"}
+  - text: "Száz éves, és táncol! Sok ember őt nézi."
+    picture: "👀"
+    help: {en: "She's a hundred, and she's dancing! Lots of people are watching her.", de: "Sie ist hundert und tanzt! Viele Leute schauen ihr zu."}
+  - text: "Akkor én is táncolok!"
+    speaker: 2
+    picture: "💃"
+    help: {en: "Then I'll dance too!", de: "Dann tanze ich auch!"}
+  - text: "Ez nagyon jó ünnep!"
+    speaker: 1
+    picture: "🎉"
+    help: {en: "This is a really great festival!", de: "Das ist ein sehr schönes Fest!"}

@@ -1,0 +1,47 @@
+lang: hu
+level: A1
+title: Az iskola
+names: [Anna, Zsuzsa]
+new_words: [iskola, tanul, tanár, könyv, ő, beszél]
+lemma_overrides: {igen: igen, tanul: tanul, könyved: könyv, vagy: van}
+sentences:
+  - text: "Anna egy iskolában tanul."
+    picture: "🏫"
+    help: {en: "Anna studies at a school.", de: "Anna lernt an einer Schule."}
+  - text: "Anna magyarul tanul."
+    picture: "📖"
+    help: {en: "Anna is learning Hungarian.", de: "Anna lernt Ungarisch."}
+  - text: "A tanár neve Zsuzsa. Ő magyar."
+    picture: "👩‍🏫"
+    help: {en: "The teacher's name is Zsuzsa. She is Hungarian.", de: "Die Lehrerin heißt Zsuzsa. Sie ist Ungarin."}
+  - text: "Jó reggelt, Anna! Itt van a könyved."
+    speaker: 1
+    picture: "📘"
+    help: {en: "Good morning, Anna! Here is your book.", de: "Guten Morgen, Anna! Hier ist dein Buch."}
+  - text: "Köszönöm! A könyv nagyon szép."
+    speaker: 2
+    picture: "😊"
+    help: {en: "Thank you! The book is very nice.", de: "Danke! Das Buch ist sehr schön."}
+  - text: "Te német vagy, Anna?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "Are you German, Anna?", de: "Bist du Deutsche, Anna?"}
+  - text: "Igen, német vagyok."
+    speaker: 2
+    picture: "🇩🇪"
+    help: {en: "Yes, I'm German.", de: "Ja, ich bin Deutsche."}
+  - text: "Én is beszélek németül!"
+    speaker: 1
+    picture: "🗣️"
+    help: {en: "I speak German too!", de: "Ich spreche auch Deutsch!"}
+  - text: "Te beszélsz németül? Jó!"
+    speaker: 2
+    picture: "😃"
+    help: {en: "You speak German? Great!", de: "Du sprichst Deutsch? Toll!"}
+  - text: "Igen, de itt csak magyarul beszélünk!"
+    speaker: 1
+    picture: "🇭🇺"
+    help: {en: "Yes, but here we only speak Hungarian!", de: "Ja, aber hier sprechen wir nur Ungarisch!"}
+  - text: "Ő jó tanár, és Anna szereti az iskolát."
+    picture: "❤️"
+    help: {en: "She is a good teacher, and Anna likes the school.", de: "Sie ist eine gute Lehrerin, und Anna mag die Schule."}

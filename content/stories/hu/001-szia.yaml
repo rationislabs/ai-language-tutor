@@ -1,0 +1,55 @@
+lang: hu
+level: A1
+title: Szia!
+names: [Anna, Péter]
+new_words: [szia, mi, a, név, van, és, te, én, magyar, igen, is, nem, német, az, hogy, köszön, jó]
+lemma_overrides: {vagy: van, neved: név, igen: igen, jól: jó}
+sentences:
+  - text: "Szia! Mi a neved?"
+    speaker: 1
+    picture: "👋"
+    help: {en: "Hi! What's your name?", de: "Hallo! Wie heißt du?"}
+  - text: "Szia! Anna vagyok. És mi a te neved?"
+    speaker: 2
+    picture: "🙋‍♀️"
+    help: {en: "Hi! I'm Anna. And what's your name?", de: "Hallo! Ich bin Anna. Und wie heißt du?"}
+  - text: "Péter vagyok."
+    speaker: 1
+    picture: "🙋‍♂️"
+    help: {en: "I'm Péter.", de: "Ich bin Péter."}
+  - text: "Te magyar vagy, Péter?"
+    speaker: 2
+    picture: "🇭🇺"
+    help: {en: "Are you Hungarian, Péter?", de: "Bist du Ungar, Péter?"}
+  - text: "Igen, magyar vagyok. És te? Te is magyar vagy?"
+    speaker: 1
+    picture: "🤔"
+    help: {en: "Yes, I'm Hungarian. And you? Are you Hungarian too?", de: "Ja, ich bin Ungar. Und du? Bist du auch Ungarin?"}
+  - text: "Nem, én nem vagyok magyar. Német vagyok."
+    speaker: 2
+    picture: "🇩🇪"
+    help: {en: "No, I'm not Hungarian. I'm German.", de: "Nein, ich bin keine Ungarin. Ich bin Deutsche."}
+  - text: "Az Anna német név?"
+    speaker: 1
+    picture: "📛"
+    help: {en: "Is Anna a German name?", de: "Ist Anna ein deutscher Name?"}
+  - text: "Igen, az Anna német név, és magyar név is."
+    speaker: 2
+    picture: "😊"
+    help: {en: "Yes, Anna is a German name, and a Hungarian name too.", de: "Ja, Anna ist ein deutscher Name und auch ein ungarischer Name."}
+  - text: "Hogy vagy, Anna?"
+    speaker: 1
+    picture: "🙂"
+    help: {en: "How are you, Anna?", de: "Wie geht es dir, Anna?"}
+  - text: "Köszönöm, jól vagyok. És te hogy vagy?"
+    speaker: 2
+    picture: "👍"
+    help: {en: "Thanks, I'm fine. And how are you?", de: "Danke, mir geht es gut. Und wie geht es dir?"}
+  - text: "Köszönöm, én is jól vagyok."
+    speaker: 1
+    picture: "😄"
+    help: {en: "Thanks, I'm fine too.", de: "Danke, mir geht es auch gut."}
+  - text: "Szia, Péter!"
+    speaker: 2
+    picture: "👋"
+    help: {en: "Bye, Péter!", de: "Tschüss, Péter!"}

@@ -1,0 +1,2468 @@
+Abend:
+  de: die Zeit nach dem Tag, vor der Nacht
+  en: evening
+  rank: 169
+Abendessen:
+  de: das Essen am Abend
+  en: dinner
+  rank: 931
+Achtung:
+  de: Vorsicht! Hör zu!
+  en: attention; watch out
+  rank: 909
+Adresse:
+  de: Straße, Hausnummer und Stadt
+  en: address
+  rank: 967
+Ahnung:
+  de: Wissen über etwas
+  en: idea; clue (keine Ahnung = no idea)
+  rank: 264
+Amt:
+  de: eine Behörde, z. B. für Pässe oder Adressen
+  en: (government) office; authorities
+  rank: 2923
+Anfang:
+  de: der Start
+  en: beginning
+  rank: 658
+Angst:
+  de: man fürchtet sich
+  en: fear
+  rank: 175
+Arbeitstag:
+  de: ein Tag, an dem man arbeitet
+  en: working day
+  rank: 9813
+Artikel:
+  de: ein Text in der Zeitung
+  en: article
+  rank: 1531
+Aufgabe:
+  de: etwas, das man tun soll
+  en: task; job
+  rank: 940
+Aufzug:
+  de: er fährt Menschen im Haus nach oben und unten
+  en: lift; elevator
+  rank: 2917
+Auge:
+  de: damit sieht man
+  en: eye
+  rank: 270
+Auto:
+  de: ein Wagen mit Motor
+  en: car
+  rank: 267
+Bahnhof:
+  de: dort halten die Züge
+  en: railway station
+  rank: 2489
+Bahnsteig:
+  de: dort steigt man in den Zug ein
+  en: platform
+  rank: 11334
+Balkon:
+  de: ein kleiner Platz draußen an der Wohnung, oben am Haus
+  en: balcony
+  rank: 4870
+Ball:
+  de: rund, man spielt damit Fußball
+  en: ball
+  rank: 976
+Bank:
+  de: ein Sitz für mehrere Personen im Park; ein Geschäft für Geld
+  en: bench; bank
+  rank: 810
+Berg:
+  de: sehr hohes Land, man kann hinaufsteigen
+  en: mountain
+  rank: 1599
+Besprechung:
+  de: ein Treffen bei der Arbeit, man spricht über ein Thema
+  en: meeting
+  rank: 3918
+Bett:
+  de: dort schläft man
+  en: bed
+  rank: 368
+Bildschirm:
+  de: dort sieht man die Bilder vom Computer
+  en: screen
+  rank: 5549
+Boden:
+  de: unten, dort steht man
+  en: floor; ground
+  rank: 553
+Braut:
+  de: die Frau, die heute heiratet
+  en: bride
+  rank: 1354
+Brief:
+  de: ein Text auf Papier, oft in einem Umschlag
+  en: letter; note
+  rank: 717
+Brot:
+  de: man backt es aus Mehl, man isst es zum Frühstück
+  en: bread
+  rank: 1686
+Buch:
+  de: man liest es; es hat viele Seiten
+  en: book
+  rank: 471
+Bus:
+  de: ein großes Auto für viele Leute, es fährt nach Fahrplan
+  en: bus
+  rank: 1070
+Bühne:
+  de: dort spielen Musiker oder Schauspieler
+  en: stage
+  rank: 1564
+Büro:
+  de: dort arbeitet man am Schreibtisch
+  en: office
+  rank: 434
+Chef:
+  de: der Leiter, er sagt, was man tun soll
+  en: boss
+  rank: 679
+Chefin:
+  de: die Leiterin
+  en: boss (female); manager
+  rank: 4168
+Computer:
+  de: ein Gerät zum Arbeiten, Schreiben und Rechnen
+  en: computer
+  rank: 812
+Dame:
+  de: eine Frau (höflich)
+  en: lady
+  rank: 688
+Dank:
+  de: 'man sagt Danke; dank: wegen (positiv)'
+  en: thanks; danke = thank you; dank = thanks to
+  rank: 72
+Dorf:
+  de: ein kleiner Ort auf dem Land
+  en: village
+  rank: 1024
+Durchsage:
+  de: eine Information aus dem Lautsprecher, zum Beispiel am Bahnhof
+  en: announcement
+  rank: 5853
+Eltern:
+  de: Mutter und Vater
+  en: parents
+  rank: 392
+Elternabend:
+  de: ein Treffen von Eltern und Lehrern in der Schule
+  en: parents' evening
+  rank: 19283
+Ende:
+  de: der Schluss
+  en: end
+  rank: 254
+Essen:
+  de: Lebensmittel; eine Mahlzeit
+  en: food; meal; essen = to eat
+  rank: 174
+Fahrrad:
+  de: ein Rad mit zwei Rädern, man fährt mit den Beinen
+  en: bicycle
+  rank: 2419
+Familie:
+  de: Eltern, Kinder, Großeltern
+  en: family
+  rank: 203
+Fenster:
+  de: durch das Glas sieht man nach draußen
+  en: window
+  rank: 641
+Feuerwerk:
+  de: bunte Lichter am Himmel, z. B. an Silvester
+  en: fireworks
+  rank: 4749
+Fieber:
+  de: der Körper ist zu heiß, wenn man krank ist
+  en: fever; temperature
+  rank: 2144
+Film:
+  de: bewegte Bilder im Kino oder Fernsehen
+  en: film; movie
+  rank: 444
+Fisch:
+  de: ein Tier im Wasser; man kann es essen
+  en: fish
+  rank: 1235
+Flur:
+  de: ein langer Gang im Haus mit vielen Türen
+  en: corridor; hallway
+  rank: 2723
+Formular:
+  de: ein Papier mit Fragen, man schreibt die Antworten hinein
+  en: form
+  rank: 6926
+Foto:
+  de: ein Bild von der Kamera
+  en: photo
+  rank: 699
+Frage:
+  de: das, was man fragt
+  en: question
+  rank: 199
+Frau:
+  de: eine erwachsene weibliche Person
+  en: woman; wife; Mrs
+  rank: 104
+Freude:
+  de: man ist froh
+  en: joy
+  rank: 954
+Freund:
+  de: eine Person, die man gern hat und gut kennt
+  en: friend; boyfriend
+  rank: 171
+Freundin:
+  de: eine Frau, die man gern hat und gut kennt
+  en: friend (female); girlfriend
+  rank: 363
+Freundschaft:
+  de: Freunde sein
+  en: friendship
+  rank: 1622
+Friseur:
+  de: er schneidet Haare
+  en: hairdresser
+  rank: 5026
+Frisur:
+  de: so sehen die Haare aus
+  en: hairstyle; haircut
+  rank: 3338
+Fußball:
+  de: ein Spiel mit Ball; zwei Mannschaften schießen Tore
+  en: football
+  rank: 3271
+Gast:
+  de: eine Person, die zu Besuch ist
+  en: guest
+  rank: 1238
+Geheimnis:
+  de: etwas, das andere nicht wissen sollen
+  en: secret
+  rank: 821
+Geld:
+  de: damit bezahlt man
+  en: money
+  rank: 131
+Gemüse:
+  de: Pflanzen zum Essen, z. B. Karotten oder Salat
+  en: vegetables
+  rank: 3264
+Geräusch:
+  de: etwas, das man hört
+  en: noise; sound
+  rank: 1930
+Geschichte:
+  de: eine Erzählung; was früher passiert ist
+  en: story; history
+  rank: 331
+Gesicht:
+  de: 'vorne am Kopf: Augen, Nase, Mund'
+  en: face
+  rank: 380
+Gipfel:
+  de: der höchste Punkt vom Berg
+  en: summit; peak
+  rank: 4982
+Glas:
+  de: daraus trinkt man; ein durchsichtiges Material
+  en: glass
+  rank: 922
+Gleis:
+  de: dort hält der Zug, hat eine Nummer
+  en: platform; track
+  rank: 8073
+Haar:
+  de: wächst auf dem Kopf
+  en: hair
+  rank: 846
+Hals:
+  de: zwischen Kopf und Körper
+  en: throat; neck
+  rank: 877
+Handwerker:
+  de: er repariert Dinge im Haus, z. B. die Heizung
+  en: tradesman; repairman
+  rank: 7621
+Handy:
+  de: ein kleines Telefon für die Tasche
+  en: mobile phone
+  rank: 591
+Haus:
+  de: ein Gebäude, dort wohnen Menschen
+  en: house; building
+  rank: 166
+Heizung:
+  de: sie macht die Wohnung warm
+  en: heating; radiator
+  rank: 6004
+Hilfe:
+  de: man hilft jemandem
+  en: help
+  rank: 219
+Hobby:
+  de: etwas, das man in der Freizeit gern macht
+  en: hobby
+  rank: 4349
+Hochzeit:
+  de: das Fest, wenn zwei Menschen heiraten
+  en: wedding
+  rank: 674
+Hochzeitsreise:
+  de: eine Reise direkt nach der Hochzeit
+  en: honeymoon
+  rank: 8572
+Hotel:
+  de: dort schläft man auf Reisen und bezahlt dafür
+  en: hotel
+  rank: 615
+Hund:
+  de: ein Haustier, es bellt
+  en: dog
+  rank: 446
+Idee:
+  de: ein neuer Gedanke
+  en: idea
+  rank: 289
+Insel:
+  de: Land, um das herum überall Wasser ist
+  en: island
+  rank: 1021
+Internet:
+  de: ein Netz von Computern auf der ganzen Welt
+  en: internet
+  rank: 1858
+Jahr:
+  de: zwölf Monate
+  en: year
+  rank: 207
+Job:
+  de: Arbeit; Stelle
+  en: job
+  rank: 302
+Kabel:
+  de: ein Draht für Strom
+  en: cable
+  rank: 3279
+Kaffee:
+  de: ein warmes, dunkles Getränk
+  en: coffee
+  rank: 463
+Kaffeehaus:
+  de: ein Café, besonders in Wien
+  en: coffee house; café (Austria)
+  rank: 22220
+Karte:
+  de: ein Stück Papier für den Eintritt; Landkarte
+  en: ticket; card; map
+  rank: 797
+Karton:
+  de: eine Kiste aus Pappe
+  en: cardboard box
+  rank: 6581
+Kasse:
+  de: dort bezahlt man im Geschäft
+  en: checkout; till
+  rank: 3375
+Kellner:
+  de: er bringt im Restaurant das Essen
+  en: waiter
+  rank: 3610
+Kerze:
+  de: sie brennt und macht Licht
+  en: candle
+  rank: 3555
+Kind:
+  de: ein junger Mensch
+  en: child
+  rank: 187
+Kino:
+  de: dort sieht man Filme auf einer großen Leinwand
+  en: cinema
+  rank: 1538
+Kirche:
+  de: ein Haus für Gott und Gottesdienste
+  en: church
+  rank: 783
+Kiste:
+  de: ein großer Karton
+  en: box; crate
+  rank: 1596
+Klasse:
+  de: eine Gruppe Schüler; ihr Zimmer in der Schule
+  en: class; classroom; great
+  rank: 529
+Kleid:
+  de: ein Kleidungsstück für Frauen, oben und unten in einem Stück
+  en: dress
+  rank: 927
+Knopf:
+  de: man drückt darauf, dann passiert etwas
+  en: button
+  rank: 2541
+Koch:
+  de: ein Mann, der beruflich kocht
+  en: cook; chef
+  rank: 1348
+Koffer:
+  de: darin trägt man Kleidung auf der Reise
+  en: suitcase
+  rank: 1247
+Kollege:
+  de: eine Person, mit der man zusammen arbeitet
+  en: colleague
+  rank: 1322
+Konzert:
+  de: Musik live vor Publikum
+  en: concert
+  rank: 2495
+Krankenhaus:
+  de: dort liegen kranke Menschen, Ärzte helfen ihnen
+  en: hospital
+  rank: 527
+Krankenschwester:
+  de: eine Frau, sie pflegt kranke Menschen
+  en: nurse
+  rank: 2976
+Kraut:
+  de: eine Pflanze zum Würzen, z. B. Petersilie
+  en: herb; Kräuter = herbs
+  rank: 8618
+Kuchen:
+  de: etwas Süßes, man backt es
+  en: cake
+  rank: 1236
+Köchin:
+  de: eine Frau, die beruflich kocht
+  en: cook (female)
+  rank: 5433
+Königin:
+  de: die Frau vom König; eine Herrscherin
+  en: queen
+  rank: 893
+Küche:
+  de: das Zimmer zum Kochen
+  en: kitchen
+  rank: 888
+Küchenchef:
+  de: der Chef in der Küche vom Restaurant
+  en: head chef
+  rank: 17137
+Leben:
+  de: die Zeit von der Geburt bis zum Tod
+  en: life; leben = to live
+  rank: 95
+Lehrerin:
+  de: eine Frau, sie unterrichtet in der Schule
+  en: teacher (female)
+  rank: 2214
+Leute:
+  de: Menschen
+  en: people
+  rank: 118
+Lied:
+  de: Musik mit Text zum Singen
+  en: song
+  rank: 1016
+Loch:
+  de: eine offene Stelle, dort fehlt etwas
+  en: hole
+  rank: 1074
+Luft:
+  de: wir atmen sie
+  en: air
+  rank: 464
+Mama:
+  de: Mutter
+  en: mum
+  rank: 311
+Mann:
+  de: eine erwachsene männliche Person
+  en: man; husband
+  rank: 75
+Mannschaft:
+  de: eine Gruppe von Spielern
+  en: team
+  rank: 3030
+Markt:
+  de: ein Platz mit Ständen, dort kauft man Obst und Gemüse
+  en: market
+  rank: 871
+Medikament:
+  de: ein Mittel gegen Krankheiten, z. B. Tabletten
+  en: medicine
+  rank: 1783
+Meer:
+  de: sehr viel Salzwasser, zum Beispiel die Nordsee
+  en: sea
+  rank: 1084
+Messer:
+  de: damit schneidet man
+  en: knife
+  rank: 969
+Miete:
+  de: Geld, das man jeden Monat für die Wohnung bezahlt
+  en: rent
+  rank: 2079
+Milch:
+  de: ein weißes Getränk von der Kuh
+  en: milk
+  rank: 1347
+Minute:
+  de: sechzig Sekunden
+  en: minute
+  rank: 261
+Mitternacht:
+  de: zwölf Uhr in der Nacht
+  en: midnight
+  rank: 1850
+Mixer:
+  de: ein Küchengerät, es mischt und macht klein
+  en: mixer; blender
+  rank: 10480
+Monat:
+  de: ungefähr dreißig Tage
+  en: month
+  rank: 593
+Morgen:
+  de: der Anfang vom Tag
+  en: morning; morgen = tomorrow
+  rank: 117
+Nachbar:
+  de: eine Person, die nebenan wohnt
+  en: neighbour
+  rank: 1411
+Nachricht:
+  de: eine neue Information
+  en: news; message
+  rank: 500
+Nacht:
+  de: die dunkle Zeit, man schläft
+  en: night
+  rank: 148
+Name:
+  de: so heißt man
+  en: name
+  rank: 243
+Nebel:
+  de: eine Wolke ganz unten, man sieht nicht weit
+  en: fog
+  rank: 3072
+Nudel:
+  de: ein Essen aus Mehl und Wasser, z. B. Spaghetti
+  en: noodle; Nudeln = pasta
+  rank: 5161
+Nummer:
+  de: 'eine Zahl, zum Beispiel: Nummer zwei'
+  en: number
+  rank: 412
+Oma:
+  de: die Mutter von Mutter oder Vater
+  en: grandma
+  rank: 1110
+Opa:
+  de: der Vater von Mutter oder Vater
+  en: grandpa
+  rank: 1342
+Paket:
+  de: ein Karton, den die Post bringt
+  en: parcel; package
+  rank: 2692
+Park:
+  de: ein grüner Platz mit Bäumen in der Stadt
+  en: park
+  rank: 1049
+Party:
+  de: ein Fest mit Musik und Freunden
+  en: party
+  rank: 483
+Patient:
+  de: ein kranker Mensch beim Arzt oder im Krankenhaus
+  en: patient
+  rank: 1061
+Pfanne:
+  de: darin brät man Essen auf dem Herd
+  en: frying pan
+  rank: 7692
+Pflanze:
+  de: etwas Grünes, es wächst in der Erde
+  en: plant
+  rank: 2834
+Picknick:
+  de: draußen essen, oft auf einer Decke
+  en: picnic
+  rank: 4671
+Pizza:
+  de: ein flaches Brot mit Tomaten und Käse aus dem Ofen
+  en: pizza
+  rank: 1786
+Platz:
+  de: ein Ort; ein Sitz
+  en: place; square; seat
+  rank: 408
+Popcorn:
+  de: süßer oder salziger Mais, man isst ihn im Kino
+  en: popcorn
+  rank: 5272
+Postbote:
+  de: er bringt Briefe und Pakete
+  en: postman
+  rank: 11396
+Preis:
+  de: man bekommt ihn, wenn man gewinnt; was etwas kostet
+  en: prize; price
+  rank: 751
+Problem:
+  de: etwas ist schwierig oder geht nicht
+  en: problem
+  rank: 209
+Pullover:
+  de: ein warmes Kleidungsstück für oben
+  en: jumper; sweater
+  rank: 5675
+Regenschirm:
+  de: man hält ihn über den Kopf, wenn es regnet
+  en: umbrella
+  rank: 11139
+Reifen:
+  de: der Teil vom Rad mit Luft drin
+  en: tyre
+  rank: 1977
+Rest:
+  de: was übrig ist
+  en: rest; remainder
+  rank: 509
+Restaurant:
+  de: dort kann man essen und trinken und bezahlt dafür
+  en: restaurant
+  rank: 1200
+Rezept:
+  de: so kocht oder backt man etwas
+  en: recipe; prescription
+  rank: 2850
+Rezeption:
+  de: der Empfang im Hotel
+  en: reception (desk)
+  rank: 7387
+Ring:
+  de: ein runder Schmuck für den Finger
+  en: ring
+  rank: 1014
+Rucksack:
+  de: eine Tasche, die man auf dem Rücken trägt
+  en: rucksack; backpack
+  rank: 3976
+Runde:
+  de: einmal ganz herum
+  en: lap; round
+  rank: 1176
+Sache:
+  de: ein Ding
+  en: thing
+  rank: 218
+Salz:
+  de: weißes Gewürz, es macht das Essen salzig
+  en: salt
+  rank: 2972
+Schatten:
+  de: ein dunkler Platz ohne Sonne
+  en: shade; shadow
+  rank: 1388
+Schimmel:
+  de: grüne oder schwarze Flecken an feuchten Wänden
+  en: mould
+  rank: 10648
+Schlafzimmer:
+  de: das Zimmer zum Schlafen
+  en: bedroom
+  rank: 1639
+Schlüssel:
+  de: damit schließt man eine Tür auf
+  en: key
+  rank: 508
+Schreibtisch:
+  de: ein Tisch zum Arbeiten und Schreiben
+  en: desk
+  rank: 2006
+Schuh:
+  de: man trägt ihn am Fuß
+  en: shoe
+  rank: 911
+Schule:
+  de: dort lernen Kinder
+  en: school
+  rank: 372
+Schulfest:
+  de: ein Fest in der Schule
+  en: school fair
+  rank: 33347
+Seite:
+  de: ein Blatt im Buch oder Brief; links oder rechts
+  en: page; side
+  rank: 358
+Silvester:
+  de: der 31. Dezember, der letzte Tag im Jahr
+  en: New Year's Eve
+  rank: 6640
+Sofa:
+  de: ein bequemes Möbel zum Sitzen für mehrere Personen
+  en: sofa
+  rank: 3248
+Sohn:
+  de: das männliche Kind von Eltern
+  en: son
+  rank: 210
+Sonne:
+  de: sie macht am Tag Licht und Wärme
+  en: sun
+  rank: 803
+Soße:
+  de: eine Flüssigkeit zum Essen, z. B. für Nudeln
+  en: sauce
+  rank: 4908
+Speisekarte:
+  de: dort steht, was es im Restaurant gibt
+  en: menu
+  rank: 8557
+Spiegel:
+  de: darin sieht man sich selbst
+  en: mirror
+  rank: 1666
+Spiel:
+  de: etwas zum Spielen; ein Fußballspiel
+  en: game; match
+  rank: 303
+Sport:
+  de: Bewegung wie Laufen, Fußball oder Schwimmen
+  en: sport; exercise
+  rank: 2158
+Stadt:
+  de: ein großer Ort mit vielen Häusern
+  en: town; city
+  rank: 240
+Stand:
+  de: ein kleiner Verkaufstisch auf dem Markt
+  en: stall; stand
+  rank: 551
+Station:
+  de: ein Teil im Krankenhaus; eine Haltestelle
+  en: ward; station
+  rank: 1690
+Strand:
+  de: Sand am Meer
+  en: beach
+  rank: 1264
+Strudel:
+  de: ein Gebäck mit dünnem Teig, oft mit Äpfeln gefüllt
+  en: strudel
+  rank: 12355
+Supermarkt:
+  de: ein großes Geschäft für Lebensmittel
+  en: supermarket
+  rank: 4106
+Suppe:
+  de: ein flüssiges, warmes Essen
+  en: soup
+  rank: 2099
+Sängerin:
+  de: eine Frau, die beruflich singt
+  en: singer (female)
+  rank: 5809
+Tablett:
+  de: ein Brett zum Tragen von Tellern und Gläsern
+  en: tray
+  rank: 7829
+Tag:
+  de: 24 Stunden
+  en: day
+  rank: 125
+Tasche:
+  de: darin trägt man Sachen
+  en: bag; pocket
+  rank: 744
+Tee:
+  de: ein warmes Getränk aus Blättern
+  en: tea
+  rank: 863
+Teil:
+  de: ein Stück von etwas
+  en: part
+  rank: 384
+Telefon:
+  de: damit spricht man mit Menschen an einem anderen Ort
+  en: telephone
+  rank: 420
+Termin:
+  de: eine feste Zeit für ein Treffen
+  en: appointment
+  rank: 1283
+Tisch:
+  de: Möbel, dort isst man oder arbeitet
+  en: table
+  rank: 608
+Tomate:
+  de: ein rotes Gemüse
+  en: tomato
+  rank: 5061
+Tor:
+  de: 'beim Fußball: dorthin muss der Ball'
+  en: goal; gate
+  rank: 1172
+Trainer:
+  de: er trainiert eine Mannschaft
+  en: coach
+  rank: 2787
+Treppe:
+  de: Stufen, man geht hinauf oder hinunter
+  en: stairs
+  rank: 1776
+Treppenhaus:
+  de: der Teil im Haus mit der Treppe
+  en: stairwell
+  rank: 8058
+Tür:
+  de: dort geht man in ein Zimmer oder Haus
+  en: door
+  rank: 266
+Uhr:
+  de: zeigt die Zeit
+  en: clock; o'clock
+  rank: 239
+Umzug:
+  de: man bringt alle Sachen in eine neue Wohnung
+  en: move (house)
+  rank: 5807
+Urlaub:
+  de: freie Zeit ohne Arbeit, oft macht man eine Reise
+  en: holiday; vacation
+  rank: 1152
+Verein:
+  de: eine Gruppe mit einem Hobby, z. B. Sport
+  en: club
+  rank: 3385
+Vermieter:
+  de: ihm gehört die Wohnung, man bezahlt ihm Miete
+  en: landlord
+  rank: 7068
+Verspätung:
+  de: man kommt später als geplant
+  en: delay
+  rank: 3015
+Video:
+  de: ein kurzer Film
+  en: video
+  rank: 1338
+Vorstellungsgespräch:
+  de: ein Gespräch, wenn man eine neue Arbeit möchte
+  en: job interview
+  rank: 6704
+Wagen:
+  de: 'ein Auto; im Supermarkt: der Einkaufswagen'
+  en: car; trolley
+  rank: 347
+Wand:
+  de: die Seite von einem Zimmer
+  en: wall
+  rank: 1069
+Wasser:
+  de: man trinkt es; es ist im Meer und im Fluss
+  en: water
+  rank: 330
+Wecker:
+  de: eine Uhr, sie klingelt am Morgen
+  en: alarm clock
+  rank: 5414
+Weg:
+  de: 'eine Straße zu Fuß; die Richtung; weg: nicht mehr da'
+  en: way; path; weg = gone, away
+  rank: 92
+Weihnachten:
+  de: das Fest im Dezember mit Baum und Geschenken
+  en: Christmas
+  rank: 814
+Welt:
+  de: die Erde und alle Menschen
+  en: world
+  rank: 178
+Wettbewerb:
+  de: man versucht, besser als die anderen zu sein
+  en: competition
+  rank: 3268
+Wetter:
+  de: Sonne, Regen, Wind, Wärme oder Kälte
+  en: weather
+  rank: 1669
+Wien:
+  de: die Hauptstadt von Österreich
+  en: Vienna
+  rank: 4095
+Willkommen:
+  de: schön, dass du da bist
+  en: welcome
+  rank: 421
+Woche:
+  de: sieben Tage
+  en: week
+  rank: 337
+Wochenende:
+  de: Samstag und Sonntag
+  en: weekend
+  rank: 995
+Wohnung:
+  de: Zimmer zum Wohnen in einem Haus
+  en: flat; apartment
+  rank: 524
+Wohnzimmer:
+  de: das Zimmer zum Sitzen und Fernsehen
+  en: living room
+  rank: 2662
+Wort:
+  de: Wörter bilden einen Satz
+  en: word
+  rank: 374
+Zeit:
+  de: Stunden und Minuten
+  en: time
+  rank: 96
+Zeitung:
+  de: jeden Tag neue Nachrichten auf Papier
+  en: newspaper
+  rank: 1056
+Zimmer:
+  de: ein Raum in der Wohnung
+  en: room
+  rank: 346
+Zug:
+  de: fährt auf Schienen
+  en: train
+  rank: 706
+Zwiebel:
+  de: ein Gemüse, beim Schneiden weint man oft
+  en: onion
+  rank: 5698
+aber:
+  de: doch; jedoch
+  en: but
+  rank: 20
+acht:
+  de: die Zahl 8
+  en: eight
+  rank: 594
+alle:
+  de: jeder, die ganze Gruppe
+  en: all; everyone; alles = everything
+  rank: 48
+allein:
+  de: ohne andere Menschen
+  en: alone
+  rank: 214
+als:
+  de: 'wie (als Koch); oder: zu der Zeit, wann'
+  en: as; than; when
+  rank: 38
+also:
+  de: darum; deshalb
+  en: so; therefore
+  rank: 63
+alt:
+  de: nicht jung; nicht neu
+  en: old
+  rank: 342
+am:
+  de: an dem
+  en: on the; at the
+  rank: 93
+an:
+  de: 'nah bei etwas: an der Tür'
+  en: at; on
+  rank: 29
+anderer:
+  de: nicht dieser; ein zweiter
+  en: other; different
+  rank: 146
+anrufen:
+  de: telefonieren mit jemandem
+  en: to call (on the phone)
+  rank: 504
+ans:
+  de: an das
+  en: to the; at the
+  rank: 775
+antworten:
+  de: auf eine Frage etwas sagen
+  en: to answer
+  rank: 617
+arbeiten:
+  de: einen Job machen; tätig sein
+  en: to work
+  rank: 280
+arm:
+  de: ohne Geld; der Arm ist ein Teil vom Körper
+  en: poor; der Arm = arm
+  rank: 663
+auch:
+  de: ebenso
+  en: also; too
+  rank: 36
+auf:
+  de: oben auf etwas
+  en: on; onto
+  rank: 18
+aus:
+  de: von drinnen nach draußen; ausmachen = Licht oder Feuer stoppen
+  en: out of; from; off
+  rank: 42
+außerdem:
+  de: auch noch
+  en: besides; also
+  rank: 532
+backen:
+  de: Kuchen oder Brot im Ofen machen
+  en: to bake
+  rank: 4624
+bald:
+  de: in kurzer Zeit
+  en: soon
+  rank: 256
+beginnen:
+  de: anfangen
+  en: to begin
+  rank: 937
+behalten:
+  de: nicht weggeben
+  en: to keep
+  rank: 604
+bei:
+  de: nah an; im Haus von
+  en: at; with; near
+  rank: 62
+beide:
+  de: die zwei
+  en: both
+  rank: 217
+beim:
+  de: bei dem
+  en: at the; while
+  rank: 215
+bekommen:
+  de: etwas kriegen
+  en: to get; to receive
+  rank: 244
+bereit:
+  de: fertig
+  en: ready
+  rank: 262
+berühmt:
+  de: sehr bekannt
+  en: famous
+  rank: 2264
+besonders:
+  de: sehr; mehr als normal
+  en: especially
+  rank: 544
+bestellen:
+  de: sagen, was man haben möchte (im Restaurant oder im Internet)
+  en: to order
+  rank: 1635
+besuchen:
+  de: zu jemandem gehen und dort bleiben
+  en: to visit
+  rank: 844
+bezahlen:
+  de: Geld geben für etwas
+  en: to pay
+  rank: 623
+bis:
+  de: 'zeitlich oder örtlich: bis hierher'
+  en: until; up to
+  rank: 106
+bisschen:
+  de: ein wenig
+  en: a bit (ein bisschen)
+  rank: 265
+bitten:
+  de: höflich fragen; „bitte“ sagt man höflich
+  en: to ask (for); bitte = please
+  rank: 64
+bleiben:
+  de: nicht weggehen
+  en: to stay
+  rank: 176
+brauchen:
+  de: etwas haben müssen
+  en: to need
+  rank: 191
+bringen:
+  de: etwas zu jemandem tragen
+  en: to bring
+  rank: 188
+buchen:
+  de: eine Reise oder ein Zimmer fest bestellen
+  en: to book
+  rank: 471
+böse:
+  de: nicht nett; sauer
+  en: bad; angry; nasty
+  rank: 518
+da:
+  de: dort; in dem Moment
+  en: there; then
+  rank: 32
+dabei:
+  de: gleichzeitig; mit dabei
+  en: at the same time; with it
+  rank: 201
+damals:
+  de: zu dieser Zeit früher
+  en: back then
+  rank: 487
+damit:
+  de: mit diesem Ziel; mit dieser Sache
+  en: so that; with it
+  rank: 99
+danach:
+  de: später; dann
+  en: afterwards
+  rank: 450
+dann:
+  de: danach; später
+  en: then
+  rank: 41
+daran:
+  de: an dieser Sache
+  en: on it; about it
+  rank: 230
+darunter:
+  de: unter dieser Sache
+  en: underneath; below it
+  rank: 2414
+darüber:
+  de: über diese Sache
+  en: about it; over it
+  rank: 224
+dass:
+  de: 'verbindet zwei Sätze: Ich weiß, dass …'
+  en: that (conjunction)
+  rank: 19
+dauern:
+  de: Zeit brauchen
+  en: to last; to take (time)
+  rank: 715
+davon:
+  de: von dieser Sache
+  en: of it; about it
+  rank: 163
+dazu:
+  de: zu dieser Sache; auch noch
+  en: to it; in addition
+  rank: 228
+dein:
+  de: gehört dir
+  en: your (informal)
+  rank: 86
+denken:
+  de: im Kopf überlegen
+  en: to think
+  rank: 138
+denn:
+  de: 'weil; in Fragen: „Was machst du denn?“'
+  en: because; then (in questions)
+  rank: 74
+der:
+  de: 'Artikel: der, die, das'
+  en: the
+  rank: 3
+derselbe:
+  de: genau der gleiche
+  en: the same
+  rank: 724
+dieser:
+  de: der hier
+  en: this
+  rank: 81
+diesmal:
+  de: dieses Mal
+  en: this time
+  rank: 799
+direkt:
+  de: ohne Umweg; genau
+  en: direct; straight
+  rank: 447
+doch:
+  de: aber; trotzdem
+  en: but; yet; after all
+  rank: 47
+dort:
+  de: an diesem Ort, nicht hier
+  en: there
+  rank: 155
+dran:
+  de: an der Reihe
+  en: (it's one's) turn; on it
+  rank: 279
+draußen:
+  de: nicht im Haus
+  en: outside
+  rank: 273
+drehen:
+  de: im Kreis bewegen
+  en: to turn; sich umdrehen = to turn round
+  rank: 989
+drei:
+  de: die Zahl 3
+  en: three
+  rank: 170
+drinnen:
+  de: im Haus
+  en: inside
+  rank: 943
+drücken:
+  de: mit dem Finger Kraft auf etwas machen
+  en: to press; to push
+  rank: 1572
+du:
+  de: die Person, mit der ich spreche (dich, dir)
+  en: you (informal)
+  rank: 5
+dunkel:
+  de: ohne Licht
+  en: dark
+  rank: 1399
+durch:
+  de: von einer Seite zur anderen Seite
+  en: through
+  rank: 132
+dürfen:
+  de: die Erlaubnis haben
+  en: may; to be allowed to
+  rank: 182
+egal:
+  de: nicht wichtig
+  en: all the same; doesn't matter
+  rank: 233
+eifersüchtig:
+  de: man hat Angst, dass der Partner eine andere Person liebt
+  en: jealous
+  rank: 1433
+eigen:
+  de: gehört einem selbst
+  en: own
+  rank: 469
+ein:
+  de: 'Artikel: ein, eine'
+  en: a; an; one
+  rank: 13
+einfach:
+  de: leicht; nur
+  en: simple; just
+  rank: 94
+einige:
+  de: ein paar
+  en: some; a few; einiges = a few things
+  rank: 389
+einmal:
+  de: ein Mal
+  en: once
+  rank: 208
+einzig:
+  de: nur ein
+  en: only; single
+  rank: 286
+endlich:
+  de: nach langer Zeit
+  en: finally
+  rank: 322
+er:
+  de: der Mann, von dem man spricht (ihn, ihm)
+  en: he; it
+  rank: 12
+erkennen:
+  de: sehen und wissen, wer das ist
+  en: to recognise
+  rank: 921
+erklären:
+  de: sagen, wie etwas funktioniert
+  en: to explain
+  rank: 484
+ernst:
+  de: nicht lustig
+  en: serious
+  rank: 355
+erst:
+  de: 'Nummer eins (der erste); oder: nicht früher als'
+  en: first (erste); only; not until
+  rank: 183
+erzählen:
+  de: eine Geschichte sagen; berichten
+  en: to tell
+  rank: 325
+es:
+  de: das Ding, von dem man spricht
+  en: it
+  rank: 7
+etwas:
+  de: ein Ding; ein bisschen
+  en: something; a little
+  rank: 59
+fahren:
+  de: mit Auto, Bus oder Zug unterwegs sein
+  en: to go (by vehicle); to drive
+  rank: 242
+fallen:
+  de: nach unten gehen, oft nicht gewollt
+  en: to fall
+  rank: 232
+falsch:
+  de: nicht richtig
+  en: wrong
+  rank: 410
+fangen:
+  de: 'mit der Hand halten; anfangen: beginnen'
+  en: to catch; anfangen = to begin
+  rank: 642
+fast:
+  de: beinahe; nicht ganz
+  en: almost
+  rank: 274
+fehlen:
+  de: nicht da sein
+  en: to be missing
+  rank: 729
+feiern:
+  de: ein Fest machen
+  en: to celebrate
+  rank: 895
+fertig:
+  de: zu Ende; bereit
+  en: finished; ready
+  rank: 212
+fest:
+  de: stark, nicht locker; ein Fest ist eine Feier
+  en: firm; tight; das Fest = festival, party
+  rank: 403
+finden:
+  de: etwas sehen, das man gesucht hat; meinen
+  en: to find; to think (an opinion)
+  rank: 149
+fliegen:
+  de: durch die Luft bewegen
+  en: to fly
+  rank: 578
+fragen:
+  de: eine Frage stellen
+  en: to ask; Frage(n) = question(s)
+  rank: 199
+frei:
+  de: nicht besetzt; kostet nichts
+  en: free; vacant
+  rank: 398
+freuen:
+  de: froh sein
+  en: to be glad (sich freuen)
+  rank: 711
+frisch:
+  de: neu; nicht alt (beim Essen)
+  en: fresh
+  rank: 1523
+früh:
+  de: nicht spät
+  en: early
+  rank: 413
+früher:
+  de: vor langer Zeit; eher
+  en: earlier; in the past
+  rank: 413
+funktionieren:
+  de: gehen, laufen (eine Maschine)
+  en: to work (of a machine)
+  rank: 451
+fühlen:
+  de: mit der Hand oder im Herzen spüren
+  en: to feel
+  rank: 473
+fünf:
+  de: die Zahl 5
+  en: five
+  rank: 329
+für:
+  de: 'zu jemandem: Das ist für dich.'
+  en: for
+  rank: 24
+ganz:
+  de: alles von etwas; vollständig
+  en: whole; quite
+  rank: 100
+gar:
+  de: überhaupt
+  en: at all (gar nicht = not at all)
+  rank: 153
+geben:
+  de: jemandem etwas in die Hand tun
+  en: to give; es gibt = there is
+  rank: 84
+gefallen:
+  de: gut finden
+  en: to please; es gefällt mir = I like it
+  rank: 349
+gegenüber:
+  de: auf der anderen Seite
+  en: opposite
+  rank: 832
+gehen:
+  de: zu Fuß laufen; irgendwohin kommen
+  en: to go; to walk
+  rank: 57
+gehören:
+  de: jemandem sein; ein Teil von etwas sein
+  en: to belong
+  rank: 842
+gemeinsam:
+  de: zusammen
+  en: together
+  rank: 933
+genau:
+  de: ganz richtig; präzise
+  en: exact; exactly
+  rank: 114
+genauso:
+  de: gleich; auf dieselbe Weise
+  en: just the same
+  rank: 495
+genug:
+  de: so viel, wie man braucht
+  en: enough
+  rank: 189
+gerade:
+  de: eben; in diesem Moment
+  en: just; straight; right now
+  rank: 124
+gern:
+  de: mit Freude
+  en: gladly; like to
+  rank: 223
+gestern:
+  de: der Tag vor heute
+  en: yesterday
+  rank: 317
+gesund:
+  de: nicht krank
+  en: healthy
+  rank: 970
+gewinnen:
+  de: Nummer eins werden
+  en: to win
+  rank: 622
+glauben:
+  de: meinen; denken, dass etwas stimmt
+  en: to believe; to think
+  rank: 121
+gleich:
+  de: sofort; genauso
+  en: right away; same
+  rank: 158
+glücklich:
+  de: sehr froh
+  en: happy
+  rank: 396
+groß:
+  de: nicht klein
+  en: big; tall
+  rank: 308
+gut:
+  de: nicht schlecht; prima
+  en: good; well; beste = best
+  rank: 35
+haben:
+  de: besitzen
+  en: to have
+  rank: 22
+halten:
+  de: in der Hand haben; stoppen
+  en: to hold; to stop
+  rank: 225
+heiraten:
+  de: Mann und Frau (oder zwei Menschen) werden Ehepartner
+  en: to marry
+  rank: 478
+heiß:
+  de: sehr warm
+  en: hot
+  rank: 526
+heißen:
+  de: einen Namen haben
+  en: to be called
+  rank: 202
+helfen:
+  de: jemandem etwas leichter machen
+  en: to help
+  rank: 147
+hell:
+  de: mit viel Licht
+  en: bright; light
+  rank: 2653
+heraus:
+  de: nach draußen; herauskommen = bekannt werden
+  en: out
+  rank: 598
+heute:
+  de: an diesem Tag
+  en: today
+  rank: 98
+hier:
+  de: an diesem Ort
+  en: here
+  rank: 23
+hin:
+  de: dorthin
+  en: there (towards)
+  rank: 168
+hinter:
+  de: auf der anderen Seite, hinten
+  en: behind
+  rank: 284
+hoch:
+  de: weit oben; groß
+  en: high
+  rank: 341
+hoffen:
+  de: sich etwas wünschen und glauben, dass es passiert
+  en: to hope
+  rank: 315
+hoffentlich:
+  de: ich hoffe, dass …
+  en: hopefully
+  rank: 682
+hängen:
+  de: oben festmachen, unten frei
+  en: to hang
+  rank: 953
+hören:
+  de: mit den Ohren wahrnehmen
+  en: to hear; to listen
+  rank: 142
+ich:
+  de: ich selbst (mich, mir)
+  en: I
+  rank: 1
+ihr:
+  de: 'gehört ihr oder ihnen; oder: ihr = du + du'
+  en: her; their; you (plural)
+  rank: 27
+im:
+  de: in dem
+  en: in the
+  rank: 45
+immer:
+  de: jedes Mal; die ganze Zeit
+  en: always
+  rank: 65
+in:
+  de: drinnen
+  en: in; into
+  rank: 14
+ins:
+  de: in das
+  en: into the
+  rank: 154
+ja:
+  de: nicht nein
+  en: 'yes'
+  rank: 15
+jeder:
+  de: alle, einer nach dem anderen
+  en: every; each
+  rank: 222
+jemand:
+  de: eine Person
+  en: somebody
+  rank: 130
+jetzt:
+  de: in diesem Moment
+  en: now
+  rank: 40
+joggen:
+  de: langsam laufen als Sport
+  en: to jog
+  rank: 7344
+jung:
+  de: nicht alt
+  en: young
+  rank: 194
+kalt:
+  de: nicht warm
+  en: cold
+  rank: 700
+kaputt:
+  de: geht nicht mehr
+  en: broken
+  rank: 857
+kaufen:
+  de: für Geld bekommen
+  en: to buy
+  rank: 491
+kein:
+  de: nicht ein
+  en: no; not a
+  rank: 50
+kennen:
+  de: schon einmal gesehen haben
+  en: to know (a person or place)
+  rank: 234
+klar:
+  de: natürlich; deutlich
+  en: clear; sure
+  rank: 116
+klein:
+  de: nicht groß
+  en: small
+  rank: 247
+klingeln:
+  de: ein Ton wie bei einer Glocke oder einem Wecker
+  en: to ring
+  rank: 1005
+klopfen:
+  de: mit der Hand an eine Tür schlagen
+  en: to knock
+  rank: 1401
+kochen:
+  de: Essen warm machen und zubereiten
+  en: to cook
+  rank: 1348
+kommen:
+  de: hierher gehen
+  en: to come
+  rank: 82
+krank:
+  de: nicht gesund
+  en: ill; sick
+  rank: 472
+kurz:
+  de: nicht lang
+  en: short; briefly
+  rank: 295
+können:
+  de: etwas tun dürfen oder schaffen
+  en: can; to be able to
+  rank: 34
+lachen:
+  de: „Ha ha!“ machen, weil etwas lustig ist
+  en: to laugh
+  rank: 550
+laden:
+  de: etwas auf den Computer holen; ein kleines Geschäft
+  en: to load; der Laden = shop
+  rank: 567
+lang:
+  de: nicht kurz
+  en: long
+  rank: 301
+lange:
+  de: viel Zeit
+  en: for a long time
+  rank: 150
+langsam:
+  de: nicht schnell
+  en: slow; slowly
+  rank: 431
+lassen:
+  de: erlauben; nicht mitnehmen
+  en: to let; to leave; fallen lassen = to drop
+  rank: 110
+laufen:
+  de: schnell gehen; rennen
+  en: to run; to walk
+  rank: 326
+laut:
+  de: nicht leise
+  en: loud
+  rank: 503
+legen:
+  de: etwas hinlegen
+  en: to lay; to put
+  rank: 659
+leicht:
+  de: nicht schwer
+  en: easy; light
+  rank: 488
+leid:
+  de: Entschuldigung
+  en: sorry (es tut mir leid)
+  rank: 107
+lernen:
+  de: neues Wissen bekommen
+  en: to learn
+  rank: 452
+lesen:
+  de: einen Text mit den Augen verstehen
+  en: to read
+  rank: 570
+letzt:
+  de: am Ende; nach allen anderen
+  en: last
+  rank: 320
+lieben:
+  de: sehr gern haben
+  en: to love
+  rank: 128
+liefern:
+  de: etwas zu jemandem bringen
+  en: to deliver
+  rank: 1993
+liegen:
+  de: flach auf etwas sein
+  en: to lie (be lying)
+  rank: 297
+links:
+  de: die andere Seite als rechts
+  en: left
+  rank: 778
+los:
+  de: weg; Start
+  en: off; away; go!
+  rank: 68
+lustig:
+  de: man muss lachen
+  en: funny
+  rank: 561
+machen:
+  de: tun
+  en: to do; to make
+  rank: 71
+mal:
+  de: einmal; das erste Mal
+  en: once; just; das Mal = time (zum ersten Mal)
+  rank: 39
+man:
+  de: irgendeine Person; alle Leute
+  en: one; you; people
+  rank: 54
+manchmal:
+  de: nicht immer, aber ab und zu
+  en: sometimes
+  rank: 357
+mehr:
+  de: eine größere Menge
+  en: more
+  rank: 61
+mein:
+  de: gehört mir
+  en: my
+  rank: 43
+meinen:
+  de: denken; sagen
+  en: to mean; to think; to say
+  rank: 259
+mit:
+  de: zusammen mit
+  en: with
+  rank: 16
+miteinander:
+  de: zusammen
+  en: with each other
+  rank: 852
+mögen:
+  de: gern haben
+  en: to like; möchte = would like
+  rank: 143
+müde:
+  de: man will schlafen
+  en: tired
+  rank: 714
+müssen:
+  de: es ist nötig
+  en: must; to have to
+  rank: 55
+nach:
+  de: später als; in Richtung
+  en: after; to
+  rank: 52
+nah:
+  de: nicht weit
+  en: near; nächste = next
+  rank: 429
+nass:
+  de: voll Wasser; nicht trocken
+  en: wet
+  rank: 2360
+natürlich:
+  de: klar; selbstverständlich
+  en: of course; natural
+  rank: 151
+neben:
+  de: direkt an der Seite
+  en: next to
+  rank: 755
+nehmen:
+  de: mit der Hand holen; wählen
+  en: to take
+  rank: 186
+nein:
+  de: nicht ja
+  en: 'no'
+  rank: 28
+nervös:
+  de: unruhig, man hat ein bisschen Angst
+  en: nervous
+  rank: 874
+nett:
+  de: freundlich
+  en: nice; kind
+  rank: 335
+neu:
+  de: nicht alt
+  en: new
+  rank: 283
+neun:
+  de: die Zahl 9
+  en: nine
+  rank: 941
+nicht:
+  de: 'Verneinung: nein'
+  en: not
+  rank: 6
+nichts:
+  de: gar kein Ding
+  en: nothing
+  rank: 53
+nie:
+  de: zu keiner Zeit
+  en: never
+  rank: 88
+niemand:
+  de: keine Person
+  en: nobody
+  rank: 204
+noch:
+  de: immer noch; mehr
+  en: still; yet; another
+  rank: 30
+nur:
+  de: nicht mehr als
+  en: only
+  rank: 31
+ob:
+  de: 'Frage im Nebensatz: Ich weiß nicht, ob …'
+  en: whether; if
+  rank: 133
+oben:
+  de: nicht unten
+  en: up; at the top
+  rank: 316
+obwohl:
+  de: trotzdem, dass …
+  en: although
+  rank: 619
+oft:
+  de: viele Male
+  en: often
+  rank: 386
+oh:
+  de: 'Ausruf: Oh!'
+  en: oh
+  rank: 60
+ohne:
+  de: nicht mit
+  en: without
+  rank: 144
+okay:
+  de: in Ordnung
+  en: okay
+  rank: 85
+online:
+  de: im Internet
+  en: online
+  rank: 2774
+paar:
+  de: einige; nicht viele
+  en: a few (ein paar)
+  rank: 136
+passen:
+  de: die richtige Größe haben
+  en: to fit; to suit
+  rank: 428
+passieren:
+  de: geschehen
+  en: to happen
+  rank: 137
+perfekt:
+  de: ohne Fehler; sehr gut
+  en: perfect
+  rank: 589
+planen:
+  de: vorher überlegen, was man macht
+  en: to plan
+  rank: 422
+plötzlich:
+  de: auf einmal, sehr schnell
+  en: suddenly
+  rank: 607
+probieren:
+  de: etwas zum ersten Mal essen oder machen
+  en: to try; to taste
+  rank: 1539
+raus:
+  de: nach draußen
+  en: out
+  rank: 135
+rechts:
+  de: die andere Seite als links
+  en: right
+  rank: 849
+reden:
+  de: sprechen
+  en: to talk
+  rank: 126
+regnen:
+  de: Wasser fällt vom Himmel
+  en: to rain
+  rank: 3192
+reif:
+  de: fertig zum Essen (Obst, Gemüse)
+  en: ripe
+  rank: 1977
+reparieren:
+  de: etwas Kaputtes wieder gut machen
+  en: to repair
+  rank: 1565
+retten:
+  de: aus einer Gefahr holen
+  en: to save; to rescue
+  rank: 423
+richtig:
+  de: ohne Fehler; wirklich
+  en: right; correct; really
+  rank: 160
+rufen:
+  de: laut sagen; anrufen = telefonieren
+  en: to call
+  rank: 435
+ruhig:
+  de: leise; ohne Stress
+  en: quiet; calm
+  rank: 292
+sagen:
+  de: sprechen; etwas mit Worten mitteilen
+  en: to say
+  rank: 70
+schaffen:
+  de: etwas Schweres können
+  en: to manage; to make it
+  rank: 436
+schauen:
+  de: sehen
+  en: to look
+  rank: 343
+scheinen:
+  de: Licht geben (die Sonne scheint)
+  en: to shine; to seem
+  rank: 393
+schicken:
+  de: gehen lassen; per Post senden
+  en: to send
+  rank: 618
+schießen:
+  de: den Ball mit dem Fuß kräftig spielen
+  en: to shoot; ein Tor schießen = to score
+  rank: 713
+schlafen:
+  de: in der Nacht im Bett liegen und ruhen
+  en: to sleep
+  rank: 377
+schlagen:
+  de: hauen; eine Idee geben (vorschlagen)
+  en: to hit; vorschlagen = to suggest
+  rank: 725
+schlecht:
+  de: nicht gut
+  en: bad
+  rank: 371
+schließen:
+  de: zumachen
+  en: to close; Freundschaft schließen = to make friends
+  rank: 993
+schnarchen:
+  de: laute Geräusche beim Schlafen machen
+  en: to snore
+  rank: 6780
+schneiden:
+  de: mit dem Messer klein machen
+  en: to cut; to chop
+  rank: 1903
+schnell:
+  de: nicht langsam
+  en: fast; quickly
+  rank: 180
+schon:
+  de: früher als gedacht
+  en: already
+  rank: 37
+schreiben:
+  de: Wörter auf Papier oder in den Computer bringen
+  en: to write
+  rank: 517
+schreien:
+  de: sehr laut rufen
+  en: to shout; to scream
+  rank: 694
+schwer:
+  de: nicht leicht
+  en: heavy; difficult
+  rank: 327
+schön:
+  de: hübsch; angenehm
+  en: beautiful; nice
+  rank: 120
+sehen:
+  de: mit den Augen wahrnehmen
+  en: to see
+  rank: 78
+sehr:
+  de: viel; stark
+  en: very
+  rank: 73
+sein:
+  de: 'existieren (bin, ist, war); oder: gehört ihm'
+  en: to be; his
+  rank: 4
+seit:
+  de: von einem Zeitpunkt bis jetzt
+  en: since; for (time)
+  rank: 157
+selbst:
+  de: ohne Hilfe von anderen
+  en: oneself; even
+  rank: 141
+setzen:
+  de: sich hinsetzen; auf einen Stuhl gehen
+  en: to set; sich setzen = to sit down
+  rank: 416
+sich:
+  de: 'Reflexivpronomen: er wäscht sich'
+  en: oneself; himself; herself
+  rank: 33
+sicher:
+  de: ohne Gefahr; ganz bestimmt
+  en: safe; sure
+  rank: 103
+sie:
+  de: 'die Frau oder die Leute, von denen man spricht; Sie: höfliche Anrede'
+  en: she; they; Sie = you (formal)
+  rank: 2
+sieben:
+  de: die Zahl 7
+  en: seven
+  rank: 620
+singen:
+  de: Musik mit der Stimme machen
+  en: to sing
+  rank: 809
+sitzen:
+  de: auf einem Stuhl sein
+  en: to sit
+  rank: 505
+so:
+  de: auf diese Weise; sehr
+  en: so; like this
+  rank: 21
+sofort:
+  de: jetzt gleich
+  en: immediately
+  rank: 205
+sogar:
+  de: auch noch (überraschend)
+  en: even
+  rank: 294
+sollen:
+  de: müssen (weil jemand es sagt)
+  en: should; to be supposed to
+  rank: 87
+sondern:
+  de: 'im Gegenteil: nicht dies, sondern das'
+  en: but (rather)
+  rank: 411
+sonst:
+  de: anders; normalerweise
+  en: otherwise; usually
+  rank: 196
+spielen:
+  de: Spaß haben mit einem Spiel; Sport machen
+  en: to play; das Spiel = game, match
+  rank: 303
+sprechen:
+  de: reden; Wörter sagen
+  en: to speak
+  rank: 216
+spät:
+  de: nicht früh
+  en: late
+  rank: 248
+stecken:
+  de: etwas in etwas tun
+  en: to put; to plug in
+  rank: 692
+stehen:
+  de: auf den Füßen sein
+  en: to stand
+  rank: 195
+stellen:
+  de: etwas hinstellen
+  en: to put; to place; eine Frage stellen = to ask
+  rank: 385
+still:
+  de: ohne Geräusch
+  en: quiet; silent
+  rank: 555
+stolz:
+  de: froh über etwas, das man gut gemacht hat
+  en: proud
+  rank: 540
+stöhnen:
+  de: laut und müde atmen, weil es weh tut
+  en: to groan
+  rank: 925
+suchen:
+  de: etwas finden wollen
+  en: to look for
+  rank: 298
+super:
+  de: toll; sehr gut
+  en: great
+  rank: 479
+tanzen:
+  de: sich zur Musik bewegen
+  en: to dance
+  rank: 683
+tief:
+  de: weit nach unten
+  en: deep
+  rank: 735
+toll:
+  de: super; sehr gut
+  en: great
+  rank: 260
+tragen:
+  de: etwas in der Hand halten und bringen
+  en: to carry; to wear
+  rank: 536
+traurig:
+  de: nicht froh
+  en: sad
+  rank: 795
+treffen:
+  de: jemanden sehen und sprechen
+  en: to meet
+  rank: 277
+trinken:
+  de: Wasser oder Kaffee in den Mund nehmen
+  en: to drink
+  rank: 388
+trotzdem:
+  de: aber doch
+  en: anyway; nevertheless
+  rank: 439
+tun:
+  de: machen
+  en: to do
+  rank: 76
+um:
+  de: 'Zeit: um acht Uhr'
+  en: at (time); around
+  rank: 44
+unbedingt:
+  de: auf jeden Fall
+  en: absolutely; really
+  rank: 705
+und:
+  de: auch; plus
+  en: and
+  rank: 8
+unser:
+  de: gehört uns
+  en: our
+  rank: 129
+unter:
+  de: weiter unten
+  en: under; below
+  rank: 179
+unterschreiben:
+  de: seinen Namen unter einen Text schreiben
+  en: to sign
+  rank: 1570
+vergessen:
+  de: nicht mehr daran denken
+  en: to forget
+  rank: 235
+verheiratet:
+  de: man hat geheiratet
+  en: married
+  rank: 635
+verlassen:
+  de: weggehen von einem Ort
+  en: to leave
+  rank: 353
+verlaufen:
+  de: den Weg nicht mehr finden
+  en: to get lost (sich verlaufen)
+  rank: 2913
+verliebt:
+  de: man liebt jemanden
+  en: in love
+  rank: 759
+verpassen:
+  de: zu spät kommen und etwas nicht bekommen
+  en: to miss (a train, a chance)
+  rank: 1032
+verraten:
+  de: ein Geheimnis sagen
+  en: to give away; to betray
+  rank: 784
+verstehen:
+  de: wissen, was etwas bedeutet
+  en: to understand
+  rank: 226
+viel:
+  de: eine große Menge
+  en: much; many; a lot
+  rank: 91
+vielleicht:
+  de: es ist möglich
+  en: maybe
+  rank: 79
+voll:
+  de: nichts passt mehr hinein
+  en: full
+  rank: 443
+voller:
+  de: mit viel … darin
+  en: full of
+  rank: 625
+vom:
+  de: von dem
+  en: from the
+  rank: 162
+von:
+  de: 'Herkunft: Das ist von mir.'
+  en: from; of
+  rank: 25
+vor:
+  de: vorne; früher als
+  en: in front of; before
+  rank: 67
+vorbei:
+  de: an etwas vorüber; zu Ende
+  en: past; over
+  rank: 276
+vorne:
+  de: ganz nah am Anfang
+  en: at the front
+  rank: 963
+vorsichtig:
+  de: langsam und aufmerksam
+  en: careful
+  rank: 538
+wachsen:
+  de: größer werden
+  en: to grow
+  rank: 1932
+wandern:
+  de: lange zu Fuß in der Natur gehen
+  en: to hike
+  rank: 4163
+warm:
+  de: nicht kalt, aber auch nicht heiß
+  en: warm
+  rank: 1380
+warten:
+  de: bleiben, bis etwas kommt
+  en: to wait
+  rank: 172
+warum:
+  de: aus welchem Grund
+  en: why
+  rank: 66
+was:
+  de: Frage nach einer Sache
+  en: what; something
+  rank: 10
+weh:
+  de: Schmerzen machen
+  en: sore; weh tun = to hurt
+  rank: 525
+weich:
+  de: nicht hart
+  en: soft
+  rank: 2486
+weil:
+  de: aus diesem Grund
+  en: because
+  rank: 97
+weinen:
+  de: Tränen kommen aus den Augen
+  en: to cry
+  rank: 827
+weiter:
+  de: nicht stoppen; mehr
+  en: further; on
+  rank: 156
+wenn:
+  de: falls; immer dann, wenn
+  en: if; when
+  rank: 26
+wer:
+  de: Frage nach einer Person
+  en: who
+  rank: 80
+werden:
+  de: 'anders sein als vorher; Zukunft: ich werde …'
+  en: to become; will
+  rank: 46
+werfen:
+  de: etwas durch die Luft fliegen lassen
+  en: to throw; sich werfen = to throw oneself
+  rank: 951
+wichtig:
+  de: man muss daran denken
+  en: important
+  rank: 367
+wie:
+  de: auf welche Weise
+  en: how; like; as
+  rank: 17
+wieder:
+  de: noch einmal
+  en: again; back
+  rank: 69
+wiedersehen:
+  de: noch einmal sehen; „Auf Wiedersehen!“
+  en: to see again
+  rank: 397
+wir:
+  de: ich und andere (uns)
+  en: we
+  rank: 9
+wirklich:
+  de: tatsächlich; echt
+  en: really
+  rank: 89
+wissen:
+  de: eine Information haben
+  en: to know
+  rank: 49
+wo:
+  de: an welchem Ort
+  en: where
+  rank: 58
+woher:
+  de: von welchem Ort
+  en: from where; how (do you know)
+  rank: 300
+wohl:
+  de: wahrscheinlich
+  en: probably; well
+  rank: 127
+wohnen:
+  de: sein Zuhause haben
+  en: to live (reside)
+  rank: 854
+wollen:
+  de: etwas möchten
+  en: to want
+  rank: 56
+wunderschön:
+  de: sehr schön
+  en: beautiful
+  rank: 834
+während:
+  de: in der Zeit, als …
+  en: while; during
+  rank: 361
+wüten:
+  de: sehr böse sein
+  en: to rage; wütend = angry
+  rank: 726
+zehn:
+  de: die Zahl 10
+  en: ten
+  rank: 427
+zeigen:
+  de: sehen lassen
+  en: to show
+  rank: 354
+ziehen:
+  de: 'zu sich holen; umziehen: in eine neue Wohnung gehen'
+  en: to pull; to move (house)
+  rank: 466
+zu:
+  de: in Richtung; mehr als gut (zu laut); geschlossen (die Tür ist zu)
+  en: to; too; closed
+  rank: 11
+zuerst:
+  de: am Anfang
+  en: first; at first
+  rank: 417
+zufrieden:
+  de: froh, alles ist gut
+  en: satisfied; content
+  rank: 992
+zum:
+  de: zu dem
+  en: to the
+  rank: 77
+zur:
+  de: zu der
+  en: to the
+  rank: 115
+zusammen:
+  de: miteinander
+  en: together
+  rank: 177
+zwar:
+  de: es stimmt, aber …
+  en: admittedly; indeed (zwar … aber)
+  rank: 470
+zwei:
+  de: die Zahl 2
+  en: two
+  rank: 113
+zweit:
+  de: Nummer zwei
+  en: second
+  rank: 860
+Ärztin:
+  de: eine Frau, sie hilft kranken Menschen
+  en: doctor (female)
+  rank: 2591
+Überraschung:
+  de: etwas, das man nicht erwartet
+  en: surprise
+  rank: 820
+ändern:
+  de: anders machen
+  en: to change
+  rank: 534
+öffnen:
+  de: aufmachen
+  en: to open
+  rank: 760
+über:
+  de: zu einem Thema; oben
+  en: about; over; above
+  rank: 83
+überall:
+  de: an allen Orten
+  en: everywhere
+  rank: 445
+übrig:
+  de: noch da, weil man es nicht gebraucht hat
+  en: left over
+  rank: 947

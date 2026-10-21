@@ -1,0 +1,41 @@
+lang: de
+level: A2
+title: "Das Paket kommt nicht"
+names: [Jonas, Emil]
+new_words: [Paket, Postbote, liefern, Karton]
+sentences:
+  - text: "Jonas hat für seine Küche neue Messer bestellt."
+    picture: 🔪
+    help: {en: "Jonas has ordered new knives for his kitchen.", de: "Jonas möchte neue Messer zum Kochen."}
+  - text: "Das Paket soll heute kommen, also bleibt er zu Hause."
+    picture: 📦
+    help: {en: "The parcel is supposed to arrive today, so he stays at home.", de: "Jonas wartet zu Hause auf das Paket."}
+  - text: "Er wartet den ganzen Tag, aber kein Postbote kommt."
+    picture: ⏳
+    help: {en: "He waits all day, but no postman comes.", de: "Niemand bringt etwas."}
+  - text: "Am Abend steht auf seinem Handy: „Ihr Paket wurde geliefert.“"
+    picture: 📱
+    help: {en: "In the evening his phone says: “Your parcel has been delivered.”", de: "Das Handy sagt: Das Paket ist da."}
+  - text: "Aber vor seiner Tür liegt nichts."
+    picture: 🤷
+    help: {en: "But there's nothing outside his door.", de: "Jonas findet kein Paket."}
+  - text: "Jonas fragt im ganzen Haus, aber niemand hat sein Paket gesehen."
+    picture: 🏠
+    help: {en: "Jonas asks all over the building, but nobody has seen his parcel.", de: "Die Nachbarn wissen nichts."}
+  - text: "Am nächsten Tag steht Emil mit einem großen Karton vor der Tür."
+    picture: 🧒
+    help: {en: "The next day Emil is at the door with a big box.", de: "Emil bringt das Paket."}
+  - text: "„Der Postbote hat es gestern bei uns geliefert – an die falsche Tür!“"
+    speaker: 1
+    picture: 🚪
+    help: {en: "“The postman delivered it to us yesterday – to the wrong door!”", de: "Das Paket war bei Emil und Mia."}
+  - text: "Jonas öffnet den Karton sofort: Die Messer sind da!"
+    picture: 😃
+    help: {en: "Jonas opens the box straight away: the knives are there!", de: "Jonas hat seine Messer endlich."}
+  - text: "Emil schaut auf den Karton: „Kann ich den haben? Ich mache ein Haus für meine Autos.“"
+    speaker: 1
+    picture: 🚗
+    help: {en: "Emil looks at the box: “Can I have it? I'll make a house for my cars out of it.”", de: "Emil möchte mit dem Karton spielen."}
+  - text: "Jetzt sind beide glücklich: Jonas mit den Messern und Emil mit dem Karton."
+    picture: 😊
+    help: {en: "Now they're both happy: Jonas with the knives and Emil with the box.", de: "Jeder hat etwas Schönes bekommen."}

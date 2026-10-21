@@ -1,0 +1,40 @@
+lang: it
+level: A1
+title: Il fine settimana
+names: [Marco, Anna]
+new_words: [fine, settimana, sabato, domenica, mare, dormire]
+lemma_overrides: {al: a}
+sentences:
+- text: Marco, cosa fai il fine settimana?
+  speaker: 1
+  picture: 🗓️
+  help: {en: 'Marco, what are you doing at the weekend?', de: 'Marco, was machst du am Wochenende?'}
+- text: Sabato vado al mare.
+  picture: 🏖️
+  help: {en: On Saturday I'm going to the sea., de: Am Samstag fahre ich ans Meer.}
+- text: E domenica vado al museo in città.
+  picture: 🏛️
+  help: {en: And on Sunday I'm going to the museum in town., de: Und am Sonntag gehe ich in der Stadt ins Museum.}
+- text: E tu? Cosa fai il fine settimana?
+  picture: ❓
+  help: {en: 'And you? What are you doing at the weekend?', de: 'Und du? Was machst du am Wochenende?'}
+- text: Io? Io dormo!
+  speaker: 1
+  picture: 😴
+  help: {en: 'Me? I''m sleeping!', de: 'Ich? Ich schlafe!'}
+- text: Sabato dormo e domenica dormo.
+  speaker: 1
+  picture: 🛌
+  help: {en: On Saturday I sleep and on Sunday I sleep., de: Am Samstag schlafe ich und am Sonntag schlafe ich.}
+- text: Sabato Marco va al mare.
+  picture: 🌊
+  help: {en: On Saturday Marco goes to the sea., de: Am Samstag fährt Marco ans Meer.}
+- text: Fa caldo e c'è il sole.
+  picture: ☀️
+  help: {en: It's hot and sunny., de: Es ist warm und die Sonne scheint.}
+- text: Domenica Marco non va al museo.
+  picture: 🚫
+  help: {en: On Sunday Marco doesn't go to the museum., de: Am Sonntag geht Marco nicht ins Museum.}
+- text: Domenica Marco dorme!
+  picture: 😴
+  help: {en: On Sunday Marco sleeps!, de: Am Sonntag schläft Marco!}

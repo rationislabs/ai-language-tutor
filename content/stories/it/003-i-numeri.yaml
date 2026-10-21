@@ -1,0 +1,39 @@
+lang: it
+level: A1
+title: I numeri
+names: [Marco, Sofia]
+new_words: [avere, anno, quanto, due, tre, gatto]
+lemma_overrides: {anch': anche}
+sentences:
+- text: Ciao! Io sono Marco. E tu?
+  picture: 👋
+  help: {en: 'Hi! I''m Marco. And you?', de: 'Hallo! Ich bin Marco. Und du?'}
+- text: Io sono Sofia. Ho tre anni!
+  speaker: 1
+  picture: 👧
+  help: {en: I'm Sofia. I'm three years old!, de: Ich bin Sofia. Ich bin drei Jahre alt!}
+- text: Tre anni! E hai un gatto?
+  picture: 🤔
+  help: {en: 'Three! And do you have a cat?', de: 'Drei Jahre! Und hast du eine Katze?'}
+- text: No, ho tre gatti!
+  speaker: 1
+  picture: 🐈
+  help: {en: 'No, I have three cats!', de: 'Nein, ich habe drei Katzen!'}
+- text: Tre gatti? Quanti gatti!
+  picture: 😮
+  help: {en: 'Three cats? So many cats!', de: 'Drei Katzen? So viele Katzen!'}
+- text: E quanti anni hanno?
+  picture: ❓
+  help: {en: 'And how old are they?', de: 'Und wie alt sind sie?'}
+- text: Un gatto ha due anni.
+  speaker: 1
+  picture: 🐱
+  help: {en: One cat is two years old., de: Eine Katze ist zwei Jahre alt.}
+- text: E due gatti hanno tre anni.
+  speaker: 1
+  picture: 🐈‍⬛
+  help: {en: And two cats are three., de: Und zwei Katzen sind drei.}
+- text: Anch'io ho tre anni!
+  speaker: 1
+  picture: 🎉
+  help: {en: I'm three too!, de: Ich bin auch drei!}

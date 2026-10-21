@@ -1,0 +1,44 @@
+lang: de
+level: A2
+title: "Urlaub planen"
+names: [Lena, Jonas]
+new_words: [Urlaub, Meer, Berg, wandern, Insel]
+lemma_overrides: {Bergen: Berg}
+sentences:
+  - text: "Lena und Jonas wollen zum ersten Mal zusammen Urlaub machen."
+    picture: 🧳
+    help: {en: "Lena and Jonas want to go on holiday together for the first time.", de: "Lena und Jonas planen ihre erste gemeinsame Reise."}
+  - text: "Lena möchte ans Meer: Sonne, Wasser und nichts tun."
+    picture: 🏖️
+    help: {en: "Lena wants to go to the seaside: sun, water and doing nothing.", de: "Lena will am Strand liegen und sich ausruhen."}
+  - text: "Jonas will aber in die Berge, denn er wandert gern."
+    picture: ⛰️
+    help: {en: "Jonas would rather go to the mountains, because he likes hiking.", de: "Jonas läuft gern lange Wege in der Natur."}
+  - text: "„Am Meer ist es mir zu ruhig“, sagt Jonas."
+    speaker: 1
+    picture: 😴
+    help: {en: "“The seaside is too quiet for me,” says Jonas.", de: "Jonas findet Urlaub am Strand langweilig."}
+  - text: "„Und in den Bergen ist es mir zu kalt“, sagt Lena."
+    speaker: 2
+    picture: 🥶
+    help: {en: "“And the mountains are too cold for me,” says Lena.", de: "Lena mag keine Kälte."}
+  - text: "Den ganzen Abend suchen sie am Computer."
+    picture: 💻
+    help: {en: "They spend the whole evening searching on the computer.", de: "Sie suchen lange nach einem Ziel."}
+  - text: "Dann findet Lena eine kleine Insel."
+    picture: 🏝️
+    help: {en: "Then Lena finds a small island.", de: "Lena hat eine Idee: eine Insel."}
+  - text: "Auf der Insel gibt es ein warmes Meer und hohe Berge."
+    picture: 🌋
+    help: {en: "The island has a warm sea and high mountains.", de: "Die Insel hat Strand und Berge."}
+  - text: "„Am Morgen wandern wir, und am Abend liegen wir am Meer“, sagt Jonas."
+    speaker: 1
+    picture: 🥾
+    help: {en: "“In the morning we'll hike, and in the evening we'll lie by the sea,” says Jonas.", de: "Jonas findet: So bekommen beide, was sie wollen."}
+  - text: "Lena lacht: „Das ist der perfekte Urlaub für uns zwei!“"
+    speaker: 2
+    picture: ❤️
+    help: {en: "Lena laughs: “That's the perfect holiday for the two of us!”", de: "Lena ist sehr zufrieden mit dem Plan."}
+  - text: "Noch am Abend buchen sie alles."
+    picture: ✈️
+    help: {en: "That same evening they book everything.", de: "Sie buchen die Reise sofort."}
