@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { buildGaps, doneSummary, MAX_ITEMS, MIN_ITEMS, upcoming } from "../src/lib/session";
+import { audioAhead, buildGaps, doneSummary, MAX_ITEMS, MIN_ITEMS, upcoming } from "../src/lib/session";
 import { newCard, review } from "../src/lib/srs";
 import { HU } from "./fixtures";
 
@@ -59,5 +59,13 @@ describe("upcoming and summary", () => {
   it("the done summary", () => {
     expect(doneSummary(["macska", "ül"], 3.4, 5)).toBe("Done: 2 new words · 3 minutes · 5-day streak");
     expect(doneSummary([], 0.2, 1)).toBe("Done: 0 new words · 1 minute · 1-day streak");
+  });
+});
+
+describe("offline audio", () => {
+  it("the gap round's recordings are fetched with the stories they belong to", () => {
+    const paths = audioAhead(HU, HU.stories, HU.stories[0].id);
+    expect(paths).toContain("hu/g1.mp3");
+    expect(paths).toContain("hu/g2.mp3");
   });
 });

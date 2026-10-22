@@ -1,4 +1,5 @@
 import shutil
+import subprocess
 import wave
 
 import pytest
@@ -103,3 +104,30 @@ def test_ffmpeg_makes_mp3_every_browser_plays(tmp_path):
         w.writeframes(b"\0\0" * 22050)
     out = audio.ffmpeg_mp3(wav.read_bytes())
     assert out[:3] == b"ID3" or out[0] == 0xFF
+
+
+def test_a_recording_ffmpeg_cannot_read_falls_back_to_piper(tmp_path):
+    # Tatoeba answering 200 with an HTML error page: ffmpeg fails on it, the build must not.
+    def encode(raw):
+        if raw == b"<html>":
+            raise subprocess.CalledProcessError(1, "ffmpeg")
+        return b"mp3:" + raw
+
+    item = Item("de", "Hallo.", tatoeba_audio="9")
+    piper = Item("de", "Hallo.", voice=audio.voice_for("de")).path
+    made, fell = audio.render(
+        [item], tmp_path, synth=lambda t, v: b"wav", fetch=lambda i: b"<html>", encode=encode
+    )
+    assert (made, fell) == (1, {item.path: piper})
+    assert not (tmp_path / item.path).exists()
+
+
+def test_a_failed_encode_leaves_no_partial_file(tmp_path):
+    def encode(raw):
+        raise RuntimeError("killed mid-write")
+
+    item = Item("de", "Hallo.")
+    with pytest.raises(RuntimeError):
+        audio.render([item], tmp_path, synth=lambda t, v: b"wav", fetch=None, encode=encode)
+    assert not (tmp_path / item.path).exists()
+    assert not list(tmp_path.rglob("*.part"))

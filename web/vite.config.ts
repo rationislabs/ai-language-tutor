@@ -1,6 +1,7 @@
 import { svelte } from "@sveltejs/vite-plugin-svelte";
 import { defineConfig } from "vite";
 import { VitePWA } from "vite-plugin-pwa";
+import { AUDIO_CACHE } from "./pwa.config";
 
 export default defineConfig({
   preview: { allowedHosts: [".ts.net"] }, // the private phone test over Tailscale (README)
@@ -35,11 +36,7 @@ export default defineConfig({
             // iOS asks for audio in ranges: serve 206 answers from the cache.
             urlPattern: ({ url }) => url.pathname.includes("/audio/"),
             handler: "CacheFirst",
-            options: {
-              cacheName: "audio",
-              rangeRequests: true,
-              cacheableResponse: { statuses: [0, 200] },
-            },
+            options: AUDIO_CACHE,
           },
         ],
       },

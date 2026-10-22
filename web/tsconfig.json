@@ -12,5 +12,5 @@
     "isolatedModules": true,
     "types": ["vite/client", "vite-plugin-pwa/client"]
   },
-  "include": ["src/**/*", "tests/**/*", "vite.config.ts", "vitest.config.ts"]
+  "include": ["src/**/*", "tests/**/*", "vite.config.ts", "vitest.config.ts", "pwa.config.ts"]
 }

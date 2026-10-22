@@ -7,6 +7,7 @@ from __future__ import annotations
 import bz2
 import csv
 import io
+import logging
 import tarfile
 import time
 from collections.abc import Iterable, Iterator
@@ -16,6 +17,8 @@ from pathlib import Path
 import httpx
 
 from .lemmas import lemma, tokens
+
+log = logging.getLogger(__name__)
 
 ISO3 = {"de": "deu", "hu": "hun", "fr": "fra", "it": "ita"}
 EXPORTS = "https://downloads.tatoeba.org/exports"
@@ -114,9 +117,16 @@ def _stream(url: str, target: Path) -> None:
         "GET", url, headers={"User-Agent": USER_AGENT}, timeout=300, follow_redirects=True
     ) as r:
         r.raise_for_status()
+        if "html" in r.headers.get("content-type", ""):  # a maintenance page served with 200
+            raise OSError(f"{url} answered with a web page, not the file")
         with part.open("wb") as f:
             for chunk in r.iter_bytes():
                 f.write(chunk)
+    with part.open("rb") as f:
+        magic = f.read(3)
+    if target.suffix == ".bz2" and magic != b"BZh":
+        part.unlink()
+        raise OSError(f"{url} is not a bzip2 file")
     part.replace(target)  # never leave a half file that looks complete
 
 
@@ -124,7 +134,13 @@ def download(url: str, target: Path, max_age: float = MAX_AGE, fetch=_stream) ->
     """Fetch into the cache folder; reuse a copy younger than max_age seconds."""
     if not target.exists() or time.time() - target.stat().st_mtime > max_age:
         target.parent.mkdir(parents=True, exist_ok=True)
-        fetch(url, target)
+        try:
+            fetch(url, target)
+        except (OSError, httpx.HTTPError) as e:
+            if not target.exists():
+                raise
+            # A Tatoeba outage must not fail the deploy: a month-old export still works.
+            log.warning("%s unavailable (%s): using the cached copy", url, e)
     return target
 
 

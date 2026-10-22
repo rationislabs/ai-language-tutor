@@ -73,28 +73,32 @@ def render(
     path} for the recordings that fell back)."""
     made, fell = 0, {}
 
-    def write(target: Path, raw: Callable[[], bytes]) -> None:
+    def write(target: Path, mp3: Callable[[], bytes]) -> None:
+        """Via a .part file: a build stopped mid-write (the deploy's timeout) must not leave a
+        truncated MP3 under the final name, which no later build would ever replace."""
         nonlocal made
         if not target.exists():
             target.parent.mkdir(parents=True, exist_ok=True)
-            target.write_bytes(encode(raw()))
+            part = target.with_name(target.name + ".part")
+            part.write_bytes(mp3())
+            part.replace(target)
             made += 1
 
     for item in {i.path: i for i in items}.values():
         if (out / item.path).exists():
             continue
         if not item.tatoeba_audio:
-            write(out / item.path, lambda i=item: synth(i.text, i.voice))
+            write(out / item.path, lambda i=item: encode(synth(i.text, i.voice)))
             continue
-        try:
-            raw = fetch(item.tatoeba_audio)
-        except Exception as e:  # noqa: BLE001 — any fetch failure: Piper speaks it instead
-            log.warning("recording %s unavailable (%s): using Piper", item.tatoeba_audio, e)
+        try:  # the encode too: a 200 with an HTML error page fails in ffmpeg, not in fetch
+            data = encode(fetch(item.tatoeba_audio))
+        except Exception as e:  # noqa: BLE001 — any failure: Piper speaks it instead
+            log.warning("recording %s unusable (%s): using Piper", item.tatoeba_audio, e)
             piper = Item(item.lang, item.text, voice=voice_for(item.lang))
-            write(out / piper.path, lambda i=piper: synth(i.text, i.voice))
+            write(out / piper.path, lambda i=piper: encode(synth(i.text, i.voice)))
             fell[item.path] = piper.path
             continue
-        write(out / item.path, lambda r=raw: r)
+        write(out / item.path, lambda d=data: d)
     return made, fell
 
 

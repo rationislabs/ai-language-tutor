@@ -1,3 +1,5 @@
+import pytest
+
 from tutortools import tatoeba
 from tutortools.tatoeba import Audio
 
@@ -120,3 +122,69 @@ def test_story_overrides_apply_to_gap_sentences():
         "fr", tatoeba.read_sentences(rows), {}, [("chat", "001", known)], {"je": "je"}
     )
     assert plain == [] and [g.sentence_id for g in fixed] == ["8"]
+
+
+def test_an_outage_reuses_a_stale_export(tmp_path):
+    import os
+    import time
+
+    target = tmp_path / "x.bz2"
+    target.write_text("old")
+    old = time.time() - 40 * 86400
+    os.utime(target, (old, old))
+
+    def down(url, target):
+        raise OSError("tatoeba down")
+
+    assert tatoeba.download("u", target, fetch=down) == target
+    assert target.read_text() == "old"
+    with pytest.raises(OSError):
+        tatoeba.download("u", tmp_path / "none.bz2", fetch=down)
+
+
+class _Served:
+    """What httpx.stream gives back: a status of 200 and some body."""
+
+    def __init__(self, body: bytes, content_type: str):
+        self.body, self.headers = body, {"content-type": content_type}
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *a):
+        return False
+
+    def raise_for_status(self):
+        pass
+
+    def iter_bytes(self):
+        yield self.body
+
+
+@pytest.mark.parametrize(
+    "body,content_type",
+    [(b"<!doctype html><p>Maintenance</p>", "text/html; charset=utf-8"), (b"oops", "text/plain")],
+)
+def test_an_error_page_served_with_200_never_replaces_a_good_export(
+    tmp_path, monkeypatch, body, content_type
+):
+    import os
+    import time
+
+    target = tmp_path / "deu_detailed.tsv.bz2"
+    target.write_bytes(b"BZh91AY&SY good")
+    old = time.time() - 40 * 86400
+    os.utime(target, (old, old))
+    monkeypatch.setattr(tatoeba.httpx, "stream", lambda *a, **k: _Served(body, content_type))
+    assert tatoeba.download("u", target) == target
+    assert target.read_bytes() == b"BZh91AY&SY good"
+    assert not target.with_suffix(".bz2.part").exists()
+
+
+def test_a_real_export_still_replaces_the_old_one(tmp_path, monkeypatch):
+    target = tmp_path / "deu_detailed.tsv.bz2"
+    monkeypatch.setattr(
+        tatoeba.httpx, "stream", lambda *a, **k: _Served(b"BZh91AY&SY new", "application/x-bzip2")
+    )
+    tatoeba.download("u", target)
+    assert target.read_bytes() == b"BZh91AY&SY new"

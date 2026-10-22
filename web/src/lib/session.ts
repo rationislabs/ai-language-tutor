@@ -71,6 +71,18 @@ export function upcoming(stories: Story[], id: string, ahead = 2): Story[] {
   return at < 0 ? [] : stories.slice(at, at + 1 + ahead);
 }
 
+/** Recordings to fetch ahead while online: the next stories' sentences and their gap
+ * round's sentences. Audio a player streams is fetched in ranges and never cached. */
+export function audioAhead(content: Content, stories: Story[], id: string): string[] {
+  const next = upcoming(stories, id);
+  const ids = new Set(next.map((s) => s.id));
+  const paths = [
+    ...next.flatMap((s) => s.sentences.map((x) => x.audio)),
+    ...content.gaps.filter((g) => ids.has(g.story)).map((g) => g.audio),
+  ];
+  return paths.filter((p): p is string => !!p);
+}
+
 export function doneSummary(newWords: string[], minutes: number, streakDays: number): string {
   const m = Math.max(1, Math.round(minutes));
   return `Done: ${newWords.length} new words · ${m} minute${m === 1 ? "" : "s"} · ${streakDays}-day streak`;

@@ -6,13 +6,13 @@
   import { AiError, generateStory, MESSAGES, type AiSettings } from "./lib/ai";
   import { prefetch } from "./lib/audio";
   import { loadKey } from "./lib/keys";
-  import { buildGaps, doneSummary, upcoming } from "./lib/session";
+  import { audioAhead, buildGaps, doneSummary } from "./lib/session";
   import { newCard, review, type Outcome } from "./lib/srs";
-  import { DEFAULT_SETTINGS, openStore, streak, type LangSettings, type Progress, type Store } from "./lib/store";
+  import { DEFAULT_SETTINGS, localDay, openStore, streak, trySave, type LangSettings, type Progress, type Store } from "./lib/store";
   import { LANG_NAMES, type Content, type Lang, type Story } from "./lib/types";
 
   type AiConfig = Omit<AiSettings, "key">;
-  const today = () => new Date().toISOString().slice(0, 10);
+  const today = () => localDay(new Date());
   const read = <T,>(key: string, fallback: T): T => {
     try {
       return JSON.parse(localStorage.getItem(key) ?? "null") ?? fallback;
@@ -58,7 +58,7 @@
 
   function openStory(s: Story) {
     open = s;
-    prefetch(upcoming(stories, s.id).flatMap((x) => x.sentences.map((y) => y.audio)));
+    if (content) prefetch(audioAhead(content, stories, s.id));
   }
 
   $effect(() => {
@@ -75,8 +75,8 @@
       minutes: progress.minutes + minutes,
       days: progress.days.includes(today()) ? progress.days : [...progress.days, today()],
     };
-    await store!.saveProgress(lang, $state.snapshot(progress));
-    notice = doneSummary(open?.new_words ?? [], minutes, streak(progress.days, today()));
+    const failed = await trySave(() => store!.saveProgress(lang, $state.snapshot(progress)));
+    notice = failed || doneSummary(open?.new_words ?? [], minutes, streak(progress.days, today()));
     open = null;
   }
 

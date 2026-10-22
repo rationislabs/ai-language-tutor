@@ -41,6 +41,12 @@ ones, and checks it; more than 15 % unknown words → it asks once more, then ma
 passes through us.** The key stays in this tab unless you tick "Remember on this device", and
 is never part of a progress export.
 
+A model on your own computer works too: an address such as `http://localhost:11434/v1`
+(Ollama) or `http://127.0.0.1:1234/v1` (LM Studio). The server must allow requests from this
+site's address (for Ollama, `OLLAMA_ORIGINS`), and Chrome asks once for permission to reach
+your local network. Safari may refuse such an address from an `https://` page. Any other
+address must be `https://`.
+
 ## Run it locally
 
 ```bash
