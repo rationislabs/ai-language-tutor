@@ -30,5 +30,11 @@
     "vite-plugin-pwa": "^2.0.0",
     "vitest": "^5.0.5",
     "wrangler": "4.155.0"
+  },
+  "overrides": {
+    "workbox-build": {
+      "glob": "^14.0.3",
+      "@trickfilm400/rollup-plugin-off-main-thread": "^4.0.0"
+    }
   }
 }

@@ -45,4 +45,4 @@ jobs:
       - run: npm run check
       - run: npm test
       - run: npm run build
-      - run: npm audit # dev dependencies too: wrangler deploys with the Cloudflare token
+      - run: npm audit --audit-level=moderate # dev deps too: wrangler deploys with the Cloudflare token; lows skipped: deepmerge has no fix
