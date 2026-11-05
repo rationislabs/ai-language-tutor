@@ -107,3 +107,5 @@ Port 8443 leaves anything already served at the machine's root address alone; av
   CC BY-SA 4.0.
 
 Contact: [github.com/rationislabs](https://github.com/rationislabs)
+
+This project was built with AI assistance.
